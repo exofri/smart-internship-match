@@ -104,9 +104,15 @@ def search_offers(token, retries=4, backoff=5):
                 headers={"Authorization": f"Bearer {token}"},
                 timeout=(10, 30),
             )
+            print(f"  search attempt {attempt}/{retries}: HTTP {resp.status_code}, "
+                  f"body starts with: {resp.text[:200]!r}")
             # This API returns 206 (Partial Content) with a Content-Range header
-            # on a normal successful paginated response, not just 200 -- treat
-            # both as success, everything else as a real error.
+            # on a normal successful paginated response, and 204 (No Content,
+            # empty body) when the search matched zero offers -- both are
+            # success, not errors, and 204 must be handled before trying to
+            # parse a body that doesn't exist. Anything else is a real error.
+            if resp.status_code == 204:
+                return {"resultats": []}
             if resp.status_code not in (200, 206):
                 resp.raise_for_status()
             return resp.json()
