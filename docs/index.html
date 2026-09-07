@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Smart Internship Match — my search dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
+  .kpis { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0; }
+  .kpi { flex: 1; min-width: 160px; padding: 0.8rem 1rem; border: 1px solid #ccc; border-radius: 8px; }
+  .kpi .value { font-size: 1.6rem; font-weight: bold; color: #0d7c9e; }
+  .kpi .label { font-size: 0.8rem; color: #666; }
+  table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+  th, td { text-align: left; padding: 0.4rem 0.6rem; border-bottom: 1px solid #ddd; font-size: 0.9rem; }
+  .gap-tag { display: inline-block; background: #faf3e8; border: 1px solid #c46e0a; border-radius: 4px; padding: 0 0.4rem; margin: 0 2px; font-size: 0.8rem; }
+  canvas { margin-top: 2rem; }
+  #updated { color: #666; font-size: 0.85rem; }
+</style>
+</head>
+<body>
+  <h1>My internship search — current matches</h1>
+  <p>Ranked by skill match against my own profile. Not a public job board — this is my personal search dashboard.</p>
+  <div class="kpis" id="kpis">Loading...</div>
+  <canvas id="matchChart" height="300"></canvas>
+  <h2>Top skill gaps across all offers</h2>
+  <div id="gaps">Loading...</div>
+  <h2>All offers</h2>
+  <table id="offerTable"><thead><tr><th>Offer</th><th>Company</th><th>Score</th><th>Coverage</th><th>Missing skills</th></tr></thead><tbody></tbody></table>
+  <p id="updated"></p>
+
+<script>
+fetch('data/matches.json')
+  .then(r => r.json())
+  .then(data => {
+    const offers = data.offers || [];
+    if (offers.length === 0) {
+      document.getElementById('kpis').innerHTML = '<p>No offers yet -- run fetch_offers.py, then extract_offers.py, then match_offers.py.</p>';
+      return;
+    }
+    const best = offers[0];
+    const avgCoverage = offers.reduce((s, o) => s + o.coverage, 0) / offers.length;
+
+    document.getElementById('kpis').innerHTML = `
+      <div class="kpi"><div class="value">${data.n_offers}</div><div class="label">Offers tracked</div></div>
+      <div class="kpi"><div class="value">${(best.score*100).toFixed(0)}%</div><div class="label">Best match score</div></div>
+      <div class="kpi"><div class="value">${(avgCoverage*100).toFixed(0)}%</div><div class="label">Average skill coverage</div></div>
+    `;
+    document.getElementById('updated').textContent = `Data last updated ${data.generated_at}`;
+
+    document.getElementById('gaps').innerHTML = (data.top_skill_gaps || [])
+      .map(g => `<span class="gap-tag">${g.skill} (${g.count})</span>`).join(' ') || 'No gaps -- fully matched everything!';
+
+    const tbody = document.querySelector('#offerTable tbody');
+    tbody.innerHTML = offers.map(o => `
+      <tr>
+        <td>${o.title}</td>
+        <td>${o.company || '(not specified)'}</td>
+        <td>${(o.score*100).toFixed(0)}%</td>
+        <td>${(o.coverage*100).toFixed(0)}%</td>
+        <td>${o.gaps.join(', ') || '—'}</td>
+      </tr>`).join('');
+
+    function scoreToColor(t) {
+      const clamped = Math.max(0, Math.min(1, t));
+      return `hsl(${(120*clamped).toFixed(0)}, 70%, 45%)`;
+    }
+    function normalize(values) {
+      const lo = Math.min(...values), hi = Math.max(...values);
+      if (hi === lo) return values.map(() => 0.5);
+      return values.map(v => (v - lo) / (hi - lo));
+    }
+    const colors = normalize(offers.map(o => o.score)).map(scoreToColor);
+
+    new Chart(document.getElementById('matchChart'), {
+      type: 'bar',
+      data: {
+        labels: offers.map(o => o.title),
+        datasets: [{ label: 'Match score', data: offers.map(o => o.score), backgroundColor: colors }]
+      },
+      options: {
+        plugins: {
+          legend: { display: false },
+          title: { display: true, text: 'Offers ranked by match score (green = best fit, red = weakest)' },
+          tooltip: {
+            callbacks: {
+              title: (items) => offers[items[0].dataIndex].title,
+              label: (item) => {
+                const o = offers[item.dataIndex];
+                return [`Company: ${o.company || 'n/a'}`, `Coverage: ${(o.coverage*100).toFixed(0)}%`, `Missing: ${o.gaps.join(', ') || 'none'}`];
+              }
+            }
+          }
+        }
+      }
+    });
+  })
+  .catch(err => {
+    document.getElementById('kpis').innerHTML = '<p>Could not load matches (' + err + ').</p>';
+  });
+</script>
+</body>
+</html>
