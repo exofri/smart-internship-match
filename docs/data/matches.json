@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-09-07T15:20:23Z",
+  "n_offers": 3,
+  "offers": [
+    {
+      "id": "5141222",
+      "title": "Stage Informatique industrielle H/F",
+      "company": null,
+      "location": "29 - Saint-Thégonnec Loc-Eguiner",
+      "rome_code": "M1810",
+      "is_apprenticeship": false,
+      "accessible_disability": false,
+      "required_skills": [
+        "Power BI"
+      ],
+      "responsibilities": [
+        "Participer à la transformation numérique de la sauvegarde des machines de production",
+        "Analyse de l'existant, parc, logiciels et process",
+        "Etudier les normes et les solutions du Groupe à adopter",
+        "Organiser le déploiement",
+        "Adapter et mettre en place le monitoring"
+      ],
+      "score": 0.8,
+      "coverage": 1.0,
+      "matched": [
+        "Power BI"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "6507319",
+      "title": "STAGE / ALTERNANCE  GRAPHISTE - PRODUCTION GRAPHIQUE & DIGITALE (H/F)",
+      "company": "PROFILAE",
+      "location": "95 - Bezons",
+      "rome_code": "M1806",
+      "is_apprenticeship": true,
+      "accessible_disability": false,
+      "required_skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Figma",
+        "Premiere Pro",
+        "colorimétrie",
+        "traitement d'image",
+        "typographie",
+        "mise en page",
+        "identité visuelle"
+      ],
+      "responsibilities": [
+        "Concevoir des visuels destinés aux réseaux sociaux (Instagram, LinkedIn, etc.) dans le respect de la charte graphique.",
+        "Décliner les campagnes de communication sur différents supports digitaux (newsletters, e-mailings, social ads, display etc).",
+        "Créer, adapter et mettre à jour des templates graphiques pour les différents besoins marketing.",
+        "Préparer les éléments graphiques destinés à l'intégration web et garantir leur conformité.",
+        "Collaborer avec les équipes e-commerce, web et marketing afin d'assurer la cohérence des supports de communication.",
+        "Réaliser les retouches de visuels produits, silhouettes et détails.",
+        "Harmoniser les images selon l'identité visuelle et les standards de qualité de la marque.",
+        "Optimiser et préparer les fichiers pour une diffusion sur les supports digitaux et le site e-commerce.",
+        "Veiller à la qualité graphique et à la cohérence visuelle de l'ensemble des contenus produits."
+      ],
+      "score": 0.0,
+      "coverage": 0.0,
+      "matched": [],
+      "gaps": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Figma",
+        "Premiere Pro",
+        "colorimétrie",
+        "traitement d'image",
+        "typographie",
+        "mise en page",
+        "identité visuelle"
+      ]
+    },
+    {
+      "id": "5666086",
+      "title": "Stage de fin d'études / Alternance - Sujet de stage : Management des directions Recherche et Innovation H/F",
+      "company": null,
+      "location": "92 - Nanterre",
+      "rome_code": "M1818",
+      "is_apprenticeship": true,
+      "accessible_disability": false,
+      "required_skills": [
+        "ERP",
+        "EPM",
+        "TMS",
+        "WMS",
+        "CRM",
+        "IoT",
+        "GenAI",
+        "jumeaux numériques",
+        "veille",
+        "formation"
+      ],
+      "responsibilities": [
+        "diagnostic de l'industrialisation de l'innovation",
+        "étude sur les indicateurs de performance et d'évaluation de l'innovation",
+        "mise en place de structures d'open innovation",
+        "accompagnement à la digitalisation de la R&D",
+        "mise en place de business models d'économie circulaire",
+        "atelier d'idéation nouveaux business models et décarbonation de l'industrie",
+        "valoriser les données issues de la veille et de la prospective",
+        "scorer l'innovation d'un point de vue durable",
+        "benchmark sur les pratiques du marché du conseil",
+        "participer à des missions de conseil auprès de clients",
+        "travailler sur des chantiers internes",
+        "être intégré dans une équipe de consultants placée sous la responsabilité d'un directeur de mission"
+      ],
+      "score": 0.0,
+      "coverage": 0.0,
+      "matched": [],
+      "gaps": [
+        "ERP",
+        "EPM",
+        "TMS",
+        "WMS",
+        "CRM",
+        "IoT",
+        "GenAI",
+        "jumeaux numériques",
+        "veille",
+        "formation"
+      ]
+    }
+  ],
+  "top_skill_gaps": [
+    {
+      "skill": "Adobe Photoshop",
+      "count": 1
+    },
+    {
+      "skill": "Adobe Illustrator",
+      "count": 1
+    },
+    {
+      "skill": "Adobe InDesign",
+      "count": 1
+    },
+    {
+      "skill": "Figma",
+      "count": 1
+    },
+    {
+      "skill": "Premiere Pro",
+      "count": 1
+    },
+    {
+      "skill": "colorimétrie",
+      "count": 1
+    },
+    {
+      "skill": "traitement d'image",
+      "count": 1
+    },
+    {
+      "skill": "typographie",
+      "count": 1
+    },
+    {
+      "skill": "mise en page",
+      "count": 1
+    },
+    {
+      "skill": "identité visuelle",
+      "count": 1
+    }
+  ]
+}
