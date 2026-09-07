@@ -32,10 +32,16 @@ SCOPE = "api_offresdemploiv2 o2dsoffre"
 # Edit this to your own search: keywords, commune/department code, radius (km).
 # "stage" is part of the keyword search itself -- see the comment above on why
 # this project does not filter on typeContrat as a hard requirement.
+# SEARCH_PARAMS = {
+#     "motsCles": "data stage",
+#     "commune": "72181",          # INSEE code for Le Mans; change to your target area
+#     "distance": "50",
+#     "sort": "1",                 # sort by date, most recent first
+#     "range": "0-49",             # first 50 results; see note below for more
+# }
+
 SEARCH_PARAMS = {
-    "motsCles": "data stage",
-    "commune": "72181",          # INSEE code for Le Mans; change to your target area
-    "distance": "50",
+    "motsCles": "stage informatique",
     "sort": "1",                 # sort by date, most recent first
     "range": "0-49",             # first 50 results; see note below for more
 }
