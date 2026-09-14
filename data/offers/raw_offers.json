@@ -1,11 +1,50 @@
 {
-  "fetched_at": "2026-09-07T15:04:03Z",
+  "fetched_at": "2026-09-14T13:25:13Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
     "range": "0-49"
   },
   "offers": [
+    {
+      "id": "6846852",
+      "intitule": "Stage - Ingénieur R&D / Développement Microsoft & IA - Colomiers H/F",
+      "description": "Le projet consiste à développer un outil d'intelligence artificielle sécurisé dans l'environnement Microsoft. Cet outil automatisera la création de nos propositions commerciales en combinant les demandes des clients et nos données internesp>Le stagiaire participera activement aux missions suivantesp>Explorer et prendre en main l'environnement Microsoft (Copilot, Power Platform, Azurep>Contribuer à l'étude de l'état de l'art en collaboration avec un développeur en interne  Identifier des axes d'amélioration des processus internes  Participer à la conception et au développement de solutions techniques innovantes  Mettre en place et suivre les phases de test  Produire de la documentation technique Phase d'intégration : Découverte de l'environnement technique et des standards internes  Montée en compétence sur les outils Microsoft (Copilot, Power FX, Azurep>Phase de contribution : Coordination avec le développeur basé en Inde (en anglaisp>Participation à la recherche et à l'analyse des solutions existantes  Proposition d'améliorations sur les processus et outils  Phase de réalisation : Développement de solutions techniques (Python, Power FXp>Contribution aux tests et à la validation  Rédaction de livrables techniques ",
+      "dateCreation": "2026-09-12T11:52:15.020Z",
+      "dateActualisation": "2026-09-12T11:52:15.020Z",
+      "lieuTravail": {
+        "libelle": "31 - Colomiers",
+        "codePostal": "31770",
+        "commune": "31149"
+      },
+      "romeCode": "M1827",
+      "romeLibelle": "Ingénieur / Ingénieure DevOps",
+      "appellationlibelle": "Ingénieur / Ingénieure développement logiciel informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6846852",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55568179?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "6507319",
       "intitule": "STAGE / ALTERNANCE  GRAPHISTE - PRODUCTION GRAPHIQUE & DIGITALE (H/F)",
