@@ -1,11 +1,135 @@
 {
-  "fetched_at": "2026-09-14T13:25:13Z",
+  "fetched_at": "2026-09-21T13:24:53Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
     "range": "0-49"
   },
   "offers": [
+    {
+      "id": "7010311",
+      "intitule": "Stage - Développement de géométries 2D dans NEMESI F/H",
+      "description": "Framatome est un leader international de l'énergie nucléaire, reconnu pour ses solutions innovantes et digitales, ses technologies à forte valeur ajoutée à destination du parc nucléaire mondial. Forte d'une expertise mondiale et de solides références en termes de fiabilité et de performances, l'entreprise conçoit, entretient et installe des composants et des combustibles ainsi que des systèmes de contrôle-commande pour les centrales nucléaires.\n\nVous serez intégré(e) au département en charge du développement et de la validation physique de codes et méthodes utilisés pour dimensionner le coeur des réacteurs et en démontrer la sûreté.\nMissions / Descriptif du stage :\nAPOLLO3® est le nouveau code nucléaire déterministe actuellement développé par le CEA dans le cadre de simulations neutroniques haute-fidélité, aussi bien à l'échelle du réseau (lattice) qu'à l'échelle du coeur. NEMESI est un prototype de plateforme industrielle conçue pour les calculs réseau et la génération de bibliothèques de données multiparamétriques destinées aux calculs de coeur avec APOLLO3®.\nBien qu'APOLLO3® propose une méthode « native » de génération de géométries, certaines configurations complexes ne peuvent pas être représentées de cette manière. APOLLO3® intègre déjà un outil externe conçu pour ce type de géométries, appelé ALAMOS.\nDans le cadre de l'industrialisation d'APOLLO3®, NEMESI est co-développé par EDF et Framatome et vise à simplifier la préparation des calculs de réseau, tant pour les utilisateurs novices que pour les plus avancés.\nLa mission principale de ce stage consistera à poursuivre le développement de deux modules Python destinés à la génération de géométries de coeur 2D complètes, y compris des réflecteurs analytiques 2D. Ces modules Python devront être intégrés au flux de travail de NEMESI afin de permettre la génération à la volée de géométries complexes, soit à l'aide de la méthode native proposée par APOLLO3®, soit via l'interface proposée par ALAMOS.\nLe/la stagiaire sera notamment amené(e) à :\n- Concevoir l'architecture, développer de nouvelles fonctionnalités et intégrer les modules dans NEMESI,\n- Tester et valider ses développements à l'aide de géométries déjà définies et validées,\n- Rédiger la documentation associée.\n\nVous préparez un diplôme de niveau Bac +5 en école d'ingénieurs ou équivalent universitaire, idéalement avec une spécialisation en informatique.\nDynamique et autonome, vous appréciez le travail en équipe et faites preuve d'une bonne capacité d'écoute. Force de proposition, vous savez communiquer sur l'avancement de vos travaux et rédiger une documentation claire et structurée.\nCompétences requises :\nExpérience en développement Python, idéalement sur des projets de taille conséquente\nCompétences en conception logicielle\nMaîtrise des outils de gestion de versions, notamment Git\nFamiliarité avec les environnements Linux et les interfaces en ligne de commande (Bash)\nDes connaissances en neutronique sont appréciées\nNiveau d'anglais intermédiaire",
+      "dateCreation": "2026-09-19T00:33:06.289Z",
+      "dateActualisation": "2026-09-19T00:33:06.289Z",
+      "lieuTravail": {
+        "libelle": "92 - Courbevoie",
+        "codePostal": "92400",
+        "commune": "92026"
+      },
+      "romeCode": "M1841",
+      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "appellationlibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "entreprise": {
+        "nom": "Framatome"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat apprentissage",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {
+        "libelle": "Annuel de 12600.0 Euros à 17400.0 Euros"
+      },
+      "alternance": true,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "62.09Z",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Autres activités informatiques",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7010311",
+        "partenaires": [
+          {
+            "nom": "BROADBEAN",
+            "url": "https://www.aplitrak.com/?adid=UEFSSVMuMzA0OTYuNjcwNkBmcmFtYXRvbWUuYXBsaXRyYWsuY29t",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "6936547",
+      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Management des directions Recherche et Innovation H/F",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise Wavestone recherche actuellement des profils : Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Workp>Pour plus d'informations, consulter www.wavestone.com.Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Les directions Recherche & Innovation (R&I) sont aujourd'hui confrontées à des défis majeurs : démontrer leur valeur, accélérer la mise sur le marché des innovations, tirer parti de l'IA et de la donnée, renforcer leurs écosystèmes et intégrer les enjeux de durabilité au cœur de leurs démarches. Au sein de l'offre Stratégie et Management R&I de Wavestone, nous accompagnons les grandes entreprises industrielles et technologiques dans la transformation de leurs activités d'innovation, de la définition de la stratégie jusqu'à la mise en œuvre opérationnelle. Notre accompagnement s'articule autour de 6 piliers complémentaires : Stratégie, pilotage et performance de l'innovation : définir les feuilles de route R&I, mesurer la création de valeur, optimiser les portefeuilles de projets et mettre en place des dispositifs de pilotage performants. Open innovation et financement : développer les écosystèmes d'innovation, structurer les partenariats avec les startups, laboratoires et institutions, et mobiliser les dispositifs de financement publics et privés. Produits et services innovants : faire émerger, expérimenter et industrialiser de nouvelles offres, depuis l'idéation et le prototypage jusqu'au déploiement à grande échelle. Data & IA au service de la R&I : valoriser la donnée, déployer l'intelligence artificielle générative, digitaliser les activités de recherche et construire des organisations davantage pilotées par les données. Acculturation et transformation : faire évoluer les organisations, les compétences et les modes de travail pour diffuser une culture de l'innovation durable et collaborative. Innovation durable : intégrer les enjeux environnementaux et sociétaux dans les stratégies d'innovation, développer l'éco-innovation et imaginer les business models de demain. Objectifs et exemples de travaux à réaliser Ce stage/cette alternance vise à structurer et produire une connaissance et un savoir-faire de premier plan sur un ou plusieurs leviers listés ci-dessus. Les résultats devront apporter à Wavestone des atouts différenciants sur le marchp>Dans ce cadre, sous l'encadrement d'un tuteur et d'un sponsor de l'offre « Stratégie et management R&Ivous serez amené.e à travailler sur le type de problématiques présentées ci-dessousp>Stratégie & performance : Comment restituer la valeur de la R&D dans un environnement industrielp>Data & IA : AI Agents : Demain, un chercheur aura-t-il son copilote scientifique ? Innovation durable : Comment scorer l'innovation d'un point de vue durable ? Open innovation : Benchmark sur les dispositifs partagés d'innovation sur la data de demain Exemples de sujets donnés à titre illustratif, liste non exhaustive En parallèle, vous participerez potentiellement à une ou plusieurs missions de conseil auprès de nos clients, en étant intégré...",
+      "dateCreation": "2026-09-16T13:47:45.332Z",
+      "dateActualisation": "2026-09-16T13:47:45.332Z",
+      "lieuTravail": {
+        "libelle": "92 - Nanterre",
+        "codePostal": "92000",
+        "commune": "92050"
+      },
+      "romeCode": "M1818",
+      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure d'étude en informatique de gestion",
+      "entreprise": {},
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 12 Mois",
+      "natureContrat": "Cont. professionnalisation",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": true,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6936547",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56366653?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "6932964",
+      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Management des directions Recherche et Innovation H/F",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise Wavestone recherche actuellement des profils : Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Workp>Pour plus d'informations, consulter www.wavestone.com.Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Les directions Recherche & Innovation (R&I) sont aujourd'hui confrontées à des défis majeurs : démontrer leur valeur, accélérer la mise sur le marché des innovations, tirer parti de l'IA et de la donnée, renforcer leurs écosystèmes et intégrer les enjeux de durabilité au cœur de leurs démarches. Au sein de l'offre Stratégie et Management R&I de Wavestone, nous accompagnons les grandes entreprises industrielles et technologiques dans la transformation de leurs activités d'innovation, de la définition de la stratégie jusqu'à la mise en œuvre opérationnelle. Notre accompagnement s'articule autour de 6 piliers complémentaires : Stratégie, pilotage et performance de l'innovation : définir les feuilles de route R&I, mesurer la création de valeur, optimiser les portefeuilles de projets et mettre en place des dispositifs de pilotage performants. Open innovation et financement : développer les écosystèmes d'innovation, structurer les partenariats avec les startups, laboratoires et institutions, et mobiliser les dispositifs de financement publics et privés. Produits et services innovants : faire émerger, expérimenter et industrialiser de nouvelles offres, depuis l'idéation et le prototypage jusqu'au déploiement à grande échelle. Data & IA au service de la R&I : valoriser la donnée, déployer l'intelligence artificielle générative, digitaliser les activités de recherche et construire des organisations davantage pilotées par les données. Acculturation et transformation : faire évoluer les organisations, les compétences et les modes de travail pour diffuser une culture de l'innovation durable et collaborative. Innovation durable : intégrer les enjeux environnementaux et sociétaux dans les stratégies d'innovation, développer l'éco-innovation et imaginer les business models de demain. Objectifs et exemples de travaux à réaliser Ce stage/cette alternance vise à structurer et produire une connaissance et un savoir-faire de premier plan sur un ou plusieurs leviers listés ci-dessus. Les résultats devront apporter à Wavestone des atouts différenciants sur le marchp>Dans ce cadre, sous l'encadrement d'un tuteur et d'un sponsor de l'offre « Stratégie et management R&Ivous serez amené.e à travailler sur le type de problématiques présentées ci-dessousp>Stratégie & performance : Comment restituer la valeur de la R&D dans un environnement industrielp>Data & IA : AI Agents : Demain, un chercheur aura-t-il son copilote scientifique ? Innovation durable : Comment scorer l'innovation d'un point de vue durable ? Open innovation : Benchmark sur les dispositifs partagés d'innovation sur la data de demain Exemples de sujets donnés à titre illustratif, liste non exhaustive En parallèle, vous participerez potentiellement à une ou plusieurs missions de conseil auprès de nos clients, en étant intégré...",
+      "dateCreation": "2026-09-16T12:46:47.411Z",
+      "dateActualisation": "2026-09-16T12:46:47.411Z",
+      "lieuTravail": {
+        "libelle": "92 - Nanterre",
+        "codePostal": "92000",
+        "commune": "92050"
+      },
+      "romeCode": "M1818",
+      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure d'étude en informatique de gestion",
+      "entreprise": {},
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 12 Mois",
+      "natureContrat": "Cont. professionnalisation",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": true,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6932964",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56366653?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "6846852",
       "intitule": "Stage - Ingénieur R&D / Développement Microsoft & IA - Colomiers H/F",
@@ -88,45 +212,6 @@
           "35H/semaine\nTravail en journée"
         ]
       },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "5666086",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Management des directions Recherche et Innovation H/F",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise Wavestone recherche actuellement des profils : Description de l'entrepriseRejoignez un cabinet de conseil international qui accompagne les grandes transformations stratégiques. Nous sommes Wavestone : des expert-es passionné-es et orienté-es solutions, qui placent l'humain au cœur de la performance et de la croissance. Ambitieux-ses et en pleine expansion, nous développons sans cesse notre portefeuille de clients et de projets, avec une portée internationale et une réelle volonté de générer un impact positif. Êtes-vous un vrai team player, porté par des valeurs fortestes-vous curieux-se et déterminé-e, avec l'envie d'apprendre chaque jour ? Êtes-vous du genre à relever les défis sans hésiter ? Alors vous êtes au bon endroit. Rejoignez Wavestone et exprimez votre potentiel dans un environnement stimulant et collaboratif, où l'on transforme les défis d'aujourd'hui en opportunités de demain. Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Contexte du stage/de l'alternance Avec son offreStratégie et management R&D&Iles équipes Wavestone de la practice TIME (Transport, Infrastructure, Manufacturing & Energy) accompagnent leurs clients dans les transformations suivantesp>La Performance et industrialisation de la RD&I Exemple de missions : diagnostic de l'industrialisation de l'innovation, étude sur les indicateurs de performance et d'évaluation de l'innovation La transformation et la digitalisation de la RD&I Exemple de missions : mise en place de structures d'open innovation, accompagnement à la digitalisation de la R&Ip>Les business models innovants et le développement durable Exemple de missions : Mise en place de business models d'économie circulaire, atelier d'idéation nouveaux business models et décarbonation de l'industrie Objectifs et exemples de travaux à réaliser Ce stage / cette alternance vise à structurer et produire une connaissance et un savoir-faire de premier plan sur un ou plusieurs leviers listés ci-dessus. Les résultats devront apporter à Wavestone des atouts différenciants sur le marchp>Dans ce cadre, sous l'encadrement d'un tuteur et d'un sponsor de l'offre « Stratégie et management R&D&Ivous serez amené.e à travailler sur le type de problématiques présentées ci-dessousp>Comment valoriser les données issues de la veille et de la prospective Innovation F/RSE : Comment scorer l'innovation d'un point de vue durable ? Accompagnement Innovation, réalisation d'un benchmark sur les pratiques du marché du conseil Exemples de sujets donnés à titre illustratif, liste non exhaustive En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de propositionp>Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoindre nos équipes et postulez ! Informations supplémentairesNos stages et alternance s'inscrivent tous dans une logique de pré-embauche.Wavestone est un employeur inclusif qui s'engage pour l'égalité des chances. Dans le cadre de cette politique de diversité et inclusion, Wavestone accompagne les personnes en situation de handicap et/ou nécessitant un aménagement durant leur process de recru...",
-      "dateCreation": "2026-08-01T11:57:27.046Z",
-      "dateActualisation": "2026-08-01T11:57:27.046Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1818",
-      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
-      "appellationlibelle": "Ingénieur / Ingénieure d'étude en informatique de gestion",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Cont. professionnalisation",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5666086",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/55877435?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
       "entrepriseAdaptee": false,
       "employeurHandiEngage": false
     },
