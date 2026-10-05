@@ -1,11 +1,206 @@
 {
-  "fetched_at": "2026-09-28T14:35:53Z",
+  "fetched_at": "2026-10-05T15:20:27Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
     "range": "0-49"
   },
   "offers": [
+    {
+      "id": "7557397",
+      "intitule": "Stage : Ingénieur/e plateforme IP V6 - Défense & Sécurité - Le Plessis-Robinson H/F",
+      "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.Actuellement, le système VCS est compatible IP V6, mais l'exigence n'a pas encore été formellement démontrée. Il s'agira de monter une plateforme représentative de notre système et vérifier le bon fonctionnement en mode IP V6 :Vos missions :Concevoir la plateforme et la configurer,Installer les logiciels,Avec les équipes logicielles, corriger les éventuels problèmes détectés,Participer avec Eurocontrol aux Plug Test IP V6 en juin .Environnement techniqueVoIP,Réseau,Contrôle Aérien,Conteneurisation.",
+      "dateCreation": "2026-10-01T12:13:28.681Z",
+      "dateActualisation": "2026-10-01T12:13:28.681Z",
+      "lieuTravail": {
+        "libelle": "92 - Plessis-Robinson",
+        "codePostal": "92350",
+        "commune": "92060"
+      },
+      "romeCode": "M1884",
+      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
+      "appellationlibelle": "Ingénieur(e) systèmes réseaux sécurité informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7557397",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56550480?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7557351",
+      "intitule": "Stage Ingénieur/e IA - Reinforcement Learning - Défense & Sécurité - Aix-en-Provence H/F",
+      "description": "Au sein de la BU Défense & Sécurité de CS GROUP, l'agence Systèmes Opérationnels et Interopérabilité d'Aix-en-Provence recherche un stagiaire de niveau Bac+5 issu d'une école d'ingénieurs.Le stage porte sur la poursuite du développement d'un produit intégrant une intelligence artificielle stratégique dans un simulateur de vol aérien.Ce produit permet de piloter des avions et/ou des drones au sein d'un environnement CGF (Computer Generated Forces) dans le cadre de scénarios de combat BVR (Beyond Visual Range). L'IA sélectionne les stratégies à appliquer et pilote en temps réel les différentes plateformes aériennes. Elle prend en compte les paramètres clés du combat, analyse la situation tactique et assigne intelligemment les avions d'une même équipe aux différentes cibles en fonction de leur importance et du contexte opérationnel.MissionsEncadré par un ingénieur IA spécialiste du produit, le stagiaire participera notammentp>Développer de nouvelles fonctionnalités en Python Faire évoluer l'interface front-end en React Réaliser des entraînements dans un environnement existant avec Stable-Baselines3 Développer et améliorer des stratégies de Reinforcement Learning Renforcer la compréhension et la prise de décision de l'IA dans des situations de combat BVR Développer des modèles multi-agents Évaluer, comparer et améliorer les performances des différentes stratégies Intégrer les nouveaux modèles et fonctionnalités dans le produit",
+      "dateCreation": "2026-10-01T12:13:26.900Z",
+      "dateActualisation": "2026-10-01T12:13:26.900Z",
+      "lieuTravail": {
+        "libelle": "13 - Aix-en-Provence",
+        "codePostal": "13080",
+        "commune": "13001"
+      },
+      "romeCode": "M1882",
+      "romeLibelle": "Architecte sécurité informatique",
+      "appellationlibelle": "Architecte sécurité informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7557351",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56550473?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7556185",
+      "intitule": "Stage : Ingénieur/e Intégration et Automatisation Linux - Défense & Sécurité - Le Plessis Robinson H/F",
+      "description": "Dans le cadre du renforcement de nos activités d'ingénierie système, nous recherchons un stagiaire de fin d'études souhaitant développer ses compétences sur les environnements Linux, l'automatisation et l'intégration technique en environnement durci au niveau sécurité avec MCO et MCS. Le stage permettra une immersion dans des projets à forte composante technique au sein d'une équipe expérimentée.Missions:Participation à l'installation et la configuration d'environnements Linux.Développement de scripts d'automatisation (Shell, Python).Réalisation de tests techniques et qualification de solutions.Analyse et résolution d'anomalies.Participation à l'amélioration continue des processus d'intégration et de déploiement.Rédaction de documentation technique.Observation des différentes missions autres sur le projetEnvironnement technique: Linux, scripting Shell/Python, Git, réseau TCP/IP, virtualisation.Une connaissance des pratiques DevOps ou cybersécurité est un plus.",
+      "dateCreation": "2026-10-01T12:12:31.156Z",
+      "dateActualisation": "2026-10-01T12:12:31.156Z",
+      "lieuTravail": {
+        "libelle": "92 - Plessis-Robinson",
+        "codePostal": "92350",
+        "commune": "92060"
+      },
+      "romeCode": "M1884",
+      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
+      "appellationlibelle": "Ingénieur(e) systèmes réseaux sécurité informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7556185",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56458588?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7557398",
+      "intitule": "Stage : Ingénieur/e Système - Défense & Sécurité - Le Plessis-Robinson H/F",
+      "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.Accompagner d'un ingénieur système confirmé, il s'agira de mener les mêmes mission qu'un ingénieur système, pour participer à la réalisation d'un VCS (Voice Communication Système) dans le domaine du contrôle aérien.Vos missions :Rédiger les exigences systèmes (SSS),Participer à la conception système : niveau système, logique, physique,Définition des exigences d'interfaces,Accompagner les équipes de développement logiciel et les équipes d'intégration/validation système dans la prise en main de la fonction système...Environnement techniqueVoIPContrôle AérienHaute disponibilitéConteneurisationOutils : ALM, Capella",
+      "dateCreation": "2026-10-01T12:13:28.679Z",
+      "dateActualisation": "2026-10-01T12:13:28.679Z",
+      "lieuTravail": {
+        "libelle": "92 - Plessis-Robinson",
+        "codePostal": "92350",
+        "commune": "92060"
+      },
+      "romeCode": "M1884",
+      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7557398",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56550481?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7557384",
+      "intitule": "Stage : Ingénieur/e Sécurisation de la téléphonie - Défense & Sécurité - Le Plessis-Robinson H/F",
+      "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.Vous rejoindrez une équipe de 5 à 10 personnes, intégrant des développeurs, des valideurs, des ingénieurs systèmes et des experts en systèmes de communication vocaux (VCS).Vos missions :Analyser la mise en œuvre d'une solution de SBC (Session Border Control)  en mode cluster permettant de sécuriser les communications entre deux réseaux,Contrainte vis-à-vis de nos systèmes et du raccordement réseau, montage de la plate-forme de test,Test de la solution dans un environnement simulant l'environnement d'interconnexion téléphonique d'Eurocontrol,Performance de la haute-disponibilité (délai, perte éventuelle d'appel),Analyse des qualités et défauts de la solution => proposition d'amélioration de notre infrastructure réseau et applicative...Environnement techniqueHTTPSVoIP,SIP, proxy-SIP,Pare-feu ",
+      "dateCreation": "2026-10-01T12:13:28.140Z",
+      "dateActualisation": "2026-10-01T12:13:28.140Z",
+      "lieuTravail": {
+        "libelle": "92 - Plessis-Robinson",
+        "codePostal": "92350",
+        "commune": "92060"
+      },
+      "romeCode": "M1884",
+      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7557384",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56550478?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "7425425",
       "intitule": "Stage Business Analyst - Défense & Sécurité - Lille H/F",
@@ -413,52 +608,6 @@
         ]
       },
       "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "6507319",
-      "intitule": "STAGE / ALTERNANCE  GRAPHISTE - PRODUCTION GRAPHIQUE & DIGITALE (H/F)",
-      "description": "RESPONSABILITÉS : \n\nIntégré(e) à l'équipe Création et rattaché(e) au Directeur Artistique, vous participez à la production graphique de la marque et contribuez au déploiement de son identité visuelle sur l'ensemble des supports digitaux et print.\nCréation graphique & communication digitale\n - Concevoir des visuels destinés aux réseaux sociaux (Instagram, LinkedIn, etc.) dans le respect de la charte graphique.\n - Décliner les campagnes de communication sur différents supports digitaux (newsletters, e-mailings, social ads, display etc).\n - Créer, adapter et mettre à jour des templates graphiques pour les différents besoins marketing.\n - Préparer les éléments graphiques destinés à l'intégration web et garantir leur conformité.\n - Collaborer avec les équipes e-commerce, web et marketing afin d'assurer la cohérence des supports de communication.\nRetouche photo & traitement d'images\n - Réaliser les retouches de visuels produits, silhouettes et détails.\n - Harmoniser les images selon l'identité visuelle et les standards de qualité de la marque.\n - Optimiser et préparer les fichiers pour une diffusion sur les supports digitaux et le site e-commerce.\n - Veiller à la qualité graphique et à la cohérence visuelle de l'ensemble des contenus produits.\n\nPROFIL RECHERCHÉ : \n\n - Vous préparez une formation en graphisme, design graphique, communication visuelle ou équivalent.\n - Vous maîtrisez les outils Adobe Photoshop, Illustrator, InDesign, Figma et avez des notions sur Premiere Pro.\n - Vous connaissez les supports de communication digitaux et print (réseaux sociaux, newsletters, e-mailings, site web, campagnes publicitaires).\n - Vous possédez des compétences en retouche photo (colorimétrie, traitement d'image) et êtes sensible à la typographie, à la mise en page et au respect de l'identité visuelle.\nVos atouts :\n - Sens esthétique et souci du détail.\n - Créativité, curiosité et force de proposition.\n - Esprit d'équipe et bon relationnel.\n - Intérêt pour les univers de la mode, du premium et du lifestyle.",
-      "dateCreation": "2026-09-02T04:32:05.291Z",
-      "dateActualisation": "2026-09-02T04:32:05.291Z",
-      "lieuTravail": {
-        "libelle": "95 - Bezons",
-        "codePostal": "95870",
-        "commune": "95063"
-      },
-      "romeCode": "M1806",
-      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
-      "appellationlibelle": "Consultant / Consultante en accessibilité numérique",
-      "entreprise": {
-        "nom": "PROFILAE"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6507319",
-        "partenaires": [
-          {
-            "nom": "BEETWEEN",
-            "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/ie3shckjjf8/stage-alternance-graphiste-production-graphique-digitale",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-          }
-        ]
-      },
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
       "entrepriseAdaptee": false,
       "employeurHandiEngage": false
     },
