@@ -1,11 +1,232 @@
 {
-  "fetched_at": "2026-10-05T15:20:27Z",
+  "fetched_at": "2026-10-12T16:12:08Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
     "range": "0-49"
   },
   "offers": [
+    {
+      "id": "7861465",
+      "intitule": "STAGE - Ingénieur(e) IA & Cybersécurité - Classification de Documents F/H",
+      "description": "Contexte & Enjeux du projet :\n\nDans le cadre de nos travaux d'innovation sur la Data-Centric Security (DCS), la protection des données repose sur une qualification et une classification précises des informations traitées.\n\nL'objectif de ce stage est d'étudier et d'évaluer l'apport de l'intelligence artificielle (IA) à la classification de sécurité des documents. Vous développerez un PoC local capable de proposer une classification adaptée à partir du contenu et du contexte d'un document, d'expliquer sa décision et de détecter les cas ambigus nécessitant une validation humaine.\n\nVos missions :\n\nSous la responsabilité et l'accompagnement direct de notre Équipe Architecture Cybersécurité, vous interviendrez sur l'ensemble de la démarche R&D :\n\n- État de l'art & Analyse : Étudier les approches pertinentes pour la classification (systèmes à base de règles, classifieurs sémantiques et modèles de langage exécutés localement).\n\n- Définition du cadre d'expérimentation : Définir la politique de classification expérimentale en concertation avec votre encadrant.\n\n- Constitution du jeu de données : Constituer un corpus synthétique annoté intégrant des cas simples, des cas contextuels et des cas ambigus.\n\n- Benchmarking & Analyse comparative : Comparer les différentes méthodes selon plusieurs critères (taux de sous-classification/surclassification, qualité et intelligibilité des justifications, temps de traitement).\n\n- Développement du PoC : Concevoir et développer un démonstrateur sous Python permettant de proposer, expliquer et faire valider une classification.\n\n- Restitution & Documentation : Présenter les résultats, la démonstration finale, les limites identifiées et former des recommandations pour la suite du projet.\n\nLivrables clés attendus : Corpus annoté, benchmark comparatif des méthodes, PoC documenté et démonstration finale.\n  \n Votre profil :\n\nVous préparez un diplôme de niveau Bac +5 (dernière année d'école d'ingénieurs ou Master 2) en informatique, intelligence artificielle ou cybersécurité.\n\nCompétences techniques :\n\n- Bonne maîtrise du langage Python.\n\n- Solides connaissances en apprentissage automatique (Machine Learning) et traitement automatique du langage naturel (NLP).\n\n- Pratique des outils Git et de l'environnement Linux.\n\n- Un plus apprécié : Expérience avec la bibliothèque PyTorch, l'architecture Transformers ou l'exécution locale de LLM.\n\n- Note : Une expertise préalable sur la Data-Centric Security (DCS) n'est pas requise pour ce stage.\n\n- Qualités personnelles : Rigueur expérimentale, curiosité technique, esprit critique et capacite à expliquer des choix d'IA (explicabilité).\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.\n",
+      "dateCreation": "2026-10-12T14:33:59.052Z",
+      "dateActualisation": "2026-10-12T14:33:59.052Z",
+      "lieuTravail": {
+        "libelle": "92 - Issy-les-Moulineaux",
+        "codePostal": "92130",
+        "commune": "92040"
+      },
+      "romeCode": "M1802",
+      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
+      "appellationlibelle": "Ingénieur / Ingénieure sécurité informatique",
+      "entreprise": {
+        "nom": "MOSS"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "74.90B",
+      "secteurActivite": "74",
+      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7861465",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=55+pdHVW2ZATUfywFeW12g==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7838455",
+      "intitule": "Stage - Gestion et modernisation des Cartes SIM et eSIM F/H",
+      "description": "La Direction Technique d'Orange France regroupe les activités d'ingénierie, de déploiement, d'exploitation et d'intervention sur les réseaux, les services et les infrastructures.\n\nAu sein de la DTOF, la direction Plateformes de services (PFS) est au service de la stratégie d'opérateur multi-services d'Orange France :  TV (direct, VOD, replay), mail & webmail, compte client, services SIM, services financiers, services de vidéo-surveillance, ...), et cela, pour des millions d'utilisateurs.\n\nLa direction porte les enjeux de production, d'exploitation des services, de qualité de service offerte et perçue par nos clients, de leur performance, de leur sécurité et de leur optimisation économique.\nParmi nos projets, l'équipe Projet et Expertise applications, esim et device prend en charge le pilotage des projets d'upgrade et de migration des plateforme OTA d'Orange.\n\nCes plateformes permettent la mise à jour du contenu des cartes SIM/Esim à distance. Elles sont utilisées aussi pour gérer des services et des opérations pour Orange et pour ses clients comme le Steering du Roaming, les campagnes selon les besoins marketing/clients et le service Mobile Connect.\nNous sommes une équipe polyvalente : Responsables Techniques de Solution, Intégrateurs et Valideurs.\n\nNous sommes un collectif solidaire, prêt à t'accompagner. S'il te manque certaines compétences, tu te formeras avec nous. \n\n        Tu es à la croisée des chemins : tu es une passerelle entre le monde business et les experts techniques.\n\nTu as une vue du service de bout en bout.\n\nTu es en contact avec de multiples équipes, entités et fournisseurs.\n\nTu es intégré dans une équipe en évolution, avec une intention de tendre vers un modèle build/run intégré.\n  \n Il s'agit d'un stage de 6 mois à partir de janvier 2027.\n\nTu prépares un diplôme d'ingénieur ou équivalent de niveau Bac+5 idéalement en télécoms ou informatique, pour rejoindre notre équipe chargée des projets de mise à jour et de migration des plateformes OTA d'Orange.\n\nTu as des connaissances sur les API REST/CLOUD, et des familiarités avec les outils et pratiques DevOps (CI/CD, Git,Bruno, Kubernetes). Tu as une appétence pour les télécoms et les réseaux. Tu fais preuve de curiosité, d'ouverture au changement, d'assertivité et tu es force de proposition.\nTu sais t'affirmer et mobiliser tes interlocuteurs. Il faut une certaine posture de chef(fe) de projet.\n\nPour information, nous ne proposons pas de stage alterné (ni de stage avec trois interruptions ou plus) et nos stages ne peuvent pas être convertis en alternance (la campagne d'alternance commencera vers mars).",
+      "dateCreation": "2026-10-10T14:34:16.244Z",
+      "dateActualisation": "2026-10-10T14:34:16.244Z",
+      "lieuTravail": {
+        "libelle": "92 - Châtillon",
+        "codePostal": "92320",
+        "commune": "92020"
+      },
+      "romeCode": "M1841",
+      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "appellationlibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "entreprise": {
+        "nom": "Orange SA"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "61.10Z",
+      "secteurActivite": "61",
+      "secteurActiviteLibelle": "Télécommunications filaires",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7838455",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=8g1Y08pNbzUb6MWH+D6xxg==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7773944",
+      "intitule": "STAGE MARKETING COMMERCIAL & BUSINESS ANALYST H/F",
+      "description": "Le poste de STAGE MARKETING COMMERCIAL & BUSINESS ANALYST H/FNous recherchons, pour AUTODISTRIBUTION SMAG, site de BEUVRY (62), un :STAGIAIRE MARKETING COMMERCIAL & BUSINESS ANALYST H/FDurée de 6 mois / Bac +2 à Bac +5Basé à Beuvry / Déplacements ponctuels possiblesRattaché(e) à la direction commerciale, vous contribuerez directement à la performance commerciale de l'entreprise en accompagnant les managers commerciaux dans leurs analyses, leurs actions marketing et le déploiement d'opérations terrain.Vous recherchez un stage concret, responsabilisant et formateur où vos idées auront un impact réel ? Alors cette opportunité est faite pour vous.Vos missionsAnalyse de la performance commercialeConstruire et mettre à jour des tableaux de bord de suivi des ventes.Analyser les performances par secteur, client, famille de produits ou commercial.Identifier les leviers de croissance et les opportunités de développement.Réaliser des études ponctuelles pour aider à la prise de décision.Business AnalystExploiter les données commerciales et marketing.Produire des reportings réguliers à destination de la Direction.Mesurer l'efficacité des actions commerciales et promotions.Participer à l'amélioration des outils de pilotage et des KPI.Marketing CommercialParticiper à la conception et au déploiement d'opérations commerciales.Préparer les supports de communication destinés aux équipes et aux clients.Contribuer à l'organisation d'événements, animations commerciales et challenges.Assurer le suivi des actions et la mesure des résultats.Communication & PrésentationsRéaliser des présentations PowerPoint pour les réunions commerciales, CODIR et conventions.Mettre en forme les résultats et recommandations de façon claire et impactante.Créer des supports visuels professionnels pour accompagner les projets de développement.Gestion de projetsAccompagner le déploiement de nouveaux outils ou processus commerciaux.Coordonner certaines actions entre les équipes commerciales, marketing et opérationnelles.Assurer le suivi des plans d'action jusqu'à leur mise en œuvre.Le profil recherchéProfil recherchéÉtudiant(e) en École de Commerce, IAE ou Université (Bac +2 à Bac +5).Forte appétence pour le commerce, l'analyse et le marketing.Aisance avec Excel, PowerPoint et les outils bureautiques.Esprit analytique et goût des chiffres.Curieux(se), autonome et force de proposition.Excellent relationnel et capacité à travailler avec des interlocuteurs variés.Les plusMaîtrise avancée d'Excel (TCD, recherche Xp>Connaissances en Power BI ou outils de data visualisation.Sens du design et de la communication visuelle.Ce que nous vous proposons",
+      "dateCreation": "2026-10-08T12:16:50.497Z",
+      "dateActualisation": "2026-10-08T12:16:50.497Z",
+      "lieuTravail": {
+        "libelle": "62 - Beuvry",
+        "codePostal": "62660",
+        "commune": "62126"
+      },
+      "romeCode": "M1806",
+      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+      "appellationlibelle": "Business analyst",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7773944",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56635086?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7706959",
+      "intitule": "Stage - Conception et développement d'un orchestrateur à Orange F/H",
+      "description": "L'offre de stage est à pourvoir au sein de l'équipe BEAP (Business Enablers et API for Partners) de la Direction Platforms d'Orange Innovation. Cette équipe contribue à la spécification, au développement et au déploiement de composants logiciels pour les plates-formes de services, notamment en médiation technique des services partenaires (GAFAM, SVOD, ...) distribués et/ou facturés à nos clients Orange à travers 23 filiales internationales d'Orange. \n\n        Dans la perspective d'hébergement de services partenaires, le stage consistera à étudier les besoins fonctionnels, à concevoir et à développer un composant logiciel générique et évolutif permettant d'orchestrer à la fois la souscription et l'activation du service chez le partenaire ainsi que l'activation des pré-requis et de la gestion de l'application du côté des ressources Orange.\n\nL'implémentation s'appuiera sur l'architecture modulaire et ouverte ODA (Open Digital Architecture), de l'open source et une orchestration dynamique, adaptée au contexte et aux ressources, et pouvant s'appuyer sur de l'IA Agentique.\n\n  \n Votre profil :\nNous recherchons un futur ingénieur en informatique, ayant la pratique des API REST, Java, Python, Kubernetes, Cloud (GCP, ...). Des connaissances et de l'intérêt pour l'architecture fonctionnelle et logicielle sont les bienvenus.\n\nAu-delà des compétences techniques, nous souhaitons recruter un stagiaire capable de faire preuve d'autonomie, qui est force de proposition, curieux et qui a envie de partager avec son encadrant et l'équipe !",
+      "dateCreation": "2026-10-06T14:34:37.165Z",
+      "dateActualisation": "2026-10-06T14:34:37.165Z",
+      "lieuTravail": {
+        "libelle": "38 - Meylan",
+        "codePostal": "38240",
+        "commune": "38229"
+      },
+      "romeCode": "M1805",
+      "romeLibelle": "Développeur / Développeuse informatique",
+      "appellationlibelle": "Développeur / Développeuse informatique",
+      "entreprise": {
+        "nom": "Orange SA"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "61.10Z",
+      "secteurActivite": "61",
+      "secteurActiviteLibelle": "Télécommunications filaires",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7706959",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=L5JwGP2m8PhDf+8w2VgC9Q==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7677257",
+      "intitule": "Stage - Ingénieur Stratégie IA F/H",
+      "description": "La Business Unit Base Installée de Framatome déploie un programme ambitieux de transformation digitale dans le but d'améliorer la performance de ses activités de prestations de services nucléaires.\nLe système d'information s'appuie sur plusieurs solutions logicielles métier fournies par des éditeurs externes ou développées en interne.\nLes objectifs du stage sont de :\nIdentifier et analyser les opportunités offertes par l'intelligence artificielle pour améliorer nos processus de développement ainsi que nos solutions numériques existantes.\nDéfinir et évaluer différents scénarios d'intégration de l'IA, en appréciant pour chacun les bénéfices attendus, les impacts techniques et organisationnels, les risques ainsi que les coûts prévisionnels de mise en oeuvre et d'exploitation, notamment les budgets de Build et de Run.\nÉlaborer une cartographie des cas d'usage prioritaires et construire une feuille de route pluriannuelle précisant les principales étapes de déploiement de l'IA au sein de nos outils et de nos processus.\nFormaliser une stratégie globale et cohérente d'adoption de l'IA, intégrant les dimensions technologiques, économiques, organisationnelles et humaines.\nPrésenter les recommandations et la trajectoire proposée à la Direction, en vue de leur validation et de la préparation des prochaines étapes de mise en oeuvre.\n\nVous préparez un diplôme de niveau Bac+5 en école d'ingénieurs ou équivalent universitaire, avec une spécialité en informatique, systèmes d'information, architecture logicielle ou transformation numérique.\nVous disposez :\nD'une bonne compréhension des architectures applicatives et du développement logiciel.\nD'un intérêt marqué pour l'intelligence artificielle générative et les assistants de développement.\nDe capacités d'analyse, de synthèse et de structuration.\nD'un bon relationnel pour conduire des entretiens avec des interlocuteurs métier et techniques.\nD'autonomie, de curiosité, de rigueur et d'esprit critique.",
+      "dateCreation": "2026-10-06T00:33:00.502Z",
+      "dateActualisation": "2026-10-06T00:33:00.502Z",
+      "lieuTravail": {
+        "libelle": "69 - Lyon 1er Arrondissement",
+        "codePostal": "69001",
+        "commune": "69381"
+      },
+      "romeCode": "M1841",
+      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "appellationlibelle": "Ingénieur / Ingénieure analyste informatique",
+      "entreprise": {
+        "nom": "Framatome"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat apprentissage",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {
+        "libelle": "Annuel de 20000.0 Euros à 20000.0 Euros"
+      },
+      "alternance": true,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "33.20C",
+      "secteurActivite": "33",
+      "secteurActiviteLibelle": "Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7677257",
+        "partenaires": [
+          {
+            "nom": "BROADBEAN",
+            "url": "https://www.aplitrak.com/?adid=TFlPTi40MDg5MC42NzA2QGZyYW1hdG9tZS5hcGxpdHJhay5jb20",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "7557397",
       "intitule": "Stage : Ingénieur/e plateforme IP V6 - Défense & Sécurité - Le Plessis-Robinson H/F",
@@ -76,45 +297,6 @@
           {
             "nom": "DIRECTEMPLOI",
             "url": "https://www.directemploi.com/candidatOffre/56550473?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7556185",
-      "intitule": "Stage : Ingénieur/e Intégration et Automatisation Linux - Défense & Sécurité - Le Plessis Robinson H/F",
-      "description": "Dans le cadre du renforcement de nos activités d'ingénierie système, nous recherchons un stagiaire de fin d'études souhaitant développer ses compétences sur les environnements Linux, l'automatisation et l'intégration technique en environnement durci au niveau sécurité avec MCO et MCS. Le stage permettra une immersion dans des projets à forte composante technique au sein d'une équipe expérimentée.Missions:Participation à l'installation et la configuration d'environnements Linux.Développement de scripts d'automatisation (Shell, Python).Réalisation de tests techniques et qualification de solutions.Analyse et résolution d'anomalies.Participation à l'amélioration continue des processus d'intégration et de déploiement.Rédaction de documentation technique.Observation des différentes missions autres sur le projetEnvironnement technique: Linux, scripting Shell/Python, Git, réseau TCP/IP, virtualisation.Une connaissance des pratiques DevOps ou cybersécurité est un plus.",
-      "dateCreation": "2026-10-01T12:12:31.156Z",
-      "dateActualisation": "2026-10-01T12:12:31.156Z",
-      "lieuTravail": {
-        "libelle": "92 - Plessis-Robinson",
-        "codePostal": "92350",
-        "commune": "92060"
-      },
-      "romeCode": "M1884",
-      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
-      "appellationlibelle": "Ingénieur(e) systèmes réseaux sécurité informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7556185",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56458588?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
           }
         ]
@@ -245,7 +427,7 @@
       "intitule": "Stage - Développeur/euse Fullstack - Angular Node.js - Transport - Lyon H/F",
       "description": "Au sein de la Business Unit Transport, nos équipes lyonnaises développent des solutions stratégiques pour les grands acteurs de la mobilité. Vous rejoignez l'équipe en charge d'une application au cœur de la Supply Chain d'un acteur du ferroviaire : gestion des commandes de transport, organisation des acheminements et suivi du parc de wagons. Encadré.e par un Technical Leader et votre tuteur, vous contribuez à la conception et au développement de nouvelles fonctionnalités.Vous participez pleinement à la vie de l'équipe, aux cérémonies Agile et à la réalisation des évolutions de l'application. Vous utilisez également GitHub Copilot dans un cadre maîtrisé afin d'expérimenter et de mesurer les apports de l'IA générative dans les activités de développement logiciel.Votre rôle et vos missionsVous participez activement au développement d'un module de gestion des données logistiques :Analyser les besoins et participer à la conception technique.Développer des interfaces Angular et des services back-end Node.js.Modéliser et exploiter les données, avec une ouverture sur MongoDB et MongoDB Atlas.Réaliser les tests unitaires, les revues de code et la documentation associée.Intégrer les développements dans la chaîne CI/CD et contribuer à la maintenance évolutive.Environnement technologique : Angular, TypeScript, Node.js, MongoDB, GitLab, Jenkins, SonarQube, Datadog, Jira, méthodes Agile.Les apports du stageDévelopper une fonctionnalité full-stack sur une application ferroviaire concrète.Approfondir Angular, Node.js et la modélisation de données SQL/NoSQL.Découvrir les pratiques de qualité logicielle, de CI/CD et de delivery Agile.Évoluer au sein d'une équipe expérimentée et gagner progressivement en autonomie.",
       "dateCreation": "2026-09-23T12:16:59.669Z",
-      "dateActualisation": "2026-09-23T12:16:59.669Z",
+      "dateActualisation": "2026-10-12T12:39:27.596Z",
       "lieuTravail": {
         "libelle": "69 - Lyon",
         "commune": "69123"
