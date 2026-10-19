@@ -1,11 +1,825 @@
 {
-  "fetched_at": "2026-10-12T16:12:08Z",
+  "fetched_at": "2026-10-19T14:06:01Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
     "range": "0-49"
   },
   "offers": [
+    {
+      "id": "8066288",
+      "intitule": "STAGE BAC + 2 au BAC + 5 spécialité informatique / développement de logiciel F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Intitulé du StageDéveloppement informatique & outils métiers pour le service exploitation : Niveau Bac +2 minimum spécialisé en informatique, data ou développement logiciel, mission de 3 à 6 mois",
+      "dateCreation": "2026-10-19T12:25:40.013Z",
+      "dateActualisation": "2026-10-19T12:25:40.013Z",
+      "lieuTravail": {
+        "libelle": "26 - Valdrôme",
+        "codePostal": "26310",
+        "commune": "26361"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Technicien / Technicienne d'exploitation informatique",
+      "appellationlibelle": "Technicien(ne) développement logiciel",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8066288",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56721943?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8016871",
+      "intitule": "Stage: Ingénieure/Ingénieur en Informatique F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Vous souhaitez enrichir vos compétences dans le domaine du nucléaire et vivre une expérience professionnelle avec de vraies responsabilités ? ? Votre environnement",
+      "dateCreation": "2026-10-16T14:40:38.326Z",
+      "dateActualisation": "2026-10-16T14:40:38.326Z",
+      "lieuTravail": {
+        "libelle": "89 - Lain",
+        "codePostal": "89560",
+        "commune": "89215"
+      },
+      "romeCode": "M1841",
+      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "appellationlibelle": "Ingénieur / Ingénieure informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8016871",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55971444?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990237",
+      "intitule": "Stage Ingénieure/Ingénieur - Déploiement outil informatique F/H",
+      "description": "\n             Rejoignez EDF CNPE de PENLY pour contribuer à la Production d'Électricité en Normandie. Notre site, situé à proximité de Dieppe, est composé de deux unités de production d'une puissance de 1300MW chacune. Nous sommes plus de 800 collaborateurs.Votre stage sera réalisé au sein du Service Logistique de Site de Penly, composé de 3 spécialités élémentaires de travail qui agissent dans les domaines :Logistique, Informatique et Sécurité.  Vous assurerez les missions suivantes : Missions principale :- Assurer le déploiement du portail Documentation.  Missions secondaire :- Appuyer l'équipe MOA SI sur le développement d'applicatifs sur les outils numériques.   Un tuteur vous accompagnera au cours de ce stage et vous pourrez également vous appuyez sur des personnes expérimentées dans le domaine. Au cours de ce stage vous découvrirez le fonctionnement d'une centrale nucléaire et les missions d'une équipe qui est en charge du système informatique ainsi que de la documentation d'un site nucléaire. Profil souhaité :Etudiant(e) en dernière année d'école d'Ingénieur avec une spécialisation Informatique, Data ou SI ? Vous êtes à la recherche d'un stage de 6 mois dans une entreprise leader dans son domaine ? Vous êtes une personne rigoureuse, ordonnée, précise et vous appréciez le travail en équipe ? Vous possédez de bonnes connaissances des outils bureautiques ? Vous avez une capacité reconnue d'analyse et de synthèse ?Vous savez vous adapter et devenir moteur dans un collectif ?  Si vous pensez que votre profil fera des étincelles, candidatez dès maintenant ! Comme toute offre déposée sur ce site et conformément aux engagements pris par EDF SA en faveur de l'accueil et de l'intégration des personnes en situation de handicap, cet emploi est ouvert à toutes et tous.\n            ",
+      "dateCreation": "2026-10-16T05:33:06.490Z",
+      "dateActualisation": "2026-10-16T05:33:06.490Z",
+      "lieuTravail": {
+        "libelle": "76 - Rouen",
+        "codePostal": "76000",
+        "commune": "76540"
+      },
+      "romeCode": "M1853",
+      "romeLibelle": "Chef / Cheffe de projet étude et développement informatique",
+      "appellationlibelle": "Chef / Cheffe de projet développement logiciel",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990237",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345041-stage-ingenieure-ingenieur-deploiement-outil-informatique-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990029",
+      "intitule": "STAGE Ingénierie de conception Informatique Industrielle F/H",
+      "description": "\n            Mise en œuvre d'une plateforme de maintien en condition opérationnelle et en condition de sécurité du Système d'Information KRS rénovéContexteLe Centre National d'Equipement de Production d'Electricité (CNEPE) est chargé de l'ingénierie de conception, de réalisation, d'appui à l'exploitation des centrales nucléaires de production d'électricité (CNPE) françaises, ainsi que du développement des projets nucléaires en France et à l'international, sur le domaine de l'îlot conventionnel, de la source froide et des installations de site.Le stage a lieu au sein d'une équipe d'une dizaine de personnes qui réalisent des études de conception sur le système de surveillance de l'environnement des CNPE (KRS). Les études portent sur les domaines contrôleLe KRS est le système de surveillance de l'environnement des centrales nucléaires françaises. Il est constitué de trois grandes fonctions :Station météorologique : surveillance des paramètres météorologiques (pluviométrie, vitesse et direction du vent, etc.).Mesures radiamétriques : surveillance de la radioactivité dans l'air.Mesures hydrauliques et physico-chimiques : surveillance de paramètres tels que l'oxygène dissous, la conductivité, la température, le pH, ainsi que les concentrations en tritium et en chlore.Dans le cadre d'un programme national de modernisation, le Système d'Information KRS (SI KRS) est actuellement rénové sur l'ensemble du parc nucléaire français. Cette rénovation est déjà déployée sur les centrales du palier N4 (Civaux et Chooz) et sera étendue aux centrales du palier 1300 à partir de 2027.Objectif du stageL'objectif du stage est de contribuer à la mise en œuvre d'une plateforme représentative du SI KRS rénové, destinée aux activités de Maintien en Condition Opérationnelle (MCO) et de Maintien en Condition de Sécurité (MCS).Le travail s'articulera autour de trois phases principales :1. Analyse et définition des besoins   - Identification des besoins matériels, logiciels et licences   - Étude de l'architecture du système rénové   - Analyse de la documentation2. Mise en œuvre de la plateforme   - Compilation et installation des différents applicatifs.   - Configuration de l'environnement afin de disposer d'une plateforme pleinement opérationnelle.   - Validation du fonctionnement global du système.3. Rédiger l'ensemble de la documentation associée au fonctionnement de la plateforme   - Note d'installation   - Schémas de raccordement / synoptique des liaisons   - Procédures de mise à jourMissions du stagiaire- Prendre connaissance de la documentation existante et s'approprier le contexte métier.- Réaliser une étude bibliographique et technique sur les technologies mises en œuvre.- Comprendre l'architecture et le code source des différentes applications du SI KRS.- Collaborer avec les différents acteurs du projet : - Participer à l'installation/ qualification de la plateforme.- Développer les outils de simulation,Compétences techniques- Connaissances en développement logiciel, idéalement en C/C++.- Bonne compréhension des architectures informatiques et systèmes.- Intérêt pour les systèmes industriels et l'instrumentation.- Une connaissance de l'environnement TwinCAT et des automates Beckhoff serait un atout. Qualités personnelles- Esprit d'analyse et de synthèse.- Curiosité technique.- Bon relationnel et capacité à travailler en équipe.- Appétence pour la gestion et le pilotage de projets techniques.- Autonomie et rigueur. Informations pratiques- Durée : 4 à 6 mois.- Niveau : GUT GEII ou élève ingénieur de 2e ou 3e année.- Démarrage souhaité : à partir de février/mars 2027.- Domaine : informatique industrielle, systèmes d'information, supervision industrielle. Apports du stageCe stage permettra au candidat de découvrir à la fois :- les systèmes d'information industriels critiques,- les problématiques de supervision et d'instrumentation,- le développement logiciel appliqué à l'environnement nucléaire,- la conduite d'un projet technique impliquant de nombreux acteurs métiers. \n            ",
+      "dateCreation": "2026-10-16T05:32:55.985Z",
+      "dateActualisation": "2026-10-16T05:32:55.985Z",
+      "lieuTravail": {
+        "libelle": "37 - Tours",
+        "codePostal": "37000",
+        "commune": "37261"
+      },
+      "romeCode": "M1836",
+      "romeLibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure de conception informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990029",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/346168-stage-ingenierie-de-conception-informatique-industrielle-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8017432",
+      "intitule": "STAGE - Chef de projet déploiement application Power apps F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Rejoignez la Centrale Nucléaire EDF de Saint Alban située entre Lyon et Valence pour le déploiement d'une application Power appsp>Vos missions :En tant que stagiaire vous aurez pour but d'améliorer et de moderniser notre base de données et d'informations. Cette base de données complexe contient de milliers de données. Elle sert au suivi des équipements sous pression de notre installation industrielle.Ainsi vous poursuivrez le développement de l'outils de gestion de la base de donnée sous Power apps (en cours de développement).Après un état des lieux de la base de données actuelle, vous prendrez en main le développement de l'outil sous Power apps : analyse de risque du projet, planning, développement informatique.Vous Piloterez le démarrage et le déploiement de cet outil sous Power Apps.Vous travaillerez en collaboration avec notre Service SI pour vous aider sur la partie développement informatique.Vous serez rattaché au Chef de Service et à une équipe de 4 ingénieurs au sein du Service Inspection Reconnu. Ce service s'assure du respect des exigences liés au \"risque pression\" sur l'ensemble des tuyauteries de vapeur sous pression de la Centrale.  *** Stage de 4 à 6 mois à partir de janvierem>Vous êtes en 2ème ou dernière année d'école d'ingénieur généraliste ou informatique ? ou vous préparez un Master dans le domaine informatique ?  Votre profil nous intéresse.Compétences en programmation, développement informatique (SQL, interface web, Power apps), VBA indispensable. Autonomie, capacité d'analyse et relationnel sont aussi des qualités essentielles pour la réussite de ce stage. Avantages : gratification entre 50 % et 90 % du SMIC, selon votre niveau et le diplôme préparé.Logement : prise en charge des frais de logement jusqu'à 185 € par mois si vous prenez un logement pendant votre stage.",
+      "dateCreation": "2026-10-16T14:41:03.768Z",
+      "dateActualisation": "2026-10-18T11:58:37.447Z",
+      "lieuTravail": {
+        "libelle": "21 - Aiserey",
+        "codePostal": "21110",
+        "commune": "21005"
+      },
+      "romeCode": "M1841",
+      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "appellationlibelle": "Ingénieur / Ingénieure d'application informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8017432",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56721796?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8017755",
+      "intitule": "STAGE - Data Analyst & Développeur applications Power Platform F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Cette année, faites partie des stagiaires à rejoindre le groupe EDF !   Votre profil ??A la rentrée de septembre , vous finalisez un BAC +5 (Master, écolde d'ingénieur ou formation spécialisée en Data Analytics et Transformation Digitale.La durée de stage envisagée pour ce poste est 6 mois. Compétences et qualités recherchéesMaîtrise des outils de traitement et d'analyse de données (Excel, Power BI, SQL).Connaissances en développement d'applications Microsoft Power Platform (Power Apps, Power Automate).Capacité à analyser des données complexes et à proposer des solutions innovantes.Autonomie, rigueur et esprit de synthèse.Bon relationnel et aptitude à travailler en équipe.Ce poste est fait pour vous !Vos missions ? Au sein de l'équipe PMO de Penly, et sous la responsabilité de Manager de site, vous participerez tout au long de votre contrat à la digitalisation des processus du pilotage de projets et à la valorisation des données de performance via des solutions Power Platform et des outils décisionnels. Dans ce cadre, vos principales missions seront :? Développer et maintenir des applications métiers sous Power Apps pour faciliter les activités et de contrôle de projet.? Concevoir et automatiser des workflows numériques à l'aide de Power Automate afin d'améliorer l'efficacité des processus.? Collecter, structurer et analyser les données provenant des différents sources projets pour produire des indicateurs pertinents.? Créer et améliorer des tableaux de bords interactifs sous Power BI destinées aux équipes opérationnelles et au management.? Participer à l'identification des besoins utilisateurs, proposer des solutions innovantes et accompagner le déploiement des outils développés. Vous serez accompagné par votre tuteur qui pourra faire évoluer vos missions en fonction de vos attentes, vos envies et vos idées en adéquation avec les enjeux de l'équipe.Ce qu'EDF peut vous offrir ?AvantagesVous profitez des activités sociales de l'entrepriseUne prise en charge de vos dépenses d'hébergements peut vous être proposée sous conditions Le Groupe EDF a pour ambition d'ouvrir ses portes à toutes les compétences et à toutes les énergies, sans exclusion.Le poste proposé est donc ouvert à toutes et à tous.Rejoindre EDF c'est intégrer   (source : enquête Happy Trainees )Un environnement qui offre la possibilité de se développerPrès de 90% de nos stagiaires déclarent avoir des opportunités d'apprendre et de développer leurs compétences(source : enquête Happy Trainees )Une opportunité vers une embauche  En , 56% des recrutements de jeunes diplômés étaient issus de l'alternance et du stageUn Groupe international, qui innove pour développer des énergies neutres en CO2Avec 230 métiers différents il y en a forcément un pour vous !  ",
+      "dateCreation": "2026-10-16T14:41:14.182Z",
+      "dateActualisation": "2026-10-16T14:41:14.182Z",
+      "lieuTravail": {
+        "libelle": "28 - Prudemanche",
+        "codePostal": "28270",
+        "commune": "28308"
+      },
+      "romeCode": "M1821",
+      "romeLibelle": "Analyste d'application informatique",
+      "appellationlibelle": "Analyste responsable d'application informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8017755",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56721803?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8017733",
+      "intitule": "Stage de fin d'études - Développement de méthodes CDO pour la simulation LES dans code saturne F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Description de la missionLa R&D d'EDF prépare l'avenir du monde de l'énergie et oriente ses axes de recherches en cohérence avec la stratégie du groupe EDF. Au sein de la R&D, le département MFEE (Mécanique des Fluides, Energies et Environnement) apporte un appui scientifique aux directions de la production et de l'ingénierie pour optimiser les performances des installations de production d'électricité, tout en garantissant leur sûreté. Une des actions de fond entreprise dans ce cadre est la mise à disposition de codes de simulation pour la mécanique des fluides et la thermique.code_saturne, logiciel open-source de simulation en thermo-hydraulique disponible depuis https://www.code-saturne.org, capitalise depuis presque 30 ans le savoir des équipes d'EDF en CFD (Computational Fluid Dynamics). Ce code s'appuie sur des méthodes de discrétisation avancées pour la résolution des équations de Navier-Stokes et ses modèles dérivés. A l'aide de code_saturne, il est ainsi possible de modéliser les écoulements incompressibles ou dilatables, les transferts de chaleur avec ou sans modélisation de la turbulence. En complément, des modules dédiés à des applicatifs d'intérêt industriel sont disponibles dans l'environnement code_saturne : magnétohydrodynamique, rayonnement, combustion, écoulements compressibles, écoulements multiphasiques (approche Euler/Lagrange) et également, écoulements souterrains en milieux poreux.A l'origine, les schémas de discrétisation spatiale utilisés dans code_saturne reposait exclusivement sur des schémas volumes finis co-localisés aux cellules. Afin d'étendre les capacités du code vis-à-vis de l'évolution des besoins industriels et scientifiques, et de le maintenir à l'état de l'art, notamment pour l'usage de maillages polyédriques et/ou de qualité dégradée, des méthodes numériques de nouvelle génération appelée CDO (Compatible Discrete Operator) sont en cours de développement et d'intégration à code_saturne.L'objectif de ce stage est de contribuer, au sein de l'équipe de développement de code_saturne, à préparer l'intégration d'une modélisation de la turbulence par simulation des grandes échelles (Large Eddy Simulation, LES) dans le noyau numérique basé sur les schémas CDO face-based. Les travaux préparatoires comporteront deux volets. Le premier portera sur l'ajout du terme divu)T) de façon explicite dans la discrétisation des équations de Navier-Stokes incompressibles en régime turbulent. Il s'agira notamment d'étudier sa formulation dans le cadre CDO, son implémentation et de vérifier sa bonne prise en compte à l'aide de cas test. Le second volet sera consacré à l'analyse des effets dissipatifs et dispersifs associés au schéma d'intégration temporelle et à la discrétisation du terme de convection dans l'équation de conservation de la quantité de mouvement. L'analyse numérique des schémas sera confrontée à plusieurs cas test pour consolider notre compréhension des effets dissipatifs et/ou dispersifs associéMathématiques appliquées (analyse numérique, calcul scientifique)Mécanique des fluides (Navier-Stokes incompressible, modélisation de la turbulence)Langage de programmation (C++, MPI, python) et environnement LinuxAutonomie, rigueur et capacité à travailler en équipe Tuteurs: Jérôme Bonelle et Li Ma",
+      "dateCreation": "2026-10-16T14:41:11.882Z",
+      "dateActualisation": "2026-10-18T11:58:41.797Z",
+      "lieuTravail": {
+        "libelle": "78 - Prunay-en-Yvelines",
+        "codePostal": "78660",
+        "commune": "78506"
+      },
+      "romeCode": "M1844",
+      "romeLibelle": "Responsable des études et applications informatiques",
+      "appellationlibelle": "Ingénieur(e) étude en application scientifique informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8017733",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56722177?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8017637",
+      "intitule": "Stage - Ingénieur en conception numérique en industrie F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :     Rejoindre EDF c'est intégrer :? Un Groupe international qui innove pour développer des énergies neutres en CO2Aide éventuelle au logement ?La centrale est située à 25 minutes de Cherbourg, plus d'infos sur le cadre de vie : https://www.attitude-manche.fr/vivre-dans-la-manche/ Dans le groupe EDF accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.  ConditionsVous bénéficierez d'un accompagnement dédié afin de vous donner toutes les chances de réussir cette nouvelle mission. Une tutrice ou un tuteur, ayant reçu au préalable une formation, vous guidera dans votre quotidien. ? Travailler au sein d'une équipe vous fera découvrir la richesse de nos métiersp>   ",
+      "dateCreation": "2026-10-16T14:41:09.576Z",
+      "dateActualisation": "2026-10-16T14:41:09.576Z",
+      "lieuTravail": {
+        "libelle": "28 - Prudemanche",
+        "codePostal": "28270",
+        "commune": "28308"
+      },
+      "romeCode": "M1836",
+      "romeLibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure de conception informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8017637",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56722222?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8012441",
+      "intitule": "STAGE - Ingénieur(e) Traitement du Signal & Synchronisation - R&D F/H",
+      "description": "Contexte & Enjeux du projet\n\nMOSS SAS développe un réseau de noeuds capteurs distribués qui doivent dater des événements sur une référence de temps commune, à quelques dizaines de nanosecondes près. Chaque noeud possède sa propre horloge, recalée sur une référence GNSS : elle présente de la gigue, elle dérive, et elle peut perdre sa référence.\n\nVous construisez la plateforme de simulation qui modélise ces horloges, vous concevez les algorithmes qui estiment et compensent les écarts entre noeuds, et vous en déduisez la précision à exiger du matériel.\n\nVos missions :\n\nSous la responsabilité et l'accompagnement de votre tuteur, vous interviendrez sur l'ensemble de la démarche R&D :\n\n- État de l'art : Étudier l'état de l'art : modèles d'horloge et de bruit d'oscillateur, variance d'Allan, synchronisation dans les réseaux de capteurs, récepteurs GNSS de type timing.\n- Simulation d'horloges : Développer un simulateur d'horloges de noeuds : gigue de l'impulsion de référence, dérive de l'oscillateur, effet de la température, perte de la référence.\n- Campagne de mesure : Mener une courte campagne de mesure sur deux récepteurs GNSS réels pour caler les paramètres du modèle.\n- Algorithmes de compensation : Concevoir et comparer des algorithmes d'estimation de l'écart et de la dérive entre noeuds : moindres carrés, filtre de Kalman.\n- Analyse de résistance : Étudier le maintien de la synchronisation pendant une perte de référence et chiffrer l'apport d'un oscillateur plus stable.\n- Budget d'erreur : Établir le budget d'erreur de datation du réseau, selon le nombre de noeuds et la qualité de leurs horloges.\n- Spécification matériel : En déduire la gigue et la dérive tolérables par noeud, et rédiger la spécification de performance du matériel d'horodatage.\n\nLivrables clés attendus :\n\n- Simulateur documenté, testé et rejouable\n- Jeu de mesures et modèle d'horloge calé sur ces mesures\n- Étude comparative des algorithmes de compensation\n- Spécification chiffrée du matériel d'horodatage\n\n  \n Votre profil\n\nVous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur ou Master 2) avec une spécialité en traitement du signal, télécommunications, électronique ou mathématiques appliquées.\n\nPrérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n\nCompétences techniques :\n\n- Indispensables : Traitement du signal et estimation (filtrage, moindres carrés), probabilités et processus aléatoires, Python scientifique (NumPy, SciPy), Linux, Git et tests automatisés, validation d'un modèle par la mesure.\n- Appréciées : Filtre de Kalman, oscillateurs, PLL, variance d'Allan, récepteurs GNSS et signal PPS, simulation de Monte-Carlo, instrumentation (compteur de temps, oscilloscope).\n\nQualités personnelles :\n\n- Sens de la mesure : vous raisonnez en incertitudes et vous doutez d'un résultat trop beau.\n- Esprit critique sur vos modèles : un simulateur ne rend que ce qu'on y a mis.\n- Autonomie : vous advancez seul sur un problème et savez dire quand vous êtes bloqué.\n- Clarté à l'écrit : la spécification sera reprise par d'autres.\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
+      "dateCreation": "2026-10-16T14:35:05.158Z",
+      "dateActualisation": "2026-10-16T14:35:05.158Z",
+      "lieuTravail": {
+        "libelle": "92 - Issy-les-Moulineaux",
+        "codePostal": "92130",
+        "commune": "92040"
+      },
+      "romeCode": "M1841",
+      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "appellationlibelle": "Ingénieur informaticien / Ingénieure informaticienne",
+      "entreprise": {
+        "nom": "MOSS"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "74.90B",
+      "secteurActivite": "74",
+      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8012441",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=n9dB3zlUjbG4tfu/xjCn0A==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8012351",
+      "intitule": "STAGE - Ingénieur(e) Systèmes Distribués et Réseaux Embarqués - R&D F/H",
+      "description": "Contexte & Enjeux du projet\n\nMOSS SAS développe un réseau de noeuds capteurs distribués dont la topologie évolue en permanence : des noeuds rejoignent ou quittent le réseau, tombent en panne, et la qualité des liaisons varie dans le temps. Aucun coordinateur central ne supervise l'ensemble. Le protocole réseau doit donc permettre aux noeuds de se découvrir, d'évaluer leurs liaisons et de se réorganiser seuls pour maintenir les communications.\n\nVous concevez et réalisez la première version de ce protocole.\n\nVos missions:\n\nSous la responsabilité et l'accompagnement de votre tuteur, vous interviendrez sur l'ensemble du cycle de conception et de validation :\n- Étude & Architecture : Étudier les protocoles épidémiques existants (SWIM, memberlist, Serf) et proposer une architecture adaptée à un réseau de 15 à 300 noeuds.\n- Spécification : Spécifier les messages d'annonce et de topologie (Protobuf) et la machine à états d'un noeud, du démarrage au mode isolé.\n- Développement : Développer le démon en Go ou en Rust pour Linux embarqué ARM, avec tests unitaires et intégration continue.\n- Algorithmique & Métriques : Implémenter un score de qualité de lien à plusieurs critères, lissé dans le temps, et le classement des voisins qui en découle.\n- Émulation & Banc de test : Monter un banc d'émulation de 15 à 50 noeuds avec pertes, gigue et pannes injectées, puis valider sur 4 cartes réelles.\n- Caractérisation & Benchmark : Mesurer le temps de reconvergence après panne et le débit par noeud, et les comparer aux objectifs fixés.\n\nLivrables clés attendus :\n\n- Spécification du protocole et des formats de messages\n- Code source testé et documenté\n- Banc d'émulation rejouable\n- Rapport de caractérisation chiffré\n  \n Votre profil\n\nVous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur ou Master 2) avec une spécialité en traitement du signal, télécommunications, électronique ou mathématiques appliquées.\n\nPrérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n\nCompétences techniques :\n\n- Indispensables : Traitement du signal et estimation (filtrage, moindres carrés), probabilités et processus aléatoires, Python scientifique (NumPy, SciPy), Linux, Git et tests automatisés, validation d'un modèle par la mesure.\n- Appréciées : Filtre de Kalman, oscillateurs, PLL, variance d'Allan, récepteurs GNSS et signal PPS, simulation de Monte-Carlo, instrumentation (compteur de temps, oscilloscope).\n\nQualités personnelles :\n\n- Sens de la mesure : vous raisonnez en incertitudes et vous doutez d'un résultat trop beau.\n- Esprit critique sur vos modèles : un simulateur ne rend que ce qu'on y a mis.\n- Autonomie : vous avancez seul sur un problème et savez dire quand vous êtes bloqué.\n- Clarté à l'écrit : la spécification sera reprise par d'autres.\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
+      "dateCreation": "2026-10-16T14:34:47.323Z",
+      "dateActualisation": "2026-10-16T14:34:47.323Z",
+      "lieuTravail": {
+        "libelle": "92 - Issy-les-Moulineaux",
+        "codePostal": "92130",
+        "commune": "92040"
+      },
+      "romeCode": "M1802",
+      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
+      "appellationlibelle": "Ingénieur / Ingénieure système réseau informatique",
+      "entreprise": {
+        "nom": "MOSS"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "74.90B",
+      "secteurActivite": "74",
+      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8012351",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=q8+ZXdZ7950JTfBrW7IfbQ==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990300",
+      "intitule": "STAGE - Analyste / Développeur-euse F/H",
+      "description": "\n            Cette année, faites partie des 5000 stagiaires à rejoindre le groupe EDF ! Au sein d'EDF, la Direction Optimisation Amont/Aval Trading assure l'équilibre physique entre l'amont (Production) et l'aval (Consommation clients) d'EDF en France et maximise le revenu de l'ensemble intégré amont/aval. Elle optimise à différents horizons de temps pour satisfaire les engagements de fourniture d'EDF auprès de ses clients, en maîtrisant les risques physiques et financiers liés aux aléas de production, de consommation, de marché. Au sein de cette direction, l'équipe Exploitation & Analyses assure le reporting de l'activité du Groupe, dans un large registre de domaines métiers. Proche de ses clients, et utilisatrice expérimentée du SI de la donnée DOAAT, l'équipe structure, collecte, vérifie et traite un large éventail de données et d'activités. Elle opère également la plateforme OpenData du Groupe EDF. Nous sommes à la recherche de notre futur/future (super) stagiaire  Vos missions  Au sein de l'équipe Exploitation et Analyses du service SoData de la DOAAT, et sous la responsabilité du Lead Technique de l'équipe, vous participerez tout au long de votre stage au développement et l'amélioration de l'application OASIS, application de valorisation et d'analyse des données de la DOAAT facilitant l'accès à la donnée de qualité. Dans ce cadre, vos principales missions seront :   Contribuer à la maintenance et à la fiabilité des applications existantes en participant à l'identification et à la résolution d'anomalies. Participer à l'automatisation de traitements et de reportings récurrents afin d'améliorer leur robustesse et leur efficacité. Contribuer à la qualité logicielle des développements : tests, documentation, bonnes pratiques de développement et amélioration continue. Découvrir les enjeux de l'équilibre offre-demande d'électricité et comprendre comment les données soutiennent les activités opérationnelles de l'entreprise. Vous serez accompagné par votre tuteur qui pourra faire évoluer vos missions en fonction de l'actualité, vos attentes/envies et vos idées en adéquation avec les enjeux de l'équipe. Votre profil   Vous préparez actuellement en dernière année de diplôme d'ingénieur ou un master 2 avec une dominante en informatique / data analyse. Et vous recherchez un stage de fin d'étude dans le cadre de votre diplôme.La durée de stage envisagée pour ce poste est de 6 mois. A pourvoir dès que possible.    Compétences et qualités attendues  Compétences techniques :  - Maîtrise de Python pour le développement et l'automatisation d'outils - Connaissances en analyse, traitement et valorisation des données- Expérience en développement d'applications web et/ou en visualisation de données - Utilisation d'outils de gestion de versions, notamment Git - Sensibilité aux bonnes pratiques de développement logiciel (tests, documentation, qualité de code) Qualités recherchées :  - Curiosité et envie d'apprendre les enjeux et intérêts métiers derrière la donnée- Esprit analytique et goût pour la résolution de problèmes- Autonomie progressive et sens de l'initiative- Rigueur dans la réalisation des travaux confiés- Capacité à communiquer et à travailler en équipe Si vous vous reconnaissez dans ce descriptif, n'hésitez plus ! Postulez ! Nous avons hâte de vous rencontrer !   Ce qu'EDF peut vous offrir    Une expérience professionnelle enrichissante et l'accompagnement de professionnels du métier, au sein d'un collectif solidaire Stage rémunéré entre 935 € et 1682€ (en fonction du type de stage et de votre école) Vous bénéficiez d'un remboursement de 50% de votre titre de transport Une prise en charge de vos dépenses d'hébergements peut vous être proposée sous conditions (jusqu'à 185€/mois) Restauration méridienne à tarif préférentiel  Le stage est situé à Saint-Denis sur le site de Cap Ampère (au pied de la station Carrefour Pleyel - Ligne 13) et de la station Saint Denis Pleyel-Ligne 14 Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN.Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le stage proposé est donc ouvert à toutes et à tous. Plongez dans l'univers de la DOAAT via Youtube ou encore ICI ! mais aussi sur TikTok ! #LaDoaatRecrute\n            ",
+      "dateCreation": "2026-10-16T05:33:07.883Z",
+      "dateActualisation": "2026-10-16T05:33:07.883Z",
+      "lieuTravail": {
+        "libelle": "93 - Bobigny",
+        "codePostal": "93000",
+        "commune": "93008"
+      },
+      "romeCode": "M1805",
+      "romeLibelle": "Développeur / Développeuse informatique",
+      "appellationlibelle": "Analyste développeur / Analyste développeuse",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990300",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345366-stage-analyste-developpeur-euse-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990208",
+      "intitule": "Stage ingénieur : gestion des données de qualification incendie F/H",
+      "description": "\n            Qui sommes-nous ?La DirIN est l'entité du Groupe EDF qui porte l'ensemble des activités d'ingénierie et de conception pour le parc en exploitation ainsi que les futurs réacteurs nucléaires. Elle intègre également la relation fournisseurs, de l'élaboration de la stratégie industrielle jusqu'à la mise en œuvre des contrats et au contrôle de la réalisation des fabrications. Nous sommes plus de 1350 salariés qui composons la Direction Technique (DT), l'une des directions de la DirIN. Actrice incontournable au sein de la filière nucléaire française, la DT fait rayonner son savoir-faire à l'international.Plus spécifiquement, nous intervenons en amont des projets de conception et sommes garants du respect des règles de sûreté tout au long du cycle de vie des installations nucléaires.Ce que nous pouvons accomplir ensembleVous rejoignez les 6 ingénieurs du pôle qualification du groupe IEI (Incendie & Explosion Internes). Ce pôle a pour mission de rédiger et mettre à jour les référentiels dédiés aux éléments de sectorisation incendie (portes coupe-feu, calfeutrements de traversées, siphons de sol...). Il pilote et surveille les essais nécessaires à la validation de ces référentiels pour assurer la conformité des solutions qui seront installées sur les CNPE (Centres Nucléaires de Production d'Électricité). Le management des données de la qualification incendie s'inscrit également dans les activités du pôle. Un tuteur vous accompagne dans votre prise d'autonomie et de responsabilisation dans votre mission.Vous aurez pour mission :Votre stage s'effectue au sein des équipes d'ingénieurs de la DT à Lyon en charge d'activités de qualification (justification des performances) de matériels de protection contre l'incendie mis en place sur les installations nucléaires. Votre mission consiste :- A développer, à partir d'une première version disponible, la base de données existante centralisant les documents de référence relatifs à la qualification des matériels de protection incendie, dans l'objectif de la rendre accessible aux différentes entités d'ingénierie d'EDF ;- A rédiger le guide utilisateur de cette base de données ;- A mettre en service, promouvoir et accompagner l'utilisation de cette base auprès des entités utilisatrices.A ce titre, sous serez en charge : - De vous approprier les enjeux de sûreté nucléaire, le rôle de la sectorisation incendie et les notions propres à la qualification de matériels incendie (arrêté feu, documents réglementaires, rôle des laboratoires.) ;- De proposer si nécessaire une évolution du modèle de données, de la structure de la base et des règles d'accessibilités associées, en collaboration avec les services compétents ;- D'implémenter les documents disponibles (gréement de la base).Durant votre stage, vous serez amené à travailler en collaboration avec les ingénieurs du groupe IEI et avec d'autres entités d'EDF.Votre profilVous êtes en deuxième année d'école d'ingénieur (en cursus généraliste ou avec une spécialité dans l'énergie, l'incendie ou les risques industriels).Rémunération comprise entre 935 et 1682 euros/mois, complétée d'avantages du Groupe EDF (tarif subventionné pour la restauration d'entreprise, prise en charge d'une partie des frais de transport, accès aux activités sociales de l'entreprise.)Vous avez l'esprit critique, et le goût pour le travail d'enquête ?Vous avez envie de découvrir l'ingénierie nucléaire ?Vous partagez les mêmes valeurs d'entreprise responsable que les nôtres ?Vous souhaitez mettre votre regard au service de nos équipes ?Vous souhaitez apprendre au contact de nos experts ? Vous souhaitez devenir bâtisseur d'un avenir énergétique neutre en CO2, conciliant préservation de la planète, bien-être et développement, grâce à l'électricité et à des solutions et services innovants ? Rejoignez la DirIN !Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et tous.\n            ",
+      "dateCreation": "2026-10-16T05:33:05.846Z",
+      "dateActualisation": "2026-10-16T05:33:05.846Z",
+      "lieuTravail": {
+        "libelle": "69 - Lyon 1er Arrondissement",
+        "codePostal": "69001",
+        "commune": "69381"
+      },
+      "romeCode": "M1818",
+      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure d'étude en informatique de gestion",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990208",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345189-stage-ingenieur-gestion-des-donnees-de-qualification-incendie-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990177",
+      "intitule": "Stage ingénierie -Appui Ingénierie Systèmes et Maintenance F/H",
+      "description": "\n            Vous souhaitez contribuer à un avenir énergétique responsable et bas carbone ? Vous recherchez des missions challengeantes dans une ambiance de travail agréable ?Vous voulez enrichir vos compétences et vivre une expérience professionnelle avec de vraies responsabilités ?En 2025, et pour la 6ème année consécutive, EDF est labellisée Happy Trainees. 90% des étudiants recommandent l'entreprise à l'issue de leur alternance ou de leur stage. N'hésitez pas à rejoindre nos équipes !  Votre environnementRejoignez plus de 171000 collaboratrices et collaborateurs dans les nombreux métiers du groupe EDF. Un Groupe international, champion de la croissance bas carbone qui lutte au quotidien contre le réchauffement climatique !A 40 km de Lyon et à 1h des Alpes, le Centre Nucléaire de Production d'Electricité (CNPE) de BUGEY comprend 4 réacteurs de 900 MW.1500 femmes et hommes engagés contribuent chaque jour à produire une électricité sûre et compétitive. Pourquoi pas vous ?   Découvrez en images nos orientations et nos valeurs sur la chaîne YouTube EDF : https://www.youtube.com/user/EDFCommunitymanager Vos missions Vous intégrerez le Service Management Fiabilité (SMF), en charge de l'amélioration de la fiabilité des matériels et de la maîtrise du patrimoine industriel de la centrale. Dans le cadre de ce stage, vous accompagnerez les ingénieurs systèmes sur des sujets à enjeux pour l'exploitation des installations.Vos principales missions seront :       Participer à la définition d'un programme de maintenance sur des équipements identifiés.       Réaliser une étude patrimoniale des tuyauteries enterrées du réseau incendie.       Contribuer à l'analyse technique des résultats et à la proposition d'actions d'amélioration.       Appuyer les ingénieurs systèmes dans leurs activités de suivi et de fiabilisation des installations.Votre profil  Étudiante/Etudiant en dernière année d'école d'ingénieur, avec un intérêt pour les domaines de la maintenance, de la fiabilité industrielle ou du nucléaire.  Nous recherchons les compétences et les qualités suivantes pour ce poste :- Capacité d'analyse et de synthèse.- Appétence pour les sujets techniques et industriels.- Rigueur et esprit méthodique.- Aisance relationnelle et travail en équipe.  Premier semestre 2027, pour une durée à définir selon votre cursus. Ce qu'EDF peut vous offrir - Nous mettons à disposition un service de navette gratuite à disposition de notre personnel en partance de Décines / Ambérieu en Bugey / L'Isle d'Abeau / La Boisse / Pont d'Ain et autres. - Vous bénéficierez d'un accompagnement dédié afin de vous donner toutes les chances de réussir cette nouvelle mission. Une tutrice ou un tuteur, vous guidera dans votre quotidien. - Travailler au sein d'une équipe vous fera découvrir la richesse de nos métiers.  Dans le groupe EDF accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.  \n            ",
+      "dateCreation": "2026-10-16T05:33:04.813Z",
+      "dateActualisation": "2026-10-16T05:33:04.813Z",
+      "lieuTravail": {
+        "libelle": "01 - Bourg-en-Bresse",
+        "codePostal": "01000",
+        "commune": "01053"
+      },
+      "romeCode": "M1802",
+      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
+      "appellationlibelle": "Ingénieur / Ingénieure système informatique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990177",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345192-stage-ingenierie-appui-ingenierie-systemes-et-maintenance-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990114",
+      "intitule": "Stage de fin d'étude BAC+5 - bilan de fiabilité sur la Station de production d'eau déminéralisées F/H",
+      "description": "\n            Intitulé du StageStage élève ingénieur(e) - Préparation d'un bilan de fiabilité sur la Station de production d'eau déminéralisées du site de Tricastin.*********************Avec plus de 160000 collaborateurs dans le monde, EDF s'appuie sur des équipes engagées et compétentes pour relever les défis de la transition énergétique. Le Groupe mène une politique active en faveur de l'emploi des jeunes, en leur offrant de nombreuses opportunités de stages, d'alternance et de premier emploi.Au sein de la Division Production Ingénierie (DPI), le Centre Nucléaire de Production d'Électricité (CNPE) du Tricastin exploite 4 réacteurs nucléaires de 900 MW, et produit chaque année près de 24 milliards de kWh, soit environ 6 % de la production nationale.Le site est situé à Saint-Paul-Trois-Châteaux, dans la Drôme (26), à 26 km au sud de Montélimar.Au sein de la branche Système d'Information du service ISI, vous devez assurer la veille technique mensuelle sur les matériels en utilisant les outils du SI et en réalisant des visites terrain.Vous avez en charge l'élaboration des plans d'actions d'amélioration : vous identifiez les risques techniques, proposez des actions correctives, dressez des bilans des actions de fiabilisation. -       Durée : 6 mois.Stage rémunéréUne aide au logement de 185€/mois maximum peut vous être attribuée si vous devez prendre un logement à proximité pendant la durée de votre stage.  Étudiant(e) en dernière année d'une école d'ingénieur ou en Master 2, dans le domaine de l'Ingénierie Généraliste. Une option/spécialisation nucléaire est un plus.Les dates de stages seront décidées en fonction du planning de l'étudiant et des contraintes du service : T1 ou T22027 \n            ",
+      "dateCreation": "2026-10-16T05:33:00.411Z",
+      "dateActualisation": "2026-10-16T05:33:00.411Z",
+      "lieuTravail": {
+        "libelle": "26 - Valence",
+        "codePostal": "26000",
+        "commune": "26362"
+      },
+      "romeCode": "M1818",
+      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure d'étude en informatique de gestion",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990114",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/346629-stage-de-fin-d-etude-bac-5-bilan-de-fiabilite-sur-la-station-de-production-d-eau-demineralisees-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990298",
+      "intitule": "Stage de fin d'études - Amélioration d'un solveur de pression pour code saturne F/H",
+      "description": "\n            La R&D d'EDF prépare l'avenir du monde de l'énergie et oriente ses axes de recherches en cohérence avec la stratégie du groupe EDF. Au sein de la R&D, le département MFEE (Mécanique des Fluides, Energies et Environnement) apporte un appui scientifique aux directions de la production et de l'ingénierie pour optimiser les performances des installations de production d'électricité, tout en garantissant leur sûreté. Une des actions de fond entreprise dans ce cadre est la mise à disposition de codes de simulation pour la mécanique des fluides et la thermique.Pour ses besoins importants en mécanique des fluides numériques, EDF développe les outils code_saturne (https://www.code-saturne.org) et neptune_cfd. Ces outils sont sont basés sur des schémas  volumes finis et une discrétisation sur maillages non structurés, et exploitent un parallélisme hybride massif, combinant un niveau distribué (MPI) et partagé (CPU et GPU). La résolution itérative de systèmes linéaires représente actuellement entre 50% et plus de 90% du temps de calcul. Une grande partie de ce temps est lié au solveur de pression, et à son préconditionneur multigrille algébrique, dont la combinaison optimale des paramètres dépend du cas traité.L'objectif de ce stage est d'analyser dans un premier temps le comportement de convergence en fonction du paramétrage de diverses sous-étapes des solveurs mis en œuvre dans le code, notamment multigrille, sur un échantillon de cas représentatifs, en fonction des paramétrages des algorithmes disponibles, de manière à pouvoir améliorer les heuristiques actuelles et mieux comprendre les interactions entre divers paramètre, afin d'orienter les évolutions à venir. On essaiera de manière générale de relier ces éléments aux éléments théoriques connus.Ceci pourra mener à la mise en œuvre de modifications dans les algorithmes actuels ou d'ajout de nouvelles variantes pour améliorer les performances et la régularité de la convergence.On évaluera aussi au moins une solution alternative à l'approche multigrille, par exemple une solution à 2 niveaux de type déflation.Ces travaux pourraient constituer une première étape vers une thèse CIFRE consacrée à l'amélioration des performances des solveurs linéaires de code_saturne.Stage de fin d'études d'école d'ingénieur ou M2.Notions de base en analyse numérique, appliquée à un domaine décrit par des EDP (Equations aux Dérivées Partielles) sur un milieu continu (mécanique des fluides, structures, thermique par exemple).Expérience de l'utilisation d'un code de calcul scientifique de type volumes finis ou éléments finis recommandée.Connaissances en programmation C++ ou C, ainsi que d'un environnement Linux.Français (C1), Anglais (C1)De plus, le (ou la) candidat(e) devra faire preuve d'initiatives, d'une bonne capacité à communiquer/rédiger et d'une bonne autonomie.\n            ",
+      "dateCreation": "2026-10-16T05:33:07.886Z",
+      "dateActualisation": "2026-10-16T05:33:07.886Z",
+      "lieuTravail": {
+        "libelle": "78 - Versailles",
+        "codePostal": "78000",
+        "commune": "78646"
+      },
+      "romeCode": "M1805",
+      "romeLibelle": "Développeur / Développeuse informatique",
+      "appellationlibelle": "Programmeur / Programmeuse d'études",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990298",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345232-stage-de-fin-d-etudes-amelioration-d-un-solveur-de-pression-pour-code-saturne-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990290",
+      "intitule": "Stage de fin d'études - Développement de méthodes CDO pour la simulation LES dans code saturne F/H",
+      "description": "\n            Description de la missionLa R&D d'EDF prépare l'avenir du monde de l'énergie et oriente ses axes de recherches en cohérence avec la stratégie du groupe EDF. Au sein de la R&D, le département MFEE (Mécanique des Fluides, Energies et Environnement) apporte un appui scientifique aux directions de la production et de l'ingénierie pour optimiser les performances des installations de production d'électricité, tout en garantissant leur sûreté. Une des actions de fond entreprise dans ce cadre est la mise à disposition de codes de simulation pour la mécanique des fluides et la thermique.code_saturne, logiciel open-source de simulation en thermo-hydraulique disponible depuis https://www.code-saturne.org, capitalise depuis presque 30 ans le savoir des équipes d'EDF en CFD (Computational Fluid Dynamics). Ce code s'appuie sur des méthodes de discrétisation avancées pour la résolution des équations de Navier-Stokes et ses modèles dérivés. A l'aide de code_saturne, il est ainsi possible de modéliser les écoulements incompressibles ou dilatables, les transferts de chaleur avec ou sans modélisation de la turbulence. En complément, des modules dédiés à des applicatifs d'intérêt industriel sont disponibles dans l'environnement code_saturne : magnétohydrodynamique, rayonnement, combustion, écoulements compressibles, écoulements multiphasiques (approche Euler/Lagrange) et également, écoulements souterrains en milieux poreux.A l'origine, les schémas de discrétisation spatiale utilisés dans code_saturne reposait exclusivement sur des schémas volumes finis co-localisés aux cellules. Afin d'étendre les capacités du code vis-à-vis de l'évolution des besoins industriels et scientifiques, et de le maintenir à l'état de l'art, notamment pour l'usage de maillages polyédriques et/ou de qualité dégradée, des méthodes numériques de nouvelle génération appelée CDO (Compatible Discrete Operator) sont en cours de développement et d'intégration à code_saturne.L'objectif de ce stage est de contribuer, au sein de l'équipe de développement de code_saturne, à préparer l'intégration d'une modélisation de la turbulence par simulation des grandes échelles (Large Eddy Simulation, LES) dans le noyau numérique basé sur les schémas CDO face-based. Les travaux préparatoires comporteront deux volets. Le premier portera sur l'ajout du terme div(μ(∇u)T) de façon explicite dans la discrétisation des équations de Navier-Stokes incompressibles en régime turbulent. Il s'agira notamment d'étudier sa formulation dans le cadre CDO, son implémentation et de vérifier sa bonne prise en compte à l'aide de cas test. Le second volet sera consacré à l'analyse des effets dissipatifs et dispersifs associés au schéma d'intégration temporelle et à la discrétisation du terme de convection dans l'équation de conservation de la quantité de mouvement. L'analyse numérique des schémas sera confrontée à plusieurs cas test pour consolider notre compréhension des effets dissipatifs et/ou dispersifs associéMathématiques appliquées (analyse numérique, calcul scientifique)Mécanique des fluides (Navier-Stokes incompressible, modélisation de la turbulence)Langage de programmation (C++, MPI, python) et environnement LinuxAutonomie, rigueur et capacité à travailler en équipe Tuteurs: Jérôme Bonelle et Li Ma\n            ",
+      "dateCreation": "2026-10-16T05:33:07.645Z",
+      "dateActualisation": "2026-10-16T05:33:07.645Z",
+      "lieuTravail": {
+        "libelle": "78 - Versailles",
+        "codePostal": "78000",
+        "commune": "78646"
+      },
+      "romeCode": "M1805",
+      "romeLibelle": "Développeur / Développeuse informatique",
+      "appellationlibelle": "Programmeur / Programmeuse d'études",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990290",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345233-stage-de-fin-d-etudes-developpement-de-methodes-cdo-pour-la-simulation-les-dans-code-saturne-f-h?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7990229",
+      "intitule": "Gestion de données d'examens télévisuels et matériaux F/H - STAGE",
+      "description": "\n            Au sein de la Direction Qualité des Réalisations et Examens Non Destructifs (DQRE) de la Direction Supply Chain d'EDF, vous intégrerez le groupe Intervention et Caractérisation (GIC) du Département Essais Méthodes et Opérations (DEMO). La Direction Supply Chain joue un rôle clé en appui aux centrales nucléaires et aux projets neufs. Elle apporte son expertise dans de nombreux domaines techniques tels que les matériaux, le génie civil, la chimie ou encore les examens non destructifs. Vous souhaitez découvrir l'environnement des centrales nucléaires et contribuer à des activités techniques variées liées aux matériaux et aux contrôles télévisuels ? Rejoignez-nous pour participer à la gestion et à l'exploitation de données techniques essentielles aux activités du groupe. Dans ce cadre, vos principales missions seront : Alimenter et mettre à jour la base de gestion des matériels d'examens télévisuels du groupe (OGADE). Mettre à jour et enrichir l'outil regroupant les résultats d'examens par répliques métallographiques. Participer aux essais de performance des différents matériels d'examen télévisuel (ETV). Vous serez accompagné(e) par votre tuteur qui vous guidera dans la réalisation de vos missions. Celles-ci pourront évoluer en fonction de vos compétences, de vos centres d'intérêt et de vos idées, en adéquation avec les besoins et les enjeux de l'équipe. Vous préparez un BAC+2 dans le domaine des matériaux et êtes en recherche d'un stage de 3 mois.  Nous recherchons les qualités suivantes pour ce stage : Vous faites preuve de rigueur. Vous êtes curieux(se) et appréciez les sujets techniques. Vous avez une appétence pour les environnements techniques. Le stage sera également l'opportunité de découvrir le milieu des centrales nucléaires, des examens métallurgiques par répliques et des contrôles télévisuels. Ce qu'EDF peut vous offrir Avantages  Vous déménagez pour votre stage ? EDF peut vous aider à financer une partie de votre loyer sous condition.  Vous profitez des activités sociales de l'entreprise  Vous serez remboursé de 50% de votre titre de transport Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous. Rejoindre EDF c'est intégrer : Un Groupe international  qui innove pour développer des énergies neutres en CO2Avec 230 métiers différents il y en a forcément un pour vous ! Une entreprise engagée dans l'accueil et la formation des étudiants + de 91% des étudiants recommandent EDF l'issue de leur alternance ou de leur stage (source : enquête Happy Trainees 2025) Une opportunité vers une embauche  En 2025, 56% des recrutements de jeunes diplômés étaient issus de l'alternance et du stage\n            ",
+      "dateCreation": "2026-10-16T05:33:05.848Z",
+      "dateActualisation": "2026-10-16T05:33:05.848Z",
+      "lieuTravail": {
+        "libelle": "93 - Bobigny",
+        "codePostal": "93000",
+        "commune": "93008"
+      },
+      "romeCode": "M1852",
+      "romeLibelle": "Analyste d'étude informatique",
+      "appellationlibelle": "Analyste télématique",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "1",
+      "qualificationLibelle": "Manœuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7990229",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/689-edf/345175-gestion-de-donnees-d-examens-televisuels-et-materiaux-f-h-stage?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8017163",
+      "intitule": "STAGE DATA ANALYST MARKETING F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Au sein de la Direction Marketing Professionnalisation & Opérations (DMPO) de la DCR (Direction Commerciale Régionale) Île-de-France, vous intégrerez le Pôle Marketing Clients.Le portefeuille client de la Direction Commerciale Régionale est très riche car composé de grands clients sur différents segments avec des enjeux importants de placement de fournitures, de services et d'électrification des usages. Ce poste combine exécution, coordination, analyse et vision stratégique à l'échelle régionale et nationale. Ce stage vous permettra d'avoir un impact direct sur la performance commerciale via l'optimisation des campagnes marketing et la valorisation des données clients.? Sujet de stage :Data & Marketing BtoB: conquête et veille commerciale stratégique dans le secteur de l'énergie BtoB. ? Les missions seront adaptées progressivement en fonction de votre montée en compétence.? Suivre et améliorer la rentabilité des campagnes marketing, en lien avec les équipes commerciales (Direction des Ventes) et de services (Direction Territoires et Services) :a) Assurer un suivi régulier des performances des campagnes (emails /SMS, courriers, appels sortants)b) Identifier les points d'optimisation et proposer des actions correctricesc) Préparer les flash info Campagne Marketing et présentation PPT pour les réunions de suivi (MY Actu Vente, Copil Fourniture, point suivi campagne etc)?Nettoyer, structurer et fiabiliser les données clients issues de différentes sources (CRM, DataHub, fichiers externes)?Construire des ciblages clients et prospects à partir des données traitées?Participer activement au réseau national une fois par mois, pour partager les bonnes pratiques, mutualiser les actions marketing et contribuer à des projets communs à l'échelle nationale.? Mettre en œuvre des campagnes emailing et courrier ciblées destinées à générer des leads qualifiés, en assurer le suivi et transmettre les leads aux équipes commerciales.?Utiliser, mettre à jour et faire évoluer les différents tableaux de bord POWER BI et CRM de suivi de campagne marketing et de connaissance clients. Pourquoi nous rejoindreUn stage à forte exposition (COPIL, My Actu Vente.)Une interaction directe avec les équipes commerciales et le managementUne montée en compétence rapide sur des outils dataUn rôle à impact direct sur la performance commerciale? , d'une université ou d'une école spécialisée (spécialisation Data Science, Data Analyst, Statistiques, Mathématiques Appliquées, Informatique avec une forte composante Data, ou équivalent), à la recherche d'un stage de césure ou de fin d'études.Merci de joindre à votre candidature : votre CV accompagné de vos bulletins de notes des deux dernières années. ?Nous recherchons les compétences et les qualités suivantes pour ce poste:Compétence indispensable : maîtrise de Power BI et Power QueryMaîtrise du Pack Office (Excel, Power Point, OneNote)Maîtrise de SQL serait un plusMaîtrise de Python serait un plusAppétence pour l'analyse de données et l'automatisationPolyvalence, curiosité et capacité d'adaptationEsprit d'analyse et de synthèseSens du collectif, sens du client et du résultatCapacité à monter en compétence rapidement  ",
+      "dateCreation": "2026-10-16T14:40:47.249Z",
+      "dateActualisation": "2026-10-16T14:40:47.249Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris",
+        "commune": "75056"
+      },
+      "romeCode": "M1806",
+      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+      "appellationlibelle": "Business analyst",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8017163",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56332970?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8017591",
+      "intitule": "STAGE Stage Ingénieur-e Optimisation Court Terme - Développement d'outils de pilotage et d'analyse F/H",
+      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise EDF recherche actuellement des profils :  Au sein d'EDF, la Direction Optimisation Amont/Aval Trading (DOAAT) assure l'équilibre physique entre l'amont (Production) et l'aval (Consommation clients) d'EDF en France et maximise le revenu de l'ensemble intégré amont/aval. Elle optimise à différents horizons de temps pour satisfaire les engagements de fourniture d'EDF auprès de ses clients, en maîtrisant les risques physiques et financiers liés aux aléas de production, de consommation, de marché. Vous intégrerez l'équipe d'optimisation journalière (JO), composée de 10 optimiseurs, 4 coordinateurs et un manager. Chaque jour, cette équipe construit l'équilibre offre-demande pour le Groupe EDF pour le lendemain et élabore plusieurs livrables essentiels au bon fonctionnement du système électrique, tels que le plan de production, la participation au marché SPOT ou encore les offres d'ajustement. Sous la responsabilité du manager et des coordinateurs de l'équipe, vous contribuerez à la mise en place et au développement d'indicateurs de performance permettant de valoriser les activités de l'équipe journalière. ?Après une phase d'immersion au sein des activités opérationnelles, vos principales missions consisterontp> ?Concevoir et développer un outil permettant d'automatiser le calcul d'un indicateur existant, visant à mesurer et valoriser les actions réalisées dans le cadre de l'enchère européenne SPOT journalière ?Identifier et proposer de nouveaux indicateurs pertinents pour analyser et valoriser les activités de l'équipe ?Développer les outils nécessaires au calcul, au suivi et à la restitution de ces indicateurs ?Intégrer ces nouveaux indicateurs aux processus opérationnels de l'équipe afin d'en faciliter l'utilisation au quotidien. Tout au long de votre stage, vous serez accompagné par votre tuteur ainsi que par l'ensemble de l'équipe. Les missions pourront évoluer en fonction des enjeux opérationnels, de vos centres d'intérêt et de vos propositions, afin de vous offrir une expérience enrichissante et au plus près des réalités du métier.? Vous préparez actuellement un diplôme d'Ingénieur (Bac +5) avec une dominante énergie, et vous recherchez un stage de fin d'études dans le cadre de votre diplôme. La durée de stage envisagée est de 6 mois.  ? Compétences et qualités attendues- Vous avez une forte appétence pour la programmation et le développement web/application- Vous avez des compétences en code et maîtriser Python ou Vue.js -Vous avez bonne connaissance du système électrique - Vous êtes force de proposition, capable d'apporter des idées nouvelles et pertinentes.  - Vous savez travailler en autonomie, tout en restant connecté(e) aux enjeux collectifs. Si vous vous reconnaissez dans ce descriptif, n'hésitez plus ! Postulez ! Nous avons hâte de vous rencontrerp> Ce qu'EDF peut vous offrir ?",
+      "dateCreation": "2026-10-16T14:41:07.425Z",
+      "dateActualisation": "2026-10-16T14:41:07.425Z",
+      "lieuTravail": {
+        "libelle": "03 - Audes",
+        "codePostal": "03190",
+        "commune": "03010"
+      },
+      "romeCode": "M1867",
+      "romeLibelle": "Responsable des systèmes d'information (SI)",
+      "appellationlibelle": "Responsable analyse programmation",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8017591",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56722116?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7972719",
+      "intitule": "Stage - Ingénieur Logiciel F/H",
+      "description": "Quel environnement de travail ?\n\nAu sein de la Direction de l'Expérience Client, dans la Direction des Parcours Clients et Processus (DPCP), vous rejoignez la direction de l'Expérience Paiement dont le rôle est de penser les innovations pour faire vivre à nos clients une expérience de paiement simple, sans effort, sécurisée à moindre coût afin de faire levier sur le business.\n\nRejoignez notre équipe Marketing & Projets Facture et contribuez à l'élaboration des outils clés pour maximiser l'expérience de paiement de nos clients et garantir la croissance durable de nos revenus !\n\nNotre terrain de jeu en 3 chiffres :\n\n25 millions de factures sur les univers Fixe, Mobile Convergent pour les marques Orange & Sosh.\n1,15 milliards d'euros de chiffre d'affaires à encaisser.\n2 millions de contacts clients en Digital, en Services Clients, en SVI et en boutiques Orange.\n600k dossiers ouverts en recouvrement tous les mois.\nCes chiffres sont mensuels. C'est fois 12 pour une année. \n\n        À quoi ressemble le poste ?\nLe référentiel documentaire WikiFacture, déjà développé et hébergé sur GitLab au format Markdown, a pour objectif d'expliquer le fonctionnement de tous les objets présents sur une facture (Exemple : pour l'adresse mail d'un client, il permet de savoir où est stockée la donnée, comment la consulter, où la consulter, qui peut la mettre à jour, quand est-ce qu'elle est obligatoire etc.).\nVous rejoignez l'équipe pour poursuivre les travaux d'industrialisation du WikiFacture, déjà initiés, afin de transformer cette solution en un outil pérenne, robuste et facilement maintenable par l'ensemble des contributeurs internes.\nEnjeu : passer d'une solution de type \" prototype \" à un outil robuste, exploitable en continu par les équipes DPCP.\nVous participerez notamment à :\n- L'analyse de l'architecture actuelle du WikiFacture (structure des fichiers Markdown, organisation du dépôt GitLab) et l'identification des axes d'amélioration,\n- La mise en oeuvre de mécanismes d'automatisation (pipelines CI/CD GitLab, génération automatique du site),\n- La structuration et la normalisation du contenu existant (arborescence, conventions, templates),\n- La mise en place de contrôles qualité automatisés (linting Markdown, vérification des liens, tests de build),\n- L'amélioration de l'expérience de consultation pour les utilisateurs internes (navigation, recherche),\n- La rédaction de la documentation technique et des bonnes pratiques de contribution.\n  \n Qui recherchons-nous ?\nIl s'agit d'un stage de 6 mois à partir de janvier 2027.\nVous préparez un diplôme de niveau Bac+5 dans une université ou une école d'ingénieur, spécialisé en informatique / développement logiciel.\nVous êtes à l'aise pour lire l'anglais (B1/B2). Vous maîtrisez Markdown et des générateurs de sites statiques (MkDocs, Docusaurus, Jekyll, Hugo... un plus). Vous avez une bonne connaissance de Git / GitLab (branches, merge requests, CI/CD), mais aussi des connaissances en intégration continue (pipelines GitLab CI). Vous avez des notions de scripting (Python, Bash) pour l'automatisation.\nVous faites preuve d'autonomie, d'initiative, de rigueur, d'un sens de l'organisation, d'une capacité à documenter clairement. Vous avez un esprit d'analyse et de synthèse, une bonne capacité de communication et de travail en équipe.\nVous maîtrisez des outils de conception graphique (Figma), mais aussi WordPress. Vous avez des compétences en design UX/UI : compréhension de l'expérience utilisateur, ergonomie, prototypage. Vous avez une connaissance des langages web : HTML, CSS, JavaScript. Quelques compétences supplémentaires :\n- Créativité et sens esthétique : capacité à créer des designs attractifs et cohérents.\n- Compétences en communication : pour comprendre les besoins du client et présenter ses idées.\n- Gestion de projet : organisation, respect des délais, capacité à travailler en équipe.\n- Veille technologique et tendances : rester à jour avec les nouvelles tendances et outils du digital.\n- Compétences en storytelling visuel : capacité à transmettre un message efficacement à travers le design.\nVous avez idéalement déjà créé un site internet ou application mobile, réalisé un projet informatique sur GitLab, voire vous avez un portfolio (n'hésitez pas à le joindre en pièce jointe).\nPour information, nous ne proposons pas de stage alterné (ni de stage avec trois interruptions ou plus) et nos stages ne peuvent pas être convertis en alternance (la campagne d'alternance commencera vers mars).\n\n",
+      "dateCreation": "2026-10-15T14:34:20.454Z",
+      "dateActualisation": "2026-10-15T14:34:20.454Z",
+      "lieuTravail": {
+        "libelle": "94 - Arcueil",
+        "codePostal": "94110",
+        "commune": "94003"
+      },
+      "romeCode": "M1818",
+      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure logiciel informatique",
+      "entreprise": {
+        "nom": "Orange SA"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "61.10Z",
+      "secteurActivite": "61",
+      "secteurActiviteLibelle": "Télécommunications filaires",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7972719",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=3CYkwbCAOmXFaVjmu3HCeA==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "7861465",
       "intitule": "STAGE - Ingénieur(e) IA & Cybersécurité - Classification de Documents F/H",
@@ -99,9 +913,9 @@
     {
       "id": "7773944",
       "intitule": "STAGE MARKETING COMMERCIAL & BUSINESS ANALYST H/F",
-      "description": "Le poste de STAGE MARKETING COMMERCIAL & BUSINESS ANALYST H/FNous recherchons, pour AUTODISTRIBUTION SMAG, site de BEUVRY (62), un :STAGIAIRE MARKETING COMMERCIAL & BUSINESS ANALYST H/FDurée de 6 mois / Bac +2 à Bac +5Basé à Beuvry / Déplacements ponctuels possiblesRattaché(e) à la direction commerciale, vous contribuerez directement à la performance commerciale de l'entreprise en accompagnant les managers commerciaux dans leurs analyses, leurs actions marketing et le déploiement d'opérations terrain.Vous recherchez un stage concret, responsabilisant et formateur où vos idées auront un impact réel ? Alors cette opportunité est faite pour vous.Vos missionsAnalyse de la performance commercialeConstruire et mettre à jour des tableaux de bord de suivi des ventes.Analyser les performances par secteur, client, famille de produits ou commercial.Identifier les leviers de croissance et les opportunités de développement.Réaliser des études ponctuelles pour aider à la prise de décision.Business AnalystExploiter les données commerciales et marketing.Produire des reportings réguliers à destination de la Direction.Mesurer l'efficacité des actions commerciales et promotions.Participer à l'amélioration des outils de pilotage et des KPI.Marketing CommercialParticiper à la conception et au déploiement d'opérations commerciales.Préparer les supports de communication destinés aux équipes et aux clients.Contribuer à l'organisation d'événements, animations commerciales et challenges.Assurer le suivi des actions et la mesure des résultats.Communication & PrésentationsRéaliser des présentations PowerPoint pour les réunions commerciales, CODIR et conventions.Mettre en forme les résultats et recommandations de façon claire et impactante.Créer des supports visuels professionnels pour accompagner les projets de développement.Gestion de projetsAccompagner le déploiement de nouveaux outils ou processus commerciaux.Coordonner certaines actions entre les équipes commerciales, marketing et opérationnelles.Assurer le suivi des plans d'action jusqu'à leur mise en œuvre.Le profil recherchéProfil recherchéÉtudiant(e) en École de Commerce, IAE ou Université (Bac +2 à Bac +5).Forte appétence pour le commerce, l'analyse et le marketing.Aisance avec Excel, PowerPoint et les outils bureautiques.Esprit analytique et goût des chiffres.Curieux(se), autonome et force de proposition.Excellent relationnel et capacité à travailler avec des interlocuteurs variés.Les plusMaîtrise avancée d'Excel (TCD, recherche Xp>Connaissances en Power BI ou outils de data visualisation.Sens du design et de la communication visuelle.Ce que nous vous proposons",
+      "description": "Le poste de STAGE MARKETING COMMERCIAL & BUSINESS ANALYST H/FNous recherchons, pour AUTODISTRIBUTION SMAG, site de BEUVRY (62), un :STAGIAIRE MARKETING COMMERCIAL & BUSINESS ANALYST H/FDurée de 6 mois / Bac +2 à Bac +5Basé à Beuvry / Déplacements ponctuels possiblesRattaché(e) à la direction commerciale, vous contribuerez directement à la performance commerciale de l'entreprise en accompagnant les managers commerciaux dans leurs analyses, leurs actions marketing et le déploiement d'opérations terrain.Vous recherchez un stage concret, responsabilisant et formateur où vos idées auront un impact réel ? Alors cette opportunité est faite pour vous.Vos missionsAnalyse de la performance commercialeConstruire et mettre à jour des tableaux de bord de suivi des ventes.Analyser les performances par secteur, client, famille de produits ou commercial.Identifier les leviers de croissance et les opportunités de développement.Réaliser des études ponctuelles pour aider à la prise de décision.Business AnalystExploiter les données commerciales et marketing.Produire des reportings réguliers à destination de la Direction.Mesurer l'efficacité des actions commerciales et promotions.Participer à l'amélioration des outils de pilotage et des KPI.Marketing CommercialParticiper à la conception et au déploiement d'opérations commerciales.Préparer les supports de communication destinés aux équipes et aux clients.Contribuer à l'organisation d'événements, animations commerciales et challenges.Assurer le suivi des actions et la mesure des résultats.Communication & PrésentationsRéaliser des présentations PowerPoint pour les réunions commerciales, CODIR et conventions.Mettre en forme les résultats et recommandations de façon claire et impactante.Créer des supports visuels professionnels pour accompagner les projets de développement.Gestion de projetsAccompagner le déploiement de nouveaux outils ou processus commerciaux.Coordonner certaines actions entre les équipes commerciales, marketing et opérationnelles.Assurer le suivi des plans d'action jusqu'à leur mise en œuvre.Le profil recherchéProfil recherché Forte appétence pour le commerce, l'analyse et le marketing.Aisance avec Excel, PowerPoint et les outils bureautiques.Esprit analytique et goût des chiffres.Curieux(se), autonome et force de proposition.Excellent relationnel et capacité à travailler avec des interlocuteurs variés.Les plusMaîtrise avancée d'Excel (TCD, recherche Xp>Connaissances en Power BI ou outils de data visualisation.Sens du design et de la communication visuelle.Ce que nous vous proposons",
       "dateCreation": "2026-10-08T12:16:50.497Z",
-      "dateActualisation": "2026-10-08T12:16:50.497Z",
+      "dateActualisation": "2026-10-15T12:41:20.194Z",
       "lieuTravail": {
         "libelle": "62 - Beuvry",
         "codePostal": "62660",
@@ -267,84 +1081,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "7557351",
-      "intitule": "Stage Ingénieur/e IA - Reinforcement Learning - Défense & Sécurité - Aix-en-Provence H/F",
-      "description": "Au sein de la BU Défense & Sécurité de CS GROUP, l'agence Systèmes Opérationnels et Interopérabilité d'Aix-en-Provence recherche un stagiaire de niveau Bac+5 issu d'une école d'ingénieurs.Le stage porte sur la poursuite du développement d'un produit intégrant une intelligence artificielle stratégique dans un simulateur de vol aérien.Ce produit permet de piloter des avions et/ou des drones au sein d'un environnement CGF (Computer Generated Forces) dans le cadre de scénarios de combat BVR (Beyond Visual Range). L'IA sélectionne les stratégies à appliquer et pilote en temps réel les différentes plateformes aériennes. Elle prend en compte les paramètres clés du combat, analyse la situation tactique et assigne intelligemment les avions d'une même équipe aux différentes cibles en fonction de leur importance et du contexte opérationnel.MissionsEncadré par un ingénieur IA spécialiste du produit, le stagiaire participera notammentp>Développer de nouvelles fonctionnalités en Python Faire évoluer l'interface front-end en React Réaliser des entraînements dans un environnement existant avec Stable-Baselines3 Développer et améliorer des stratégies de Reinforcement Learning Renforcer la compréhension et la prise de décision de l'IA dans des situations de combat BVR Développer des modèles multi-agents Évaluer, comparer et améliorer les performances des différentes stratégies Intégrer les nouveaux modèles et fonctionnalités dans le produit",
-      "dateCreation": "2026-10-01T12:13:26.900Z",
-      "dateActualisation": "2026-10-01T12:13:26.900Z",
-      "lieuTravail": {
-        "libelle": "13 - Aix-en-Provence",
-        "codePostal": "13080",
-        "commune": "13001"
-      },
-      "romeCode": "M1882",
-      "romeLibelle": "Architecte sécurité informatique",
-      "appellationlibelle": "Architecte sécurité informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7557351",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56550473?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7557398",
-      "intitule": "Stage : Ingénieur/e Système - Défense & Sécurité - Le Plessis-Robinson H/F",
-      "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.Accompagner d'un ingénieur système confirmé, il s'agira de mener les mêmes mission qu'un ingénieur système, pour participer à la réalisation d'un VCS (Voice Communication Système) dans le domaine du contrôle aérien.Vos missions :Rédiger les exigences systèmes (SSS),Participer à la conception système : niveau système, logique, physique,Définition des exigences d'interfaces,Accompagner les équipes de développement logiciel et les équipes d'intégration/validation système dans la prise en main de la fonction système...Environnement techniqueVoIPContrôle AérienHaute disponibilitéConteneurisationOutils : ALM, Capella",
-      "dateCreation": "2026-10-01T12:13:28.679Z",
-      "dateActualisation": "2026-10-01T12:13:28.679Z",
-      "lieuTravail": {
-        "libelle": "92 - Plessis-Robinson",
-        "codePostal": "92350",
-        "commune": "92060"
-      },
-      "romeCode": "M1884",
-      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
-      "appellationlibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7557398",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56550481?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "7557384",
       "intitule": "Stage : Ingénieur/e Sécurisation de la téléphonie - Défense & Sécurité - Le Plessis-Robinson H/F",
       "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.Vous rejoindrez une équipe de 5 à 10 personnes, intégrant des développeurs, des valideurs, des ingénieurs systèmes et des experts en systèmes de communication vocaux (VCS).Vos missions :Analyser la mise en œuvre d'une solution de SBC (Session Border Control)  en mode cluster permettant de sécuriser les communications entre deux réseaux,Contrainte vis-à-vis de nos systèmes et du raccordement réseau, montage de la plate-forme de test,Test de la solution dans un environnement simulant l'environnement d'interconnexion téléphonique d'Eurocontrol,Performance de la haute-disponibilité (délai, perte éventuelle d'appel),Analyse des qualités et défauts de la solution => proposition d'amélioration de notre infrastructure réseau et applicative...Environnement techniqueHTTPSVoIP,SIP, proxy-SIP,Pare-feu ",
@@ -427,7 +1163,7 @@
       "intitule": "Stage - Développeur/euse Fullstack - Angular Node.js - Transport - Lyon H/F",
       "description": "Au sein de la Business Unit Transport, nos équipes lyonnaises développent des solutions stratégiques pour les grands acteurs de la mobilité. Vous rejoignez l'équipe en charge d'une application au cœur de la Supply Chain d'un acteur du ferroviaire : gestion des commandes de transport, organisation des acheminements et suivi du parc de wagons. Encadré.e par un Technical Leader et votre tuteur, vous contribuez à la conception et au développement de nouvelles fonctionnalités.Vous participez pleinement à la vie de l'équipe, aux cérémonies Agile et à la réalisation des évolutions de l'application. Vous utilisez également GitHub Copilot dans un cadre maîtrisé afin d'expérimenter et de mesurer les apports de l'IA générative dans les activités de développement logiciel.Votre rôle et vos missionsVous participez activement au développement d'un module de gestion des données logistiques :Analyser les besoins et participer à la conception technique.Développer des interfaces Angular et des services back-end Node.js.Modéliser et exploiter les données, avec une ouverture sur MongoDB et MongoDB Atlas.Réaliser les tests unitaires, les revues de code et la documentation associée.Intégrer les développements dans la chaîne CI/CD et contribuer à la maintenance évolutive.Environnement technologique : Angular, TypeScript, Node.js, MongoDB, GitLab, Jenkins, SonarQube, Datadog, Jira, méthodes Agile.Les apports du stageDévelopper une fonctionnalité full-stack sur une application ferroviaire concrète.Approfondir Angular, Node.js et la modélisation de données SQL/NoSQL.Découvrir les pratiques de qualité logicielle, de CI/CD et de delivery Agile.Évoluer au sein d'une équipe expérimentée et gagner progressivement en autonomie.",
       "dateCreation": "2026-09-23T12:16:59.669Z",
-      "dateActualisation": "2026-10-12T12:39:27.596Z",
+      "dateActualisation": "2026-10-15T12:33:31.747Z",
       "lieuTravail": {
         "libelle": "69 - Lyon",
         "commune": "69123"
@@ -740,52 +1476,6 @@
             "nom": "TALENTS_HANDICAP",
             "url": "https://www.talents-handicap.com/315-wavestone/342999-stage-de-fin-d-etudes-alternance-sujet-de-stage-financement-de-l-innovation-et-de-la-r-d?src=FranceTravail",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7010311",
-      "intitule": "Stage - Développement de géométries 2D dans NEMESI F/H",
-      "description": "Framatome est un leader international de l'énergie nucléaire, reconnu pour ses solutions innovantes et digitales, ses technologies à forte valeur ajoutée à destination du parc nucléaire mondial. Forte d'une expertise mondiale et de solides références en termes de fiabilité et de performances, l'entreprise conçoit, entretient et installe des composants et des combustibles ainsi que des systèmes de contrôle-commande pour les centrales nucléaires.\n\nVous serez intégré(e) au département en charge du développement et de la validation physique de codes et méthodes utilisés pour dimensionner le coeur des réacteurs et en démontrer la sûreté.\nMissions / Descriptif du stage :\nAPOLLO3® est le nouveau code nucléaire déterministe actuellement développé par le CEA dans le cadre de simulations neutroniques haute-fidélité, aussi bien à l'échelle du réseau (lattice) qu'à l'échelle du coeur. NEMESI est un prototype de plateforme industrielle conçue pour les calculs réseau et la génération de bibliothèques de données multiparamétriques destinées aux calculs de coeur avec APOLLO3®.\nBien qu'APOLLO3® propose une méthode « native » de génération de géométries, certaines configurations complexes ne peuvent pas être représentées de cette manière. APOLLO3® intègre déjà un outil externe conçu pour ce type de géométries, appelé ALAMOS.\nDans le cadre de l'industrialisation d'APOLLO3®, NEMESI est co-développé par EDF et Framatome et vise à simplifier la préparation des calculs de réseau, tant pour les utilisateurs novices que pour les plus avancés.\nLa mission principale de ce stage consistera à poursuivre le développement de deux modules Python destinés à la génération de géométries de coeur 2D complètes, y compris des réflecteurs analytiques 2D. Ces modules Python devront être intégrés au flux de travail de NEMESI afin de permettre la génération à la volée de géométries complexes, soit à l'aide de la méthode native proposée par APOLLO3®, soit via l'interface proposée par ALAMOS.\nLe/la stagiaire sera notamment amené(e) à :\n- Concevoir l'architecture, développer de nouvelles fonctionnalités et intégrer les modules dans NEMESI,\n- Tester et valider ses développements à l'aide de géométries déjà définies et validées,\n- Rédiger la documentation associée.\n\nVous préparez un diplôme de niveau Bac +5 en école d'ingénieurs ou équivalent universitaire, idéalement avec une spécialisation en informatique.\nDynamique et autonome, vous appréciez le travail en équipe et faites preuve d'une bonne capacité d'écoute. Force de proposition, vous savez communiquer sur l'avancement de vos travaux et rédiger une documentation claire et structurée.\nCompétences requises :\nExpérience en développement Python, idéalement sur des projets de taille conséquente\nCompétences en conception logicielle\nMaîtrise des outils de gestion de versions, notamment Git\nFamiliarité avec les environnements Linux et les interfaces en ligne de commande (Bash)\nDes connaissances en neutronique sont appréciées\nNiveau d'anglais intermédiaire",
-      "dateCreation": "2026-09-19T00:33:06.289Z",
-      "dateActualisation": "2026-09-19T00:33:06.289Z",
-      "lieuTravail": {
-        "libelle": "92 - Courbevoie",
-        "codePostal": "92400",
-        "commune": "92026"
-      },
-      "romeCode": "M1841",
-      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
-      "appellationlibelle": "Ingénieur informaticien / Ingénieure informaticienne",
-      "entreprise": {
-        "nom": "Framatome"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {
-        "libelle": "Annuel de 12600.0 Euros à 17400.0 Euros"
-      },
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "62.09Z",
-      "secteurActivite": "62",
-      "secteurActiviteLibelle": "Autres activités informatiques",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7010311",
-        "partenaires": [
-          {
-            "nom": "BROADBEAN",
-            "url": "https://www.aplitrak.com/?adid=UEFSSVMuMzA0OTYuNjcwNkBmcmFtYXRvbWUuYXBsaXRyYWsuY29t",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
           }
         ]
       },
