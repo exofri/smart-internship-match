@@ -1,11 +1,318 @@
 {
-  "fetched_at": "2026-10-26T13:39:02Z",
+  "fetched_at": "2026-11-02T16:38:14Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
     "range": "0-49"
   },
   "offers": [
+    {
+      "id": "8420498",
+      "intitule": "Stage - Ingénieur Logiciel F/H",
+      "description": "Quel environnement de travail ?\n\nAu sein de la Direction de l'Expérience Client, dans la Direction des Parcours Clients et Processus (DPCP), vous rejoignez la direction de l'Expérience Paiement dont le rôle est de penser les innovations pour faire vivre à nos clients une expérience de paiement simple, sans effort, sécurisée à moindre coût afin de faire levier sur le business.\n\nRejoignez notre équipe Marketing & Projets Facture et contribuez à l'élaboration des outils clés pour maximiser l'expérience de paiement de nos clients et garantir la croissance durable de nos revenus !\n\nNotre terrain de jeu en 3 chiffres :\n\n25 millions de factures sur les univers Fixe, Mobile Convergent pour les marques Orange & Sosh.\n1,15 milliards d'euros de chiffre d'affaires à encaisser.\n2 millions de contacts clients en Digital, en Services Clients, en SVI et en boutiques Orange.\n600k dossiers ouverts en recouvrement tous les mois.\nCes chiffres sont mensuels. C'est fois 12 pour une année. \n\n        À quoi ressemble le poste ?\nLe référentiel documentaire WikiFacture, déjà développé et hébergé sur GitLab au format Markdown, a pour objectif d'expliquer le fonctionnement de tous les objets présents sur une facture (Exemple : pour l'adresse mail d'un client, il permet de savoir où est stockée la donnée, comment la consulter, où la consulter, qui peut la mettre à jour, quand est-ce qu'elle est obligatoire etc.).\nVous rejoignez l'équipe pour poursuivre les travaux d'industrialisation du WikiFacture, déjà initiés, afin de transformer cette solution en un outil pérenne, robuste et facilement maintenable par l'ensemble des contributeurs internes.\nEnjeu : passer d'une solution de type \" prototype \" à un outil robuste, exploitable en continu par les équipes DPCP.\nVous participerez notamment à :\n- L'analyse de l'architecture actuelle du WikiFacture (structure des fichiers Markdown, organisation du dépôt GitLab) et l'identification des axes d'amélioration,\n- La mise en oeuvre de mécanismes d'automatisation (pipelines CI/CD GitLab, génération automatique du site),\n- La structuration et la normalisation du contenu existant (arborescence, conventions, templates),\n- La mise en place de contrôles qualité automatisés (linting Markdown, vérification des liens, tests de build),\n- L'amélioration de l'expérience de consultation pour les utilisateurs internes (navigation, recherche),\n- La rédaction de la documentation technique et des bonnes pratiques de contribution.\n  \n Qui recherchons-nous ?\nIl s'agit d'un stage de 6 mois à partir de janvier 2027.\nVous préparez un diplôme de niveau Bac+5 dans une université ou une école d'ingénieur, spécialisé en informatique / développement logiciel.\nVous êtes à l'aise pour lire l'anglais (B1/B2). Vous maîtrisez Markdown et des générateurs de sites statiques (MkDocs, Docusaurus, Jekyll, Hugo... un plus). Vous avez une bonne connaissance de Git / GitLab (branches, merge requests, CI/CD), mais aussi des connaissances en intégration continue (pipelines GitLab CI). Vous avez des notions de scripting (Python, Bash) pour l'automatisation.\nVous faites preuve d'autonomie, d'initiative, de rigueur, d'un sens de l'organisation, d'une capacité à documenter clairement. Vous avez un esprit d'analyse et de synthèse, une bonne capacité de communication et de travail en équipe.\nVous maîtrisez des outils de conception graphique (Figma), mais aussi WordPress. Vous avez des compétences en design UX/UI : compréhension de l'expérience utilisateur, ergonomie, prototypage. Vous avez une connaissance des langages web : HTML, CSS, JavaScript. Quelques compétences supplémentaires :\n- Créativité et sens esthétique : capacité à créer des designs attractifs et cohérents.\n- Compétences en communication : pour comprendre les besoins du client et présenter ses idées.\n- Gestion de projet : organisation, respect des délais, capacité à travailler en équipe.\n- Veille technologique et tendances : rester à jour avec les nouvelles tendances et outils du digital.\n- Compétences en storytelling visuel : capacité à transmettre un message efficacement à travers le design.\nVous avez idéalement déjà créé un site internet ou application mobile, réalisé un projet informatique sur GitLab, voire vous avez un portfolio (n'hésitez pas à le joindre en pièce jointe).\nPour information, nous ne proposons pas de stage alterné (ni de stage avec trois interruptions ou plus) et nos stages ne peuvent pas être convertis en alternance (la campagne d'alternance commencera vers mars).\n\n",
+      "dateCreation": "2026-10-30T14:34:04.783Z",
+      "dateActualisation": "2026-10-30T14:34:04.783Z",
+      "lieuTravail": {
+        "libelle": "94 - Arcueil",
+        "codePostal": "94110",
+        "commune": "94003"
+      },
+      "romeCode": "M1818",
+      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
+      "appellationlibelle": "Ingénieur / Ingénieure logiciel informatique",
+      "entreprise": {
+        "nom": "Orange SA"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "61.10Z",
+      "secteurActivite": "61",
+      "secteurActiviteLibelle": "Télécommunications filaires",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8420498",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=mDd0ixsBvG6W588kVjc9Lg==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8424991",
+      "intitule": "STAGE - Audit Stratégique et Transformation de la Ligne Marine F/H - Alcatel Submarine Networks",
+      "description": "Sous la supervision du Directeur des Offres Marine, le/la stagiaire aura pour missions\n \nA. Audit et Synthèse Stratégique\n \n- Cartographier les initiatives en cours (new building, R&D, rachats, partenariats) et évaluer leur valeur stratégique et rentabilité. \n- Analyser les clauses contractuelles (forces/faiblesses, lignes rouges, risques juridiques/financiers) pour les clients \"turnkey\" \n- Benchmark des tarifs ASN vs. Concurrents (OM, OMS, Emarine) pour la pose de câble, la maintenance, le survey, etc. \n- Modéliser un prix de marché cible (coût + marge + risque) et identifier les marges de progression. \n \nB. Analyse Concurrentielle et Sous-Traitance\n \n- Étudier le positionnement des concurrents (Subcon, NEC, nouveaux entrants) et des sous-traitants (OMS, OM/Elettra, startups bretonnes, etc.) \n- Évaluer les modèles de collaboration existants (ex : accord-cadre OMS) et proposer des améliorations (co-traitance, contrats-cadres) \n- Anticiper l'impact d'un 4ème acteur sur le marché (chinois, armateur) et ses conséquences pour ASN \n \nC. Optimisation de la Flotte et Logistique\n \n- Questionner la gestion actuelle de la flotte (délégation à LDA, temps de chargement, productivité) \n- Proposer des scénarios pour optimiser la logistique (lignes maritimes, dépôts de câbles stratégiques, partenariats logistiques) \n- Estimer les coûts des investissements potentiels (ex : navires de maintenance, MLV, grands navires de transport) et leur ROI \n \nD. Recommandations et Plan d'Action\n \n- Prioriser les initiatives (new building, R&D, rachats) en fonction des contraintes budgétaires et opérationnelles \n- Rédiger des rapports intermédiaires (J+2 mois, J+4 mois) et un rapport final avec \n- Synthèse des enjeux et opportunités \n- Recommandations stratégiques actionnables \n- Feuille de route 3/5/10 ans pour la ligne MarineÉtudiant(e) en\n \n- École d'ingénieur généraliste (avec spécialisation en logistique, transport, industrie, ou stratégie) \n- École de commerce (avec appétence pour les enjeux industriels, maritimes, ou l'audit stratégique) \n- Master en Audit, Finance, ou Stratégie d'Entreprise \n \nQualités requises\n \n- Esprit analytique : Capacité à synthétiser des données complexes (financières, techniques, marché) \n- Curiosité et proactivité : Envie de comprendre les enjeux d'un secteur technique et concurrentiel \n- Rigueur et neutralité : Approche factuelle, sans biais d'optimisme, pour des recommandations objectives \n- Adaptabilité : Travail en équipe transverse, avec des profils variés (ingénieurs, commerciaux, juristes) \n- Excellente communication : Rédaction claire de rapports et présentation des analyses à la direction \n \n \n \nFORMATION ET COMPÉTENCES REQUISES\n \nCompétences Techniques\n \n- Maîtrise des outils de modélisation financière, tableaux de bord \n- Connaissance des méthodes d'analyse stratégique \n- Notions en benchmark concurrentiel et modélisation de coûts (un plus) \n \nCompétences Sectorielles (un plus)\n \n- Intérêt marqué pour le monde maritime, industriel, ou des télécoms \n- Connaissance des enjeux logistiques (supply chain, gestion de flotte) \n- Sensibilité aux enjeux de durabilité (réduction de l'empreinte carbone, propulsion alternative) \n \nLangues\n \n- Anglais courant (indispensable pour les échanges avec les équipes internationales et les documents techniques) \n- Français professionnel \n \nPourquoi ce stage est-il unique ?\n \n- Impact direct : Contribuer à la stratégie Marine d'ASN, un acteur clé des infrastructures sous-marines mondiales \n- Vision 360° : Comprendre les enjeux techniques, financiers, commerciaux et logistiques d'un secteur en mutation \n- Réseau : Collaboration avec la direction générale, les experts métiers, et les parties prenantes externes \n- Apprentissage : Développement de compétences en audit stratégique, analyse de marché, et prise de décision \n \nModalités\n \n- Gratification : Selon barème légal \n- Début du stage : À définir (idéalement début janvier pour alignement avec les livrables intermédiaires) \n- Lieu : Siège d'ASN (Les Ulis) \n\nNos valeurs\n- ASN s'engage activement en faveur de la diversité et de l'inclusion, où chaque talent est reconnu et valorisé.",
+      "dateCreation": "2026-10-30T20:14:15.673Z",
+      "dateActualisation": "2026-10-30T20:14:15.673Z",
+      "lieuTravail": {
+        "libelle": "91 - Ulis",
+        "codePostal": "91940",
+        "commune": "91692"
+      },
+      "romeCode": "I1404",
+      "romeLibelle": "Conseiller / Conseillère support technique informatique",
+      "appellationlibelle": "Support aux utilisateurs en informatique",
+      "entreprise": {
+        "nom": "Alcatel Submarine Networks"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "42.22Z",
+      "secteurActivite": "42",
+      "secteurActiviteLibelle": "Construction de réseaux électriques et de télécommunications",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8424991",
+        "partenaires": [
+          {
+            "nom": "WE_RECRUIT",
+            "url": "https://careers.werecruit.io/fr/alcatel-submarine-networks/offres/stage---audit-strategique-et-transformation-de-la-ligne-marine-24e266?utm_source=francetravail&utm_medium=job-board",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/we_recruit80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8394657",
+      "intitule": "Développeur Data Stage / Python-Java - Freelance (H/F)",
+      "description": "Taux journalier (TJM): 470\n\nCONTEXTE\n\nGrande institution financière publique, DSI, équipe de comptabilité détaillée (environ 9 personnes, Île-de-France). L'équipe est responsable d'une application de gestion des écritures comptables détaillées : collecte des écritures et des données de gestion, rapprochements mensuels compte-gestion. Cette application est construite sur Data Stage. La DSI souhaite migrer vers Python ou Java, avec une ambition de fin mi-2027. L'équipe manque de ressources sur le sujet : le renfort permettrait d'accélérer la sortie de Data Stage.\n\nMISSIONS\n\n * Comprendre l'existant Data Stage (jobs, flux, règles de collecte et de rapprochement).\n * Réécrire et migrer les traitements vers Python ou Java dans le cadre du décommissionnement.\n * Garantir l'équivalence des résultats avec l'existant, en lien avec les business analysts comptables.\n * Travailler en équipe agile avec le PO, les BA et les experts comptables.\n\nOUTILS & ENVIRONNEMENT\n\n * Data Stage (existant)\n * Python et Java (cible)\n * Fonctionnement agile (SAFE)\n\nCONDITIONS DE TRAVAIL\n\n * Basé en Île-de-France\n\n 1. Développeur ou data engineer connaissant Data Stage (pour lire l'existant)\n 2. Solide en Python ou en Java (pour transformer)\n 3. Appétence pour un environnement comptable : écritures, rapprochements\n 4. Utilisation de l'IA appréciée\n 5. Basé en Île-de-France",
+      "dateCreation": "2026-10-29T09:03:14.002Z",
+      "dateActualisation": "2026-11-01T09:04:35.373Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris",
+        "commune": "75056"
+      },
+      "romeCode": "M1814",
+      "romeLibelle": "Scrum Master",
+      "appellationlibelle": "Scrum master informatique",
+      "entreprise": {
+        "nom": "Collective.work"
+      },
+      "typeContrat": "LIB",
+      "typeContratLibelle": "Profession libérale",
+      "natureContrat": "Emploi non salarié",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {
+        "commentaire": "470 € par jour"
+      },
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8394657",
+        "partenaires": [
+          {
+            "nom": "XTRAMILE",
+            "url": "https://api-v2-multidiff.xtramile.io/collect/88b20b064526fc4d885f256a764e130d",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/xtramile80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8362582",
+      "intitule": "Stage - Spécification et implémentation d'une chaîne de vérification F/H",
+      "description": "Quel environnement de travail ?\n\nL'équipe OSONS conçoit des solutions innovantes pour l'exploitation des réseaux. Nous développons le produit NIF Tooling Zone, qui intègre des logiciels open source pour déployer des Cloud Network Functions via la méthode GitOps. Nous créons également des sondes pour suivre en temps réel l'utilisation de nos réseaux.\n\nNotre équipe accompagne l'utilisation de ces solutions au sein des filiales du groupe Orange. En plus de nos activités de production, nous explorons de nouvelles technologies, contribuons à des communautés open source comme Sylva, et menons des travaux d'anticipation pour valoriser les réseaux. Nous étudions aussi l'apport de l'intelligence artificielle pour automatiser la gestion des fonctions réseau et participons à plusieurs projets d'innovation. \n\n        À quoi ressemble le poste ?\nLes CNF (Cloud-Native Functions) des fournisseurs sont déployées automatiquement sur des infrastructures Kubernetes à l'aide d'un grand nombre de paramètres, qui peuvent se compter par milliers. Or, les valeurs proposées par les fournisseurs ne sont pas toujours adaptées aux environnements d'Orange ni exemptes d'erreurs.\nL'objectif du stage est de concevoir un pipeline d'automatisation permettant de réduire les risques liés aux erreurs de saisie, aux schémas de configuration et au respect des configurations de référence (\" golden config \") :\nExplorer les solutions open source et évaluer leur potentiel.\nConcevoir l'architecture logicielle du prototype.\nDévelopper et tester un pipeline avec une CNF représentative.\nRédiger la documentation technique (en anglais).\nPrésenter vos résultats et partager vos avancées avec les équipes internes et communautaires.\n  \n Pour les étudiants qui aiment allier performance logicielle, innovation et qualité du code, il s'agit d'un terrain d'apprentissage idéal.\nQui recherchons-nous ?\nIl s'agit d'un stage de 4 à 6 mois à partir de janvier/février 2027.\nVous préparez un diplôme de niveau Bac+3/4/5 dans une université ou une école d'ingénieur, spécialisé en informatique / informatique système ou télécom.\nVous êtes à l'aise pour lire l'anglais technique (B2) : documentation et échanges internationaux. Vous maîtrisez des environnements virtualisés (Docker, Kubernetes), des langages de programmation (Go, Python ou RUST). Vous êtes à l'aise avec les outils d'environnement intégré (ie VsCode) et les outils d'IA. Vous avez idéalement des connaissances sur Linux et des protocoles IP.\nVous faites preuve de curiosité et d'un sens du relationnel pour travailler en équipe.\nPour information, nous ne proposons pas de stage alterné (ni de stage avec trois interruptions ou plus) et nos stages ne peuvent pas être convertis en alternance (la campagne d'alternance commencera vers mars).",
+      "dateCreation": "2026-10-28T14:34:21.996Z",
+      "dateActualisation": "2026-10-28T14:34:21.996Z",
+      "lieuTravail": {
+        "libelle": "22 - Lannion",
+        "codePostal": "22300",
+        "commune": "22113"
+      },
+      "romeCode": "M1827",
+      "romeLibelle": "Ingénieur / Ingénieure DevOps",
+      "appellationlibelle": "Ingénieur / Ingénieure développement logiciel informatique",
+      "entreprise": {
+        "nom": "Orange SA"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "61.10Z",
+      "secteurActivite": "61",
+      "secteurActiviteLibelle": "Télécommunications filaires",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8362582",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=+vvQIJ3Q/dRDrRYZgCuByA==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8362933",
+      "intitule": "Stage - Développeur / Développeuse & Fiabilisation de Données F/H",
+      "description": "Dans le cadre de son amélioration continue, la Direction des Offres MOSS a développé en 2026 une application tableau de bord pour piloter et suivre l'ensemble de ses offres techniques et commerciales. Ce tableau de bord a été développé en low-code (solution souveraine Simplicité) et add-on Bryntum GANTT.\nNous recherchons un(e) stagiaire pour contribuer activement à faire évoluer l'outil, automatiser les processus et fiabiliser les données du référentiel.\n\nVos missions\n\nSous la responsabilité et l'accompagnement de la Directrice des Offres, vous contribuerez activement à :\n\n- Évolution & Innovation : Faire évoluer le tableau de bord des offres pour répondre au mieux au besoin des directions internes et permettre l'accélération et l'automatisation du processus (évolutions low-code et/ou IA).\n- Gestion du besoin & Roadmap : Collecter le besoin des utilisateurs, maintenir et animer la roadmap évolutive de l'application.\n- Migration & Fiabilisation des données : Réaliser la migration des données du référentiel existant vers le nouvel outil et fiabiliser les données manquantes.\n- Efficacité opérationnelle : Mettre en place des automatisations pour améliorer l'efficacité des équipes avant-vente/vente et des collaborateurs.\n- Accompagnement du changement : Organiser des sessions de formation et de démonstration de l'application aux utilisateurs.\n- Soutien à la BITD : Participer au développement des produits digitaux des startups et PME françaises que nous encourageons dans le cadre du développement de la BITD.\n\nPourquoi nous rejoindre ?\n\nEn tant que stagiaire Tableau de bord des Offres, votre travail aura un impact direct sur les collaborateurs MOSS et le Comité de Direction. Vous serez au coeur de l'innovation en créant une application qui transforme réellement les processus internes en boucle courte dans une entreprise à taille humaine. Si vous cherchez un environnement où vos idées prennent vie rapidement et où vous voyez l'impact concret de votre travail, ce stage est fait pour vous.\n  \n Votre profil\n\n- Vous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur).\n- Prérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n\n- Compétences techniques :\n\n- Indispensables : Connaissances du développement logiciel et des bases de données, intérêt pour les plateformes low-code / no-code et l'intégration d'outils d'IA, manipulation et migration de données.\n\n- Appréciées : Business Intelligence (BI), notions sur la solution Simplicité.\n\n- Appétences & Orientation :\n\n- Appétence pour la coordination de projet et l'amélioration continue.\n- Intérêt marqué pour l'avant-vente et le commerce.\n\nQualités personnelles :\n\n- Curiosité, autonomie & proactivité : Vous avez envie de vous impliquer et de faire la différence.\n-  Pédagogie & Rigueur : Capacité à former les utilisateurs, animer des démos et garantir l'intégrité des données.\n\n\nNote relative à la sécurité :\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
+      "dateCreation": "2026-10-28T14:35:27.602Z",
+      "dateActualisation": "2026-10-28T14:35:27.602Z",
+      "lieuTravail": {
+        "libelle": "92 - Issy-les-Moulineaux",
+        "codePostal": "92130",
+        "commune": "92040"
+      },
+      "romeCode": "M1827",
+      "romeLibelle": "Ingénieur / Ingénieure DevOps",
+      "appellationlibelle": "Ingénieur / Ingénieure développement logiciel informatique",
+      "entreprise": {
+        "nom": "MOSS"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "74.90B",
+      "secteurActivite": "74",
+      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8362933",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=h9xeMzep2bxo3jOMDeDS8g==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8354802",
+      "intitule": "Stage - Consultant(e) communication et sensibilisation - Cybersécurité - Île-de-France H/F",
+      "description": "Vous participez à l'élaboration de plans de sensibilisation et de communication cyber.\nVous créez des contenus de sensibilisation ludiques (serious games, quiz, escape games) ou classiques (e-learning, guides, fiches réflexes).\nVous contribuez à l'ingénierie pédagogique et à la création de formations en cybersécurité.\nVous co-animez des sessions de sensibilisation, en présentiel ou à distance.\nVous rédigez et designez des supports : présentations, infographies, vidéos, articles, newsletters, publications sur les réseaux sociaux internes.\nVous contribuer aux stratégies de conduite du changement : accompagnement des transformations, adoption de nouvelles solutions, changement de comportement à grande échelle.\nVous participez à l'organisation d'événements cyber pour nos clients.\nVous aidez à créer et animer des communautés autour de thématiques cyber.\nVous apportez un appui aux équipes techniques et au management sur leurs besoins de communication.\nVous contribuez au développement de l'offre et aux avant-ventes.",
+      "dateCreation": "2026-10-28T12:54:51.928Z",
+      "dateActualisation": "2026-10-28T12:54:51.928Z",
+      "lieuTravail": {
+        "libelle": "92 - Courbevoie",
+        "codePostal": "92400",
+        "commune": "92026"
+      },
+      "romeCode": "M1882",
+      "romeLibelle": "Architecte sécurité informatique",
+      "appellationlibelle": "Architecte cybersécurité",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8354802",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56863027?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8303192",
+      "intitule": "STAGE - Base de données Python/Java F/H - Alcatel Submarine Networks",
+      "description": "La mission consiste à réaliser une étude de faisabilité, puis architecturer et dimensionner une base de données transverse entre un client lourd Java et un service Web Python. \n \nIl faudra définir l'architecture des tables ou collections en prenant en compte les besoins spécifiques métier, puis réaliser un PoC. Si le temps le permet, le stagiaire peut aller jusqu'à l'intégration de la base de données dans l'architecture existante en production.  \n \n \n \nStack technique : \n \n- SQL (PostgreSQL, SQLite) \n- No-SQL (MongoDB) \n- Connaissance des interfaces entre des bases de données et Python nécessaire. \n- Programmation Orienté Objet \n- Connaissance en Java optionnelEtudiant(e) issu(e) d'un cursus en informatique, entre bac+3 et bac+5. \n\nNos valeurs\n- ASN s'engage activement en faveur de la diversité et de l'inclusion, où chaque talent est reconnu et valorisé.",
+      "dateCreation": "2026-10-27T20:15:32.252Z",
+      "dateActualisation": "2026-10-27T20:15:32.252Z",
+      "lieuTravail": {
+        "libelle": "91 - Ulis",
+        "codePostal": "91940",
+        "commune": "91692"
+      },
+      "romeCode": "I1404",
+      "romeLibelle": "Conseiller / Conseillère support technique informatique",
+      "appellationlibelle": "Support aux utilisateurs en informatique",
+      "entreprise": {
+        "nom": "Alcatel Submarine Networks"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "42.22Z",
+      "secteurActivite": "42",
+      "secteurActiviteLibelle": "Construction de réseaux électriques et de télécommunications",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8303192",
+        "partenaires": [
+          {
+            "nom": "WE_RECRUIT",
+            "url": "https://careers.werecruit.io/fr/alcatel-submarine-networks/offres/stage---base-de-donnees-pythonjava-caa7d7?utm_source=francetravail&utm_medium=job-board",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/we_recruit80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "8249514",
       "intitule": "Stage : Ingénieur/e Système - Défense & Sécurité - Le Plessis-Robinson H/F",
@@ -84,45 +391,6 @@
             "nom": "TALENTPLUG",
             "url": "http://app.mytalentplug.com/redirection.aspx?ojid=tJ1PisfWv5CoxkPqN+uJhg==",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8066288",
-      "intitule": "STAGE BAC + 2 au BAC + 5 spécialité informatique / développement de logiciel F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise EDF recherche actuellement des profils :\nIntitulé du Stage\nDéveloppement informatique & outils métiers pour le service exploitation : Niveau Bac +2 minimum spécialisé en informatique, data ou développement logiciel, mission de 3 à 6 mois",
-      "dateCreation": "2026-10-19T12:25:40.013Z",
-      "dateActualisation": "2026-10-23T13:37:13.596Z",
-      "lieuTravail": {
-        "libelle": "26 - Valdrôme",
-        "codePostal": "26310",
-        "commune": "26361"
-      },
-      "romeCode": "M1810",
-      "romeLibelle": "Technicien / Technicienne d'exploitation informatique",
-      "appellationlibelle": "Technicien(ne) développement logiciel",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8066288",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56721943?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
           }
         ]
       },
@@ -821,52 +1089,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "7972719",
-      "intitule": "Stage - Ingénieur Logiciel F/H",
-      "description": "Quel environnement de travail ?\n\nAu sein de la Direction de l'Expérience Client, dans la Direction des Parcours Clients et Processus (DPCP), vous rejoignez la direction de l'Expérience Paiement dont le rôle est de penser les innovations pour faire vivre à nos clients une expérience de paiement simple, sans effort, sécurisée à moindre coût afin de faire levier sur le business.\n\nRejoignez notre équipe Marketing & Projets Facture et contribuez à l'élaboration des outils clés pour maximiser l'expérience de paiement de nos clients et garantir la croissance durable de nos revenus !\n\nNotre terrain de jeu en 3 chiffres :\n\n25 millions de factures sur les univers Fixe, Mobile Convergent pour les marques Orange & Sosh.\n1,15 milliards d'euros de chiffre d'affaires à encaisser.\n2 millions de contacts clients en Digital, en Services Clients, en SVI et en boutiques Orange.\n600k dossiers ouverts en recouvrement tous les mois.\nCes chiffres sont mensuels. C'est fois 12 pour une année. \n\n        À quoi ressemble le poste ?\nLe référentiel documentaire WikiFacture, déjà développé et hébergé sur GitLab au format Markdown, a pour objectif d'expliquer le fonctionnement de tous les objets présents sur une facture (Exemple : pour l'adresse mail d'un client, il permet de savoir où est stockée la donnée, comment la consulter, où la consulter, qui peut la mettre à jour, quand est-ce qu'elle est obligatoire etc.).\nVous rejoignez l'équipe pour poursuivre les travaux d'industrialisation du WikiFacture, déjà initiés, afin de transformer cette solution en un outil pérenne, robuste et facilement maintenable par l'ensemble des contributeurs internes.\nEnjeu : passer d'une solution de type \" prototype \" à un outil robuste, exploitable en continu par les équipes DPCP.\nVous participerez notamment à :\n- L'analyse de l'architecture actuelle du WikiFacture (structure des fichiers Markdown, organisation du dépôt GitLab) et l'identification des axes d'amélioration,\n- La mise en oeuvre de mécanismes d'automatisation (pipelines CI/CD GitLab, génération automatique du site),\n- La structuration et la normalisation du contenu existant (arborescence, conventions, templates),\n- La mise en place de contrôles qualité automatisés (linting Markdown, vérification des liens, tests de build),\n- L'amélioration de l'expérience de consultation pour les utilisateurs internes (navigation, recherche),\n- La rédaction de la documentation technique et des bonnes pratiques de contribution.\n  \n Qui recherchons-nous ?\nIl s'agit d'un stage de 6 mois à partir de janvier 2027.\nVous préparez un diplôme de niveau Bac+5 dans une université ou une école d'ingénieur, spécialisé en informatique / développement logiciel.\nVous êtes à l'aise pour lire l'anglais (B1/B2). Vous maîtrisez Markdown et des générateurs de sites statiques (MkDocs, Docusaurus, Jekyll, Hugo... un plus). Vous avez une bonne connaissance de Git / GitLab (branches, merge requests, CI/CD), mais aussi des connaissances en intégration continue (pipelines GitLab CI). Vous avez des notions de scripting (Python, Bash) pour l'automatisation.\nVous faites preuve d'autonomie, d'initiative, de rigueur, d'un sens de l'organisation, d'une capacité à documenter clairement. Vous avez un esprit d'analyse et de synthèse, une bonne capacité de communication et de travail en équipe.\nVous maîtrisez des outils de conception graphique (Figma), mais aussi WordPress. Vous avez des compétences en design UX/UI : compréhension de l'expérience utilisateur, ergonomie, prototypage. Vous avez une connaissance des langages web : HTML, CSS, JavaScript. Quelques compétences supplémentaires :\n- Créativité et sens esthétique : capacité à créer des designs attractifs et cohérents.\n- Compétences en communication : pour comprendre les besoins du client et présenter ses idées.\n- Gestion de projet : organisation, respect des délais, capacité à travailler en équipe.\n- Veille technologique et tendances : rester à jour avec les nouvelles tendances et outils du digital.\n- Compétences en storytelling visuel : capacité à transmettre un message efficacement à travers le design.\nVous avez idéalement déjà créé un site internet ou application mobile, réalisé un projet informatique sur GitLab, voire vous avez un portfolio (n'hésitez pas à le joindre en pièce jointe).\nPour information, nous ne proposons pas de stage alterné (ni de stage avec trois interruptions ou plus) et nos stages ne peuvent pas être convertis en alternance (la campagne d'alternance commencera vers mars).\n\n",
-      "dateCreation": "2026-10-15T14:34:20.454Z",
-      "dateActualisation": "2026-10-15T14:34:20.454Z",
-      "lieuTravail": {
-        "libelle": "94 - Arcueil",
-        "codePostal": "94110",
-        "commune": "94003"
-      },
-      "romeCode": "M1818",
-      "romeLibelle": "Ingénieur / Ingénieure d'étude informatique",
-      "appellationlibelle": "Ingénieur / Ingénieure logiciel informatique",
-      "entreprise": {
-        "nom": "Orange SA"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "61.10Z",
-      "secteurActivite": "61",
-      "secteurActiviteLibelle": "Télécommunications filaires",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7972719",
-        "partenaires": [
-          {
-            "nom": "TALENTPLUG",
-            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=3CYkwbCAOmXFaVjmu3HCeA==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "7861465",
       "intitule": "STAGE - Ingénieur(e) IA & Cybersécurité - Classification de Documents F/H",
       "description": "Contexte & Enjeux du projet :\n\nDans le cadre de nos travaux d'innovation sur la Data-Centric Security (DCS), la protection des données repose sur une qualification et une classification précises des informations traitées.\n\nL'objectif de ce stage est d'étudier et d'évaluer l'apport de l'intelligence artificielle (IA) à la classification de sécurité des documents. Vous développerez un PoC local capable de proposer une classification adaptée à partir du contenu et du contexte d'un document, d'expliquer sa décision et de détecter les cas ambigus nécessitant une validation humaine.\n\nVos missions :\n\nSous la responsabilité et l'accompagnement direct de notre Équipe Architecture Cybersécurité, vous interviendrez sur l'ensemble de la démarche R&D :\n\n- État de l'art & Analyse : Étudier les approches pertinentes pour la classification (systèmes à base de règles, classifieurs sémantiques et modèles de langage exécutés localement).\n\n- Définition du cadre d'expérimentation : Définir la politique de classification expérimentale en concertation avec votre encadrant.\n\n- Constitution du jeu de données : Constituer un corpus synthétique annoté intégrant des cas simples, des cas contextuels et des cas ambigus.\n\n- Benchmarking & Analyse comparative : Comparer les différentes méthodes selon plusieurs critères (taux de sous-classification/surclassification, qualité et intelligibilité des justifications, temps de traitement).\n\n- Développement du PoC : Concevoir et développer un démonstrateur sous Python permettant de proposer, expliquer et faire valider une classification.\n\n- Restitution & Documentation : Présenter les résultats, la démonstration finale, les limites identifiées et former des recommandations pour la suite du projet.\n\nLivrables clés attendus : Corpus annoté, benchmark comparatif des méthodes, PoC documenté et démonstration finale.\n  \n Votre profil :\n\nVous préparez un diplôme de niveau Bac +5 (dernière année d'école d'ingénieurs ou Master 2) en informatique, intelligence artificielle ou cybersécurité.\n\nCompétences techniques :\n\n- Bonne maîtrise du langage Python.\n\n- Solides connaissances en apprentissage automatique (Machine Learning) et traitement automatique du langage naturel (NLP).\n\n- Pratique des outils Git et de l'environnement Linux.\n\n- Un plus apprécié : Expérience avec la bibliothèque PyTorch, l'architecture Transformers ou l'exécution locale de LLM.\n\n- Note : Une expertise préalable sur la Data-Centric Security (DCS) n'est pas requise pour ce stage.\n\n- Qualités personnelles : Rigueur expérimentale, curiosité technique, esprit critique et capacite à expliquer des choix d'IA (explicabilité).\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.\n",
@@ -1074,44 +1296,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "7133232",
-      "intitule": "Stage - Développeur/euse Fullstack - Angular Node.js - Transport - Lyon H/F",
-      "description": "Au sein de la Business Unit Transport, nos équipes lyonnaises développent des solutions stratégiques pour les grands acteurs de la mobilité. Vous rejoignez l'équipe en charge d'une application au cœur de la Supply Chain d'un acteur du ferroviaire : gestion des commandes de transport, organisation des acheminements et suivi du parc de wagons. Encadré.e par un Technical Leader et votre tuteur, vous contribuez à la conception et au développement de nouvelles fonctionnalités.\nVous participez pleinement à la vie de l'équipe, aux cérémonies Agile et à la réalisation des évolutions de l'application. Vous utilisez également GitHub Copilot dans un cadre maîtrisé afin d'expérimenter et de mesurer les apports de l'IA générative dans les activités de développement logiciel.\nVotre rôle et vos missions\nVous participez activement au développement d'un module de gestion des données logistiques :\nAnalyser les besoins et participer à la conception technique.\nDévelopper des interfaces Angular et des services back-end Node.js.\nModéliser et exploiter les données, avec une ouverture sur MongoDB et MongoDB Atlas.\nRéaliser les tests unitaires, les revues de code et la documentation associée.\nIntégrer les développements dans la chaîne CI/CD et contribuer à la maintenance évolutive.\nEnvironnement technologique : Angular, TypeScript, Node.js, MongoDB, GitLab, Jenkins, SonarQube, Datadog, Jira, méthodes Agile.\nLes apports du stage\nDévelopper une fonctionnalité full-stack sur une application ferroviaire concrète.\nApprofondir Angular, Node.js et la modélisation de données SQL/NoSQL.\nDécouvrir les pratiques de qualité logicielle, de CI/CD et de delivery Agile.\nÉvoluer au sein d'une équipe expérimentée et gagner progressivement en autonomie.",
-      "dateCreation": "2026-09-23T12:16:59.669Z",
-      "dateActualisation": "2026-10-26T12:47:08.819Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon",
-        "commune": "69123"
-      },
-      "romeCode": "M1884",
-      "romeLibelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
-      "appellationlibelle": "Pilote multiserveur informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7133232",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56406765?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "7093047",
       "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Industrie 5.0 et performance des opérations, au cœur des stratégies et des transformations des acteurs industriels.  (H/F)",
       "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste La recherche de performance opérationnelle est au cœur des problématiques des entreprises industrielles et des transformations opérées par ces dernières. Définir les bonnes stratégies, indicateurs et décliner les feuilles de routes pour atteindre les objectifs est un exercice constant pour s'adapter à un environnement de plus en plus complexe et challengeant.   Identifier les enjeux clés est un point de départ à l'élaboration ou à la mise à jour d'un plan de transformation. L'usine du futur est-elle guidée par l'IA, les outils digitaux, l'humain ou les 3 ? Les enjeux d'une usine sont-ils l'efficacité opérationnelle, la réduction de son impact environnemental ou le développement de ses ressources humaines ? Aidez Wavestone, au travers de la practice TIME (Transport, Infrastructure, Manufacturing & Energy), à développer ses convictions sur ces sujets.  L'objectif du stage de fin d'études ou de l'alternance:  Le stage / l'alternance pourra se concentrer sur un ou plusieurs aspects de la performance industrielle, des enjeux clés actuels des entreprises industrielles, de la recherche de performance par la transformation digitale et des impacts des transformations au sein des organisations.  Travaux à réaliser :   Sous la supervision d'un tuteur, et avec l'aide d'une équipe de consultants experts en industrie, opérations & technologies, le stagiaire/l'alternant devra :   Cadrer et identifier la problématique cible liée à la performance des opérations industrielles et/ou à l'industrie 5.0.  Identifier les enjeux clés liés à sa problématique, comprendre leur importance pour une entreprise industrielle et orienter sa recherche vers les leviers principaux de transformation et les impacts associés.  Etablir une analyse de maturité de nos clients sur la thématique adoptée et dégager des tendances sur les freins et accélérateurs, pour aboutir à l'identification de nouvelles convictions cabinet et/ou à la révision de convictions existantes.  Synthétiser les convictions de Wavestone en la matière pour renforcer les recommandations de Wavestone pour ses clients et la notoriété du cabinet.  En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de proposition.  Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoin...",
@@ -1144,88 +1328,6 @@
           {
             "nom": "TALENTS_HANDICAP",
             "url": "https://www.talents-handicap.com/315-wavestone/342995-stage-de-fin-d-etudes-alternance-sujet-de-stage-industrie-5-0-et-performance-des-operations-au-coeur-des-strategies-et-des-transformations-des-acteurs-industriels?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093046",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Accompagner les transformations majeures des acteurs du transport via l'évolution de leur business model ainsi que les solutions innovantes liées à la Data et à l'IA  (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Le secteur des transports est au cœur de transformations majeures. L'ouverture à la concurrence du marché ferroviaire français bouleverse les modèles historiques et pousse les opérateurs à se différencier par la qualité de service et l'innovation. Parallèlement, la transition écologique impose une réduction des émissions de gaz à effet de serre, conformément aux objectifs européens et encourage le report modal vers des solutions collectives ou actives. Ces évolutions s'accompagnent d'une digitalisation accélérée des mobilités : dématérialisation des titres, applications multimodales, information voyageur en temps réel, etc. Dans ce contexte, la performance opérationnelle, la satisfaction client et la réduction de l'empreinte environnementale deviennent des priorités stratégiques. La donnée est un levier essentiel pour y parvenir : elle permet de mieux connaître les voyageurs (habitudes, irritants, préférences), d'anticiper les défaillances, d'adapter l'offre en temps réel et de concevoir des services différenciants. Elle est également indispensable pour mesurer et piloter l'impact écologique des mobilités, favoriser l'intermodalité et accompagner les politiques publiques. Dans ce cadre, sous l'encadrement d'un tuteur et d'un sponsor de l'offre, vous travaillerez sur les types de problématiques suivantes :  Quels sont les cas d'usage de l'IA dans le secteur du transport ? Comment distribuer des offres de transport ferroviaire dans un marché ouvert à la concurrence ? La data dans le secteur de la mobilité : quels usages pour répondre aux enjeux de demain ? Comment la mise en qualité de la donnée permet-elle d'améliorer la performance des opérateurs de Transport ? Relation Client : Comment la donnée permet-elle aux opérateurs de se différencier entre eux ? Quels impacts de la transition écologique sur le secteur du transport ? En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de proposition.  Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoindre nos équipes et postulez ! Informations supplémentairesTous nos stages et alternance s'inscrivent dans une logique de pré-embauche.Wavestone est un employeur inclusif qui s'engage pour l'égalité des chances. Dans le cadre de cette politique de diversit...",
-      "dateCreation": "2026-09-22T10:09:39.410Z",
-      "dateActualisation": "2026-09-22T10:09:39.410Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093046",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342991-stage-de-fin-d-etudes-alternance-sujet-de-stage-accompagner-les-transformations-majeures-des-acteurs-du-transport-via-l-evolution-de-leur-business-model-ainsi-que-les-solutions-innovantes-liees-a-la-data-et-a-l-ia?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093043",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Finance & Achats - Accompagner les transformations de ces métiers en s'appuyant sur la Data et les Systèmes d'Informations les plus performants  (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.   Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste L'agilité et la digitalisation des processus, la valorisation de la donnée, la contribution aux objectifs de développement durable sont des enjeux clés pour nos clients, constituant l'agenda prioritaire des CFO (Chief Financial Officer) et CPO (Chief Procurement Officer), respectivement en charge des fonctions Finance et Achats. Vous aurez l'opportunité d'accompagner et d'impacter directement les transformations les plus profondes engagées par nos clients au sein des directions Financières et Achats, s'inscrivant souvent dans une dimension internationale et multiculturelle avec des interlocuteurs de haut niveau, dans des secteurs variés de l'Industrie, de l'Energie et des Services. Vous aurez ainsi la possibilité d'intervenir sur l'ensemble de notre large panel de savoir-faire, typologies de missions et phases d'un projet (du cadrage au déploiement), et notamment les problématiques de : Pilotage de la performance financière et extra-financière Refonte / digitalisation des processus et des SI Finance et/ou Achats Mise en place de centres de services partagés Digitalisation des contrats (Contract Management) Au sein de notre practice Transportation, Infrastructure, Manufacturing & Energy (TIME), tout en approfondissant vos connaissances des fonctions Finance et Achats, vous explorerez d'autres domaines de compétences (Data & process digitalization, IS Transformation, Change Management), clés dans la transformation. En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de proposition.  Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoindre nos équipes et postulez ! Informations supplémentairesNos stages et alternances s'inscrivent tous dans une logique de pré-embauche. Wavestone est un employeur inclusif qui s'engage pour l'égalité des chances. Dans le cadre de cette politique de diversité et inclusion, Wavestone accompagne les personnes en situation de handicap et/ou nécessitant un aménagement durant leur process de recrutement et lors de leur prise de poste. \n            ",
-      "dateCreation": "2026-09-22T10:09:39.414Z",
-      "dateActualisation": "2026-09-22T10:09:39.414Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093043",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342993-stage-de-fin-d-etudes-alternance-sujet-de-stage-finance-achats-accompagner-les-transformations-de-ces-metiers-en-s-appuyant-sur-la-data-et-les-systemes-d-informations-les-plus-performants?src=FranceTravail",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
           }
         ]
