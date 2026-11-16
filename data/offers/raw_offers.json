@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T16:55:26Z",
+  "fetched_at": "2026-11-16T16:31:37Z",
   "search_params": {
     "motsCles": "stage informatique",
     "sort": "1",
@@ -7,19 +7,178 @@
   },
   "offers": [
     {
-      "id": "8642573",
-      "intitule": "Stage - Ingénieur Informatique - Développement macro - V&V F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nDans le cadre du développement de nos activités V&V sur la technologie UNICORN (projet Backup HPC), les fonctionnalités proposées par Excel / Visio ne permettent pas d'automatiser des tâches souvent très chronophages.\nAfin de gagner du temps et de la fiabilité, nous recherchons un.e stagiaire développeur(se) Python et éventuellement VBA.\nLes principales missions seront :\n- Intégration dans le Framework Framatome des macros du fournisseur,\n- Ecriture de nouvelles macros,\nPour la réalisation des deux missions principales ci-dessus, il s'agit de :\n- Collecter des données sources (données d'entrée comme les procédures d'essais plateforme),\n- Développer des outils (macro),\n- Réaliser des tests et recettes,\n- Déployer, avec éventuellement la reprise de l'historique,\n- Rédiger un document permettant de vérifier périodiquement le bon fonctionnement de l'application (macro).\nMission complémentaire :\n-  Travail sur une instruction de travail utilisée dans l'équipe en application de la règlementation du secteur nucléaire,\nPour cela il s'agit de :\n- Comprendre l'instruction de travail actuelle,\n- Echanger en Anglais avec des collaborateurs basés en Allemagne pour soutenir la compréhension,\n- Adapter l'instruction de travail avec les méthodes déployées dans l'équipe.\nVous avez des connaissances sur Python.\nVous faites preuve d'autonomie.",
-      "dateCreation": "2026-11-07T12:01:22.048Z",
-      "dateActualisation": "2026-11-07T12:01:22.048Z",
+      "id": "216JLKF",
+      "intitule": "Alternance ou stage PFE - Consultant SAP Technique F/H",
+      "description": "Vous souhaitez achever votre cursus par un stage de fin d'études dans une société dynamique et en forte croissance ?\nVous souhaitez profiter d'un management de proximité et être formé-e aux dernières technologies SAP en lien avec votre métier ?\n\nCe stage est fait pour vous ! (possibilité d'alternance si le rythme de présence en entreprise le permet)\n\nCe que nous allons faire ensemble ? \nIntégré-e sur une mission chez l'un de nos clients, vous serez rattaché-e à l'équipe SAP Technique et vous serez en lien direct avec un consultant sénior VISEO qui vous supervisera.\n\nVous serez formé-e à SAP et aurez accès à notre académie interne.\n\nVos principales missions consistent à intervenir sur l'ensemble des aspects de la mise en œuvre et de la maintenance des solutions SAP en lien avec votre expertise :\n\n- Assister les équipes fonctionnelles dans la conception de la solution (Préparation des ateliers et maquettes de la solution, spécification des besoins) ;\n- Mettre en œuvre des évolutions sur le système (Rédaction des spécifications techniques, tests, et support aux équipes fonctionnelles) ;\n- Assister les équipes dans la mise en œuvre de la solution (réalisation des développements ) ;\n- Assister les équipes dans le traitement des incidents sur la solution (Analyse de l'erreur, correction et saisi du suivi dans l'outil de gestion des incidents, proposition d'optimisation, mise en œuvre d'une solution de contournement).\n\nQui êtes-vous ?\n- Étudiant-e en dernière année, BAC+5/6 (école d'ingénieurs en informatique) ;\n- Vous maîtrisez Javascript et d'autres langages ;\n- Vous avez des connaissances IA/LLM (Large Langage Model) ;\n- Vous avez une première expérience sur un projet de mise en œuvre technique d'un ERP (SAP ou autre) ou vous souhaitez intégrer le monde des ESN et du conseil ;\n- Vous aimez travailler en équipe et vous avez un sens développé du service, tout en faisant preuve d'autonomie et de rigueur ;\n- Une parfaite maitrise de la langue française (oral et écrit) est impérative ;\n- En raison de nos clients orientés à l'international, la maitrise d'un anglais courant est obligatoire ;\n- Vous avez le permis de conduire.\n\nCe qui nous différencie ?\nRejoindre VISEO c'est aussi profiter d'un état d'esprit qui met en avant l'innovation, le partage, l'expertise, le dynamisme et la bonne humeur ;\nRattaché-e à une équipe d'expert-e-s, vous ferez partie de la communauté SAP : la proximité et la taille humaine de notre organisation vous permettront de rendre visible vos initiatives ;\nGrâce à notre relation Gold Partner SAP, vous aurez accès à des environnements internes sur les dernières versions des solutions SAP et aux certifications SAP.\nRejoindre nos équipes, c'est contribuer à une performance qui a du sens : créer de la valeur durable en conciliant performance économique, responsabilité environnementale et impact sociétal, en agissant concrètement pour l'intérêt général avec Komeet à travers le mécénat de compétences, en soutenant Café Joyeux et l'Institut Imagine, et en renforçant l'inclusion avec Yumaincap .\n\nAvec 3000 collaborateurs intervenant sur 5 continents, VISEO concilie agilité et complémentarité de ses savoir-faire pour faire du numérique un réel levier de compétitivité et de performance.\n\nEmployeur inclusif et engagé, VISEO agit au quotidien pour promouvoir la diversité, prévenir toute forme de discrimination et garantir un environnement de travail respectueux. Attachés à la mixité des équipes et à la richesse des parcours, nous encourageons toutes les candidatures, valorisons tous les talents, et mettons en œuvre tous les dispositifs adaptés nécessaires pour accompagner chaque talent dans la durée.",
+      "dateCreation": "2026-11-12T16:17:18.528Z",
+      "dateActualisation": "2026-11-12T16:17:18.528Z",
       "lieuTravail": {
-        "libelle": "01 - Valserhône",
-        "codePostal": "01200",
-        "commune": "01033"
+        "libelle": "29 - MORLAIX",
+        "latitude": 48.605648,
+        "longitude": -3.8327,
+        "codePostal": "29600",
+        "commune": "29151"
       },
-      "romeCode": "M1822",
-      "romeLibelle": "Spécialiste Jumeau Numérique",
-      "appellationlibelle": "Développeur(se) logiciel simulation optique (VR)",
+      "romeCode": "M1806",
+      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+      "appellationlibelle": "Consultant(e) fonctionnel(le) des systèmes d'information",
+      "entreprise": {
+        "nom": "VISEO",
+        "description": "VISEO est une ESN utilisant la technologie comme un puissant levier de transformation et d'innovation pour aider ses clients à tirer parti des opportunités du numérique. Avec plus de 2500 collaborateurs intervenant sur 5 continents, VISEO concilie agilité et complémentarité de ses savoir-faire - design de nouveaux produits et services, digitalisation des processus métier, développement des actifs digitaux - pour faire du numérique un réel levier de compétitivité et de performance.",
+        "url": "http://www.viseo.com",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 12 Mois",
+      "natureContrat": "Contrat apprentissage",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "commentaire": "école d'ingénieurs en informatique",
+          "exigence": "S"
+        }
+      ],
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Français",
+          "exigence": "E"
+        }
+      ],
+      "permis": [
+        {
+          "libelle": "B - Véhicule léger",
+          "exigence": "E"
+        }
+      ],
+      "competences": [
+        {
+          "code": "300488",
+          "libelle": "Concevoir et gérer un projet",
+          "exigence": "S"
+        },
+        {
+          "libelle": "IA/LLM (Large Langage Model)",
+          "exigence": "E"
+        },
+        {
+          "libelle": "JAVASCRIPT",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "commentaire": "Selon stage ou alternance"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": true,
+      "contact": {
+        "nom": "VISEO - Mme Sarah AARAJ",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/216JLKF",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/216JLKF"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "62.02A",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Faire preuve de réactivité",
+          "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+        },
+        {
+          "libelle": "Faire preuve de contrôle de soi",
+          "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
+        }
+      ],
+      "trancheEffectifEtab": "50 à 99 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/216JLKF"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8750946",
+      "intitule": "STAGE - Chargé(e) de projet CRM / fiabilisation data IA F/H",
+      "description": "Dans le cadre de son amélioration continue, la Direction des Offres MOSS a développé en 2026 une application tableau de bord pour piloter et suivre l'ensemble de ses offres techniques et commerciales. Ce tableau de bord a été développé en low-code (solution souveraine Simplicité) et add-on Bryntum GANTT.\nNous recherchons un(e) stagiaire pour contribuer activement à faire évoluer l'outil, automatiser les processus et fiabiliser les données du référentiel.Vos missions\nSous la responsabilité et l'accompagnement de la Directrice des Offres, vous contribuerez activement à :- Évolution & Innovation : Faire évoluer le tableau de bord des offres pour répondre au mieux au besoin des directions internes et permettre l'accélération et l'automatisation du processus (évolutions low-code et/ou IA).\n- Gestion du besoin & Roadmap : Collecter le besoin des utilisateurs, maintenir et animer la roadmap évolutive de l'application.\n- Migration & Fiabilisation des données : Réaliser la migration des données du référentiel existant vers le nouvel outil et fiabiliser les données manquantes.\n- Efficacité opérationnelle : Mettre en place des automatisations pour améliorer l'efficacité des équipes avant-vente/vente et des collaborateurs.\n- Accompagnement du changement : Organiser des sessions de formation et de démonstration de l'application aux utilisateurs.\n- Soutien à la BITD : Participer au développement des produits digitaux des startups et PME françaises que nous encourageons dans le cadre du développement de la BITD.\nPourquoi nous rejoindre ?\nEn tant que stagiaire Tableau de bord des Offres, votre travail aura un impact direct sur les collaborateurs MOSS et le Comité de Direction. Vous serez au coeur de l'innovation en créant une application qui transforme réellement les processus internes en boucle courte dans une entreprise à taille humaine. Si vous cherchez un environnement où vos idées prennent vie rapidement et où vous voyez l'impact concret de votre travail, ce stage est fait pour vous.\n  \n Votre profil\n- Vous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur).\n- Prérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n- Compétences techniques :\n- Indispensables : Connaissances du développement logiciel et des bases de données, intérêt pour les plateformes low-code / no-code et l'intégration d'outils d'IA, manipulation et migration de données.\n- Appréciées : Business Intelligence (BI), notions sur la solution Simplicité.\n\n- Appétences & Orientation :\n- Appétence pour la coordination de projet et l'amélioration continue.\n- Intérêt marqué pour l'avant-vente et le commerce.\n\n\nQualités personnelles :\n- Curiosité, autonomie & proactivité : Vous avez envie de vous impliquer et de faire la différence.\n-  Pédagogie & Rigueur : Capacité à former les utilisateurs, animer des démos et garantir l'intégrité des données.\n\n\nNote relative à la sécurité :\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
+      "dateCreation": "2026-11-11T14:34:49.919Z",
+      "dateActualisation": "2026-11-13T14:37:31.255Z",
+      "lieuTravail": {
+        "libelle": "92 - Issy-les-Moulineaux",
+        "codePostal": "92130",
+        "commune": "92040"
+      },
+      "romeCode": "M1827",
+      "romeLibelle": "Ingénieur / Ingénieure DevOps",
+      "appellationlibelle": "Ingénieur / Ingénieure développement logiciel informatique",
+      "entreprise": {
+        "nom": "MOSS"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "74.90B",
+      "secteurActivite": "74",
+      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8750946",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=AySfCb74B6+/s0sKsMDs1g==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8746713",
+      "intitule": "Stage Ingénieur/e IA - Reinforcement Learning - Défense & Sécurité - Aix-en-Provence H/F",
+      "description": "Au sein de la BU Défense & Sécurité de CS GROUP, l'agence Systèmes Opérationnels et Interopérabilité d'Aix-en-Provence recherche un stagiaire de niveau Bac+5 issu d'une école d'ingénieurs.\nLe stage porte sur la poursuite du développement d'un produit intégrant une intelligence artificielle stratégique dans un simulateur de vol aérien.\nCe produit permet de piloter des avions et/ou des drones au sein d'un environnement CGF (Computer Generated Forces) dans le cadre de scénarios de combat BVR (Beyond Visual Range). L'IA sélectionne les stratégies à appliquer et pilote en temps réel les différentes plateformes aériennes. Elle prend en compte les paramètres clés du combat, analyse la situation tactique et assigne intelligemment les avions d'une même équipe aux différentes cibles en fonction de leur importance et du contexte opérationnel.\nMissions\nEncadré par un ingénieur IA spécialiste du produit, le stagiaire participera notamment à :\nDévelopper de nouvelles fonctionnalités en Python \nFaire évoluer l'interface front-end en React \nRéaliser des entraînements dans un environnement existant avec Stable-Baselines3 \nDévelopper et améliorer des stratégies de Reinforcement Learning \nRenforcer la compréhension et la prise de décision de l'IA dans des situations de combat BVR \nDévelopper des modèles multi-agents \nÉvaluer, comparer et améliorer les performances des différentes stratégies \nIntégrer les nouveaux modèles et fonctionnalités dans le produit",
+      "dateCreation": "2026-11-11T12:20:07.180Z",
+      "dateActualisation": "2026-11-14T14:19:19.751Z",
+      "lieuTravail": {
+        "libelle": "13 - Aix-en-Provence",
+        "codePostal": "13080",
+        "commune": "13001"
+      },
+      "romeCode": "M1882",
+      "romeLibelle": "Architecte sécurité informatique",
+      "appellationlibelle": "Architecte sécurité informatique",
       "entreprise": {},
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
@@ -32,11 +191,11 @@
       "nombrePostes": 1,
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8642573",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8746713",
         "partenaires": [
           {
             "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56973673?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "url": "https://www.directemploi.com/candidatOffre/56550473?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
           }
         ]
@@ -46,101 +205,19 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "8632401",
-      "intitule": "Stage - Ingénieur Robotique, Contrôle-Commande et Informatique Industrielle F/H",
-      "description": "\n            Rattaché(e) à la Direction Technique et Projets, vous intégrerez les activités de R&D transverse et interviendrez plus particulièrement sur le contrôle-commande de robots et de machines utilisés pour l'inspection de composants nucléaires.Dans le cadre d'un projet d'inspection de pièces, vos principales missions seront les suivantes :Participer à l'analyse et à l'amélioration d'une architecture existante, tant sur les aspects matériels (hardware) que logiciels (software).Développer et implémenter des algorithmes de contrôle de trajectoires pour les systèmes robotisés.Participer à l'intégration des développements au sein de l'architecture existante.Réaliser des essais sur prototype afin de tester et valider les solutions développées.Analyser les résultats des essais et contribuer à l'identification des axes d'amélioration.Se familiariser avec les différents outils et technologies d'Intercontrôle : inspections robotisées, contrôles dimensionnels, recalage et suivi en temps réel.Vous êtes en dernière année d'école d'ingénieurs ou suivez une formation universitaire équivalente de niveau Bac +5, avec une spécialisation en informatique industrielle, contrôle-commande, mécatronique, robotique ou informatique temps réel.Rigoureux(se), autonome et créatif(ve), vous appréciez le travail en équipe et disposez de bonnes capacités de communication. Curieux(se) et impliqué(e), vous savez évoluer dans un environnement technique et multidisciplinaire.Compétences requises :Connaissances en automatismes, contrôle en boucle fermée (PID), robotique et électronique,Maîtrise de l'environnement Linux pour le développement,Connaissance de ROS 2,Compétences en programmation Python, C et/ou C++,Notions en ingénierie des systèmes et en systèmes temps réel,Niveau d'anglais intermédiaire.\n            ",
-      "dateCreation": "2026-11-07T04:31:06.115Z",
-      "dateActualisation": "2026-11-07T04:31:06.115Z",
+      "id": "8746723",
+      "intitule": "Stage - Consultant(e) communication et sensibilisation - Cybersécurité - Île-de-France H/F",
+      "description": "Vous participez à l'élaboration de plans de sensibilisation et de communication cyber.\nVous créez des contenus de sensibilisation ludiques (serious games, quiz, escape games) ou classiques (e-learning, guides, fiches réflexes).\nVous contribuez à l'ingénierie pédagogique et à la création de formations en cybersécurité.\nVous co-animez des sessions de sensibilisation, en présentiel ou à distance.\nVous rédigez et designez des supports : présentations, infographies, vidéos, articles, newsletters, publications sur les réseaux sociaux internes.\nVous contribuer aux stratégies de conduite du changement : accompagnement des transformations, adoption de nouvelles solutions, changement de comportement à grande échelle.\nVous participez à l'organisation d'événements cyber pour nos clients.\nVous aidez à créer et animer des communautés autour de thématiques cyber.\nVous apportez un appui aux équipes techniques et au management sur leurs besoins de communication.\nVous contribuez au développement de l'offre et aux avant-ventes.",
+      "dateCreation": "2026-11-11T12:20:22.509Z",
+      "dateActualisation": "2026-11-14T14:22:45.325Z",
       "lieuTravail": {
-        "libelle": "71 - Mâcon",
-        "codePostal": "71000",
-        "commune": "71270"
+        "libelle": "92 - Courbevoie",
+        "codePostal": "92400",
+        "commune": "92026"
       },
-      "romeCode": "H1206",
-      "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
-      "appellationlibelle": "Ingénieur / Ingénieure robotique en industrie",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632401",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/344176-stage-ingenieur-robotique-controle-commande-et-informatique-industrielle-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632398",
-      "intitule": "Stage - Informatique / Gestion de projet F/H",
-      "description": "\n            Nous recherchons pour la société Intercontrôle, basée à Cadarache (13), un(e) stagiaire Ingénieur(e) à dominante informatique et/ou gestion de projet pour une durée de 6 mois à partir de février 2027.Intercontrôle développe et exploite des solutions technologiques sur mesure adaptées à des marchés actuels ou futurs de contrôles de composants. Ces solutions sont des systèmes intégrés composés de modules mécaniques, électrotechniques, électroniques et logiciels. Intercontrôle souhaite fiabiliser le référencement de ces systèmes et améliorer l'exploitation des données associées.Rattaché(e) à la Direction Technique et Projets, votre sujet s'inscrira dans l'activité de la R&D transverse sur les contrôles non destructifs (CND) et concernera plus précisément la gestion de projets (industriels, R&D), et plus particulièrement la génération automatique de la synthèse des projets.Sur un projet visant à améliorer un outil Excel et Power BI existant, vous participerez dans un premier temps à l'évolution du cahier des charges spécifiant les améliorations à intégrer aux macros Excel et à Power BI. Vous serez en interaction directe avec les utilisateurs pour la collecte des besoins en amont, mais aussi pour la mise en œuvre, le déploiement et la prise en main de la nouvelle version de l'outil. Vous serez aussi amené(e) à être en contact avec la Direction Informatique pour développer un logiciel plus complet afin d'atteindre les objectifs fonctionnels du cahier des charges.L'ensemble donnera lieu à la rédaction d'un rapport et à une présentation interne. Les activités de développement s'inscriront dans une reprise de l'existant, mais aussi dans la création. Ce sujet vous permettra de comprendre le fonctionnement des outils de gestion de projets et leur utilisation concrète pour le suivi de projets (industriels, R&D).Vous êtes en dernière année d'école d'ingénieurs ou suivez une formation universitaire équivalente de niveau Bac +5, avec une spécialisation en informatique et/ou gestion de projet.Rigoureux(se), autonome et créatif(ve), vous appréciez le travail en équipe et disposez de bonnes capacités de communication. Vous savez vous adapter à différents interlocuteurs et vous investir dans des missions mêlant informatique et gestion de projet.Compétences requises :Bonne maîtrise des outils Microsoft et de l'environnement Windows,Une première expérience avec Power BI est appréciée,Des connaissances ou une première expérience en gestion de projet constituent un plus,Niveau d'anglais intermédiaire.\n            ",
-      "dateCreation": "2026-11-07T04:31:06.117Z",
-      "dateActualisation": "2026-11-07T04:31:06.117Z",
-      "lieuTravail": {
-        "libelle": "13 - Marseille 1er Arrondissement",
-        "codePostal": "13001",
-        "commune": "13201"
-      },
-      "romeCode": "K2102",
-      "romeLibelle": "Coordinateur / Coordinatrice pédagogique",
-      "appellationlibelle": "Coordinateur(trice) de stages de formation professionnelle",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632398",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/344173-stage-informatique-gestion-de-projet-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8642775",
-      "intitule": "Stage - Ingénieur en développement d'une interface web pour l'ingénierie des systèmes F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nDans le cadre du déploiement des méthodes d'ingénierie système, la BU I&C (Business Unit Contrôle-Commande) a pour ambition d'améliorer continuellement ses procédures de cycle de vie du développement, notamment en termes de temps de déploiement et de qualité.\nDans ce contexte, FRAMATOME vous propose un stage  avec les objectifs suivants :\nAnalyse et modélisation du processus d'ingénierie ;\nCréation d'une interface web incluant les informations essentielles relatives à la théorie de l'ingénierie des systèmes (Systems Engineering, SE) ;\nAnalyse et modélisation du processus d'ingénierie d'un système I&C ;\nDémonstration interactive de la mise en pratique des techniques SE à partir de l'exemple d'un système I&C.\nVous préparez un diplôme de niveau Bac+5 en école d'ingénieurs ou un équivalent universitaire, avec une spécialisation en électronique ou une formation généraliste.\nVous disposez des compétences suivantes :\nConnaissances en programmation informatique ;\nConnaissances de base du cycle de vie du développement en ingénierie ;\nBon niveau d'anglais, notamment à l'écrit et à la lecture ;\nEsprit créatif et autonomie ;\nCapacité à développer des modèles de procédures.",
-      "dateCreation": "2026-11-07T12:01:29.999Z",
-      "dateActualisation": "2026-11-07T12:01:29.999Z",
-      "lieuTravail": {
-        "libelle": "01 - Valserhône",
-        "codePostal": "01200",
-        "commune": "01033"
-      },
-      "romeCode": "M1839",
-      "romeLibelle": "Architecte systèmes et réseaux",
-      "appellationlibelle": "Architecte système informatique",
+      "romeCode": "M1882",
+      "romeLibelle": "Architecte sécurité informatique",
+      "appellationlibelle": "Architecte cybersécurité",
       "entreprise": {},
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
@@ -153,11 +230,11 @@
       "nombrePostes": 1,
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8642775",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8746723",
         "partenaires": [
           {
             "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56973825?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "url": "https://www.directemploi.com/candidatOffre/56863027?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
           }
         ]
@@ -167,37 +244,44 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "8642496",
-      "intitule": "Stage - Ingénieur R&D Cybersécurité Industrielle F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nDans le cadre d'activités R&D autour de l'analyse de vulnérabilités en environnement industriels, vous serez amené(e) à réaliser les activités suivantes :\nmettre en place un environnement de test de vulnérabilités s'appuyant sur des automates physiques ou virtuels le cas échéant\nanalyser les vulnérabilités de différents firmwares d'automates industriels\ndévelopper des scénarios d'attaque associés\nimplémenter et évaluer l'efficacité de mesures de détection et de remédiation.\nLes technologies manipulées seront par exemple M340 et/ou S.\nVous préparez un diplôme en Bac+5 spécialisation Informatique ou Développement embarqué.\nCompétences requises :Programmation (Python, Rust, C)\nCybersécurité\nRédaction\nDes connaissances ou une expérience en reverse engineering ou dans la programmation d'automate programmable industriel serait un plus.",
-      "dateCreation": "2026-11-07T12:01:19.958Z",
-      "dateActualisation": "2026-11-07T12:01:19.958Z",
+      "id": "8721843",
+      "intitule": "STAGE - Achats Prestations Informatiques F/H",
+      "description": "Safran Purchasing est en charge des achats mutualisés pour l'ensemble du Groupe. Cette activité couvre les achats hors production ainsi que les achats de matières. L'entité conduit le déploiement des Politiques Achats Cibles pour le compte du Groupe et met en oeuvre l'ensemble des actions nécessaires à la bonne exécution de ses missions.\n\nAu sein de la Direction des Achats Hors Production de Safran Purchasing, pour le compte des sociétés du Groupe, vous intégrerez le pôle Achats Projets Applicatifs IT et participerez aux achats de :\n\n- Prestations d'accompagnement métier (Assistance à Maîtrise d'Ouvrage) pour les projets d'intégration informatique ;\n- Projets applicatifs informatiques ;\n- Prestations d'intégration fonctionnelle (Assistance à Maîtrise d'Œuvre) ;\n- Prestations de Tierce Maintenance Applicative (TMA).\n\nMissions : \n- Participer aux mises en concurrence des fournisseurs lors des appels d'offres, à la négociation des propositions et à la contractualisation sur un portefeuille de familles d'achats, en cohérence avec la stratégie achats du pôle concerné ;\n- Contribuer au respect des engagements contractuels pris par les fournisseurs.\n\nActivités principales : \n- Analyser et consolider les besoins dans le cadre des RFQ/RFP ;\n- Accompagner les acheteurs du pôle dans la réalisation des consultations ;\n- Identifier les fournisseurs susceptibles de répondre aux cahiers des charges, conformément aux Stratégies et Politiques Achats Cibles ;\n- Organiser des appels d'offres et/ou consultations afin de sélectionner les prestataires les plus adaptés ;\n- Analyser les coûts et identifier les leviers de réduction des dépenses ;\n- Accompagner les acheteurs dans la négociation des conditions d'achat des contrats Groupe, contrats d'application et contrats spécifiques sociétés ;\n- Participer à la négociation des contrats fournisseurs ;\n- Contribuer à la rédaction et à la validation des contrats en lien avec la Direction Juridique ;\n- Participer au suivi des fournisseurs et au respect des engagements contractuels ;\n- Contribuer à la fiabilité des données au sein des outils achats ;\n- Accompagner les acheteurs dans le traitement des commandes d'achats hors production ;\n- Participer à la mise à jour de la base contrats ;\n- Veiller à la bonne application des contrats sur les familles d'achats du pôle ;\n- Contribuer aux projets de transformation digitale des achats hors production.\n\nProfil recherché : \n\n- Formation Bac+4 à Bac+5 en école de commerce, avec une spécialisation en Achats et Management ;\n- Intérêt pour le métier des achats ;\n- Sens critique et perspicacité permettant d'évaluer les prestataires informatiques, notamment dans un contexte où les éléments factuels et/ou quantitatifs peuvent être difficiles à appréhender ;\n- Diplomatie dans la gestion des relations avec les prestataires informatiques afin de favoriser un partenariat constructif et durable ;\n- Capacité à gérer les situations de pression, notamment lors des phases de sélection des prestataires et de négociation, tout en gardant en vue les objectifs de l'entreprise ;\n- Curiosité et ouverture d'esprit ;\n- Rigueur dans le suivi des performances des prestataires informatiques ;\n- Qualités d'écoute permettant de comprendre et de relayer les besoins des différentes parties prenantes.",
+      "dateCreation": "2026-11-10T23:31:44.488Z",
+      "dateActualisation": "2026-11-10T23:31:44.488Z",
       "lieuTravail": {
-        "libelle": "91 - Corbeil-Essonnes",
-        "codePostal": "91100",
-        "commune": "91174"
+        "libelle": "92 - Malakoff",
+        "codePostal": "92240",
+        "commune": "92046"
       },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Ingénieur / Ingénieure sécurité informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
+      "romeCode": "D1431",
+      "romeLibelle": "Assistant / Assistante achat",
+      "appellationlibelle": "Assistant / Assistante achat",
+      "entreprise": {
+        "nom": "Safran"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
       "natureContrat": "Contrat travail",
       "experienceExige": "D",
       "experienceLibelle": "Débutant accepté",
-      "salaire": {},
+      "salaire": {
+        "libelle": "Annuel de 30000.0 Euros à 31000.0 Euros"
+      },
       "alternance": false,
       "contact": {},
       "nombrePostes": 1,
+      "codeNAF": "84.22Z",
+      "secteurActivite": "84",
+      "secteurActiviteLibelle": "Défense",
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8642496",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8721843",
         "partenaires": [
           {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56973567?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+            "nom": "BROADBEAN",
+            "url": "https://www.aplitrak.com/?adid=bWF0dGhpZXUudGhvZGlhcmQuZXh0Ljk4MTkwLjY3MDZAc2FmcmFuZnIuYXBsaXRyYWsuY29t",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
           }
         ]
       },
@@ -206,125 +290,54 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "8632580",
-      "intitule": "Stage - Développement IHM/ Diagnostic Systèmes de Contrôle-Commande Nucléaire F/H",
-      "description": "\n            Nous recherchons un(e) stagiaire qui intègrera l'équipe de développement de la technologie UNICORN, une solution propriétaire de contrôle-commande électronique analogique développée par Framatome. Cette technologie constitue l'un des éléments essentiels contribuant à la sûreté et à l'exploitation des centrales nucléaires.Dans le cadre des campagnes d'essais menées sur les systèmes de contrôle-commande avant leur livraison aux clients, Framatome souhaite développer un outil innovant facilitant l'analyse et la résolution des anomalies détectées lors des phases de validation.L'objectif du stage est de concevoir et développer une Interface Homme-Machine (IHM) avancée d'aide au diagnostic pour la technologie UNICORN permettant d'analyser le comportement des systèmes de contrôle-commande en cours de test.À partir des données collectées par une passerelle réseau supervisant les équipements électroniques, l'application devra :Acquérir et exploiter les données en temps réel ou en mode différé ;Reconstituer dynamiquement l'état du système ;Visualiser les informations directement sur les diagrammes fonctionnels existants ;Mettre en évidence les écarts entre le comportement attendu et le comportement observé ;Faciliter l'identification et l'analyse des anomalies détectées lors des essais.Cette solution sera utilisée durant les campagnes de tests prévues à partir d'avril 2027 et représente un véritable enjeu pour l'amélioration de l'efficacité des activités de validation.Vous préparez un diplôme de niveau Bac+5 en école d'ingénieurs ou équivalent universitaire avec une spécialisation en :Développement logiciel.Informatique industrielle.Contrôle-commande.Vous souhaitez évoluer dans un environnement technique exigeant et contribuer à des projets à fort enjeu de sûreté dans un secteur soumis à des contraintes réglementaires élevées (nucléaire, aéronautique, spatial, ferroviaire, défense, etc.).Compétences techniques recherchées :Développement d'interfaces graphiques (IHM / GUI)Programmation C/C++Développement pythonExpérience en scriptingInformatique industrielleSavoir être requis :Rigueur et sens de la qualitéAutonomie et capacité d'initiativeEsprit d'analyse et de synthèseAisance rédactionnelle, notamment en anglaisBon relationnel et goût du travail en équipe\n            ",
-      "dateCreation": "2026-11-07T04:31:11.756Z",
-      "dateActualisation": "2026-11-07T04:31:11.756Z",
+      "id": "8721691",
+      "intitule": "Stage - Data, IA et automatisation des process RH F/H",
+      "description": "Au sein de notre équipe RH, nous recherchons un(e) stagiaire pour une durée de 6 mois, basé(e) sur notre site de Caen (14) pour un début entre janvier et début avril.\n\n \n\nRattaché(e) à la DRH de la région Centre-Normandie, vous interviendrez sur des projets à fort impact et aurez l'opportunité d'explorer les usages concrets de l'IA au service de la fonction RH.\n\n \n\nS'inscrivant dans notre volonté d'amélioration continue et d'efficacité opérationnelle, nous cherchons à optimiser nos processus RH.\n\n \n\nNous recherchons un(e) stagiaire disposant d'une forte appétence pour la data, l'intelligence artificielle et la digitalisation des processus afin d'identifier, concevoir et mettre en œuvre des solutions d'automatisation au sein de la fonction RH.\n\n \n\nL'objectif n'est pas de recruter un spécialiste RH mais un profil capable d'apporter un regard neuf sur nos modes de fonctionnement et d'exploiter les opportunités offertes par les outils digitaux et l'IA.\n\n \n\nVos missions:\n\n \n\nAnalyse des processus\n\n * Comprendre les processus administratifs RH existants.\n * Identifier les tâches répétitives, manuelles ou à faible valeur ajoutée.\n * Analyser les irritants opérationnels et les opportunités de simplification.\n\nAutomatisation et digitalisation\n\n * Proposer des solutions d'automatisation adaptées aux besoins métiers.\n * Développer ou configurer des solutions simples à partir d'outils tels que Power BI, ou autres outils d'IA générative.\n * Participer à la mise en œuvre et aux tests des solutions retenues.\n * Concevoir des tableaux de bord et des indicateurs de suivi de la performance des processus.\n\nData et Intelligence Artificielle\n\n * Explorer les usages de l'IA appliqués à la fonction RH.\n * Structurer et exploiter des données RH pour soutenir la prise de décision.\n * Participer à la création de cas d'usage innovants autour de la gestion administrative RH, de la paie ou du contrôle de données.\n\nAccompagnement du changement\n\n * Documenter les nouvelles pratiques.\n * Former les utilisateurs aux solutions développées.\n * Contribuer à diffuser une culture d'amélioration continue et d'innovation au sein de l'équipe RH.\n\n* Étudiant(e) niveau Bac 4 / Bac 5 en école d'ingénieur, data science, systèmes d'information, transformation digitale, IA ou équivalent.\n * Forte curiosité pour les sujets liés à l'automatisation et à l'intelligence artificielle.\n * Capacité à comprendre rapidement des processus métiers.\n * Bonne maîtrise d'Excel et aisance avec les outils digitaux.\n * Une connaissance de Power Platform, Power BI, Power Automate ou des outils d'IA générative constitue un atout.\n * Esprit analytique, autonomie et capacité à transformer des idées en solutions concrètes.\n\n \n\nPourquoi nous rejoindre ?\n\n \n\n * Un groupe solide avec un esprit de famille : plus de 80 % de nos collaborateurs sont actionnaires.\n * Une expertise locale reconnue : un ancrage territorial fort permettant une proximité avec nos clients et une meilleure réactivité.\n * Des opportunités d'évolution : une carrière dynamique et mobile grâce à notre politique de mobilité interne.\n * Un accompagnement dans votre développement : accès à un large panel de formations via l'Université Eiffage et d'autres dispositifs internes.\n\nAttachés à l'égalité professionnelle, à la mixité et à la diversité, nous accueillons tous les talents et nous engageons notamment dans le recrutement de personnes en situation de handicap.\n\n \n\nRejoignez une entreprise animée d'un esprit de famille unique.\n\n#Espritdefamille\n\nRejoignez-nous !",
+      "dateCreation": "2026-11-10T23:31:39.253Z",
+      "dateActualisation": "2026-11-10T23:31:39.253Z",
       "lieuTravail": {
-        "libelle": "38 - Grenoble",
-        "codePostal": "38000",
-        "commune": "38185"
+        "libelle": "14 - Caen",
+        "codePostal": "14000",
+        "commune": "14118"
       },
-      "romeCode": "M1853",
-      "romeLibelle": "Chef / Cheffe de projet étude et développement informatique",
-      "appellationlibelle": "Chef / Cheffe de projet étude et développement informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
+      "romeCode": "M1805",
+      "romeLibelle": "Développeur / Développeuse informatique",
+      "appellationlibelle": "Analyste-programmeur(se) gestion informatique",
+      "entreprise": {
+        "nom": "Eiffage"
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
       "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {
+        "libelle": "Mensuel de 1897.0 Euros à 1897.0 Euros"
+      },
+      "dureeTravailLibelle": "\nTravail en journée",
       "alternance": false,
       "contact": {},
       "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
+      "codeNAF": "70.10Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Activités des sièges sociaux",
+      "trancheEffectifEtab": "6 à 9 salariés",
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632580",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8721691",
         "partenaires": [
           {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/343570-stage-developpement-ihm-diagnostic-systemes-de-controle-commande-nucleaire-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            "nom": "BROADBEAN",
+            "url": "https://www.aplitrak.com/?adid=T2NlYW5lLkxFTU9OTklFUi40NTI5NS42NzA2QGVpZmZhZ2UuYXBsaXRyYWsuY29t",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
           }
         ]
       },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632552",
-      "intitule": "Stage - Ingénieur Cybersécurité Industrielle - Durcissement F/H",
-      "description": "\n            Dans le cadre d'un projet de R&D, vous serez chargé(e) de développer une capacité de durcissement des plateformes d'automates conventionnelles.À ce titre, vous réaliserez notamment les missions suivantes :Extraire les spécifications de durcissement à partir des guides constructeurs et des bonnes pratiques, notamment à l'aide de l'intelligence artificielle ;Proposer des bases de durcissement adaptées aux différentes versions de firmware ;Réaliser des évaluations sur des plateformes représentatives.Vous serez également amené(e) à vous déplacer sur différentes plateformes.Périmètre techniqueAutomate : M580 ;Logiciel : Control Expert.Vous préparez un diplôme de niveau Bac+4 ou Bac+5, en école d'ingénieurs ou en formation universitaire, dans le domaine de  l'informatique ou du développement embarqué et justifiez d'une première expérience en développement logiciel, notamment dans des environnements utilisant Python ou Rust.Une expérience en programmation d'automates industriels serait un plus.Compétences :Programmation (Python, Rust, C) ;Cybersécurité ;Anglais ;Rédaction technique ;Des connaissances en systèmes industriels, systèmes temps réel ou systèmes embarqués constitueraient un plus. Envie de mettre vos compétences en développement logiciel et en cybersécurité au service de la protection des systèmes industriels ?Rejoignez Framatome et contribuez à un projet de R&D concret, alliant automatisation, intelligence artificielle et sécurisation des plateformes industrielles.\n            ",
-      "dateCreation": "2026-11-07T04:31:09.750Z",
-      "dateActualisation": "2026-11-07T04:31:09.750Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon 1er Arrondissement",
-        "codePostal": "69001",
-        "commune": "69381"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Ingénieur / Ingénieure sécurité informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632552",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/345778-stage-ingenieur-cybersecurite-industrielle-durcissement-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
+      "contexteTravail": {
+        "horaires": [
+          "\nTravail en journée"
         ]
       },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632261",
-      "intitule": "Stage - Ingénieur Cybersécurité Industrielle - Développement et intégration F/H",
-      "description": "\n            Dans le cadre d'un projet R&D, vous serez en charge des missions suivantes :Développement d'un environnement d'intégration complet pour un produit de cybersécuritéIntégration à notre environnement de développement (CI/CD)Développement d'un environnement \"bac à sable\" pour faciliter le développement de test de faisabilité Sur l'ensemble de vos missions, vous serez encadré(e) par différentes parties prenantes : responsable projet, responsable développement logiciel, ingénieur cybersécurité ou ingénieur développement logiciel.Vous préparez un diplôme de Bac+4 spécialisation Informatique ou Développement embarqué.Vous justifiez d'une première expérience en développement logiciel en particulier dans les environnements Python ou Rust. L'utilisation d'un gestionnaire de configuration et de CI/CD serait un plus.Compétences :Programmation (Python, Rust, C)CybersécuritéRédactionDes connaissances en Systèmes industriels, Systèmes temps-réels ou embarqués seraient un plus.\n            ",
-      "dateCreation": "2026-11-07T04:31:00.048Z",
-      "dateActualisation": "2026-11-07T04:31:00.048Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon 1er Arrondissement",
-        "codePostal": "69001",
-        "commune": "69381"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Ingénieur / Ingénieure sécurité informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632261",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/346405-stage-ingenieur-cybersecurite-industrielle-developpement-et-integration-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
       "entrepriseAdaptee": false,
       "employeurHandiEngage": false
     },
@@ -333,7 +346,7 @@
       "intitule": "Dessinateur Projeteur en CDI (F/H) - Marque Moving Stage H/F",
       "description": "« L'Homme est toujours au cœur des produits que nous vendons »\n\n\nQui sommes-nous ?\nDes plans qui prennent forme en atelier, puis donnent vie aux événements : bienvenue chez Moving Stage !\nScènes mobiles, gradins, structures sur mesure. Chez Moving Stage, nous concevons et fabriquons des équipements destinés aux professionnels de l'événementiel, aux collectivités et aux associations. Depuis , nous relevons un défi concret : créer des structures robustes, faciles à transporter, à installer et à utiliser.\nMarque du groupe Guillet, entreprise industrielle alsacienne fondée en 1970, Moving Stage s'appuie sur les savoir-faire et les métiers complémentaires réunis dans nos ateliers.\nNous rejoindre, c'est pouvoir suivre ce que deviennent vos plans. C'est échanger avec les équipes qui fabriquent et assemblent les pièces, comprendre leurs contraintes et chercher ensemble les solutions adaptées. Votre précision et votre sens pratique se retrouveront directement dans les équipements qui sortiront de nos ateliers.\nAvantages :\n * Tickets restaurants\n * Chèques cadeaux\n * Remboursement des transports à 50%\n * Formation\n * Participation\n * Mutuelle\n * Heures supplémentaires\n\n \n  Notre activité et marque Moving Stage est consacrée à la conception et à la fabrication de scènes mobiles et d'équipements scéniques destinés aux professionnels de l'événementiel.\nPour renforcer notre bureau d'études, nous recherchons un Dessinateur / Projeteur SolidWorks (F/H) disposant d'une expérience concrète en atelier et capable de traduire les contraintes de fabrication en plans précis et directement utilisables par nos équipes de production.\nVous serez amené(e) à :\n * Concevoir et modéliser sous SolidWorks des pièces mécaniques, sous-ensembles et ensembles mécano-soudés, à partir des besoins et des spécifications du projet ;\n * Élaborer les dossiers de fabrication : plans de détail, plans d'ensemble et de sous-ensembles, mises en plan et nomenclatures ;\n * Définir les cotations fonctionnelles, les tolérances et les ajustements nécessaires à la fabrication et au bon fonctionnement des assemblages ;\n * Définir et représenter les exigences de soudage MIG/TIG, en tenant compte des contraintes de réalisation et de l'accessibilité des zones à souder ;\n * Intégrer les solutions de fixation et d'assemblage adaptées : inserts, rivets, boulonnerie et autres fixations mécaniques ;\n * Anticiper les effets des traitements de surface - galvanisation à chaud, peinture et zingage - sur la conception, les jeux et les conditions de montage ;\n * Vérifier la cohérence et la lisibilité des documents, puis assurer leur mise à jour à la suite des évolutions techniques et des retours de production ;\n * Échanger régulièrement avec les équipes de l'atelier pour anticiper les difficultés de fabrication, accompagner le montage et améliorer les solutions proposées.\n\n \nProfil\n Vous justifiez impérativement d'au moins trois ans d'expérience professionnelle en atelier de métallerie. Cette expérience de terrain vous permet de comprendre concrètement les contraintes de fabrication, de soudage et d'assemblage, et de les anticiper dans vos plans.\n  Vos compétences techniques:\n * Une très bonne maîtrise de SolidWorks : création de pièces, assemblages, mises en plan et nomenclatures ;\n * Des bases solides en conception de pièces mécaniques et d'ensembles mécano-soudés ;\n * La maîtrise de la cotation fonctionnelle, des tolérances et des ajustements ;\n * La capacité à traduire les exigences de soudage MIG/TIG dans les documents de fabrication ;\n * Une bonne connaissance des fixations mécaniques et des traitements de surface, ainsi que de leurs conséquences sur la fabrication et le montage.\n   \n\n Rigoureux(se) et méthodique, vous accordez autant d'importance à la précision technique qu'à la clarté de vos plans. Vous appréciez les échanges avec les équipes de production et savez prendre en compte leurs retours pour faire évoluer vos dossiers.\n \n  Informations utiles\n * Moving stage, podium et gradin mobile, scènes fixes, praticables.\n * Localisation : GUILLET SAS - Gresswiller(67)\n * Contrat : C.D.I. en 39 heures hebdomadaires\n * Rattachement hiérarchique : Responsable R&D\n * Polyvalence des missions\n * Le recrutement comprendra une mise en situation pratique sur SolidWorks, à partir d'un ensemble représentatif de nos fabrications. Elle permettra d'apprécier la qualité des mises en plan, la pertinence des cotations et la prise en compte des contraintes de soudage et de montage. ",
       "dateCreation": "2026-11-07T22:17:45.109Z",
-      "dateActualisation": "2026-11-08T22:17:43.404Z",
+      "dateActualisation": "2026-11-15T22:17:35.117Z",
       "lieuTravail": {
         "libelle": "67 - Dinsheim-sur-Bruche",
         "codePostal": "67190",
@@ -362,492 +375,6 @@
             "nom": "CARRIEREONLINE",
             "url": "https://www.carriereonline.com/offres-emploi/france/production-exploitation/38394369/?xtor=SEC-1321",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/carriereonline80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8642711",
-      "intitule": "Stage - Ingénieur Cybersécurité Industrielle - Durcissement F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nDans le cadre d'un projet de R&D, vous serez chargé(e) de développer une capacité de durcissement des plateformes d'automates conventionnelles.\nÀ ce titre, vous réaliserez notamment les missions suivantes :\nExtraire les spécifications de durcissement à partir des guides constructeurs et des bonnes pratiques, notamment à l'aide de l'intelligence artificielle ;\nProposer des bases de durcissement adaptées aux différentes versions de firmware ;\nRéaliser des évaluations sur des plateformes représentatives.\nVous serez également amené(e) à vous déplacer sur différentes plateformes.\nPérimètre technique\nAutomate : M580 ;\nLogiciel : Control Expert.\nVous préparez un diplôme de niveau Bac+4 ou Bac+5, en école d'ingénieurs ou en formation universitaire, dans le domaine de  l'informatique ou du développement embarqué et justifiez d'une première expérience en développement logiciel, notamment dans des environnements utilisant Python ou Rust.\nUne expérience en programmation d'automates industriels serait un plus.\nCompétences :\nProgrammation (Python, Rust, C) ;\nCybersécurité ;\nAnglais ;\nRédaction technique ;\nDes connaissances en systèmes industriels, systèmes temps réel ou systèmes embarqués constitueraient un plus.\nEnvie de mettre vos compétences en développement logiciel et en cybersécurité au service de la protection des systèmes industriels ?\nRejoignez Framatome et contribuez à un projet de R&D concret, alliant automatisation, intelligence artificielle et sécurisation des plateformes industrielles.",
-      "dateCreation": "2026-11-07T12:01:28.443Z",
-      "dateActualisation": "2026-11-07T12:01:28.443Z",
-      "lieuTravail": {
-        "libelle": "01 - Valserhône",
-        "codePostal": "01200",
-        "commune": "01033"
-      },
-      "romeCode": "M1882",
-      "romeLibelle": "Architecte sécurité informatique",
-      "appellationlibelle": "Architecte cybersécurité",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8642711",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56973611?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8642467",
-      "intitule": "Stage - Ingénieur Cybersécurité Industrielle - Développement et intégration F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nDans le cadre d'un projet R&D, vous serez en charge des missions suivantes :\nDéveloppement d'un environnement d'intégration complet pour un produit de cybersécurité\nIntégration à notre environnement de développement (CI/CD)\nDéveloppement d'un environnement \"bac à sable\" pour faciliter le développement de test de faisabilité\nSur l'ensemble de vos missions, vous serez encadré(e) par différentes parties prenantes : responsable projet, responsable développement logiciel, ingénieur cybersécurité ou ingénieur développement logiciel.\nVous préparez un diplôme de Bac+4 spécialisation Informatique ou Développement embarqué.\nVous justifiez d'une première expérience en développement logiciel en particulier dans les environnements Python ou Rust. L'utilisation d'un gestionnaire de configuration et de CI/CD serait un plus.\nCompétences :Programmation (Python, Rust, C)\nCybersécurité\nRédaction\nDes connaissances en Systèmes industriels, Systèmes temps-réels ou embarqués seraient un plus.",
-      "dateCreation": "2026-11-07T12:01:19.955Z",
-      "dateActualisation": "2026-11-07T12:01:19.955Z",
-      "lieuTravail": {
-        "libelle": "01 - Valserhône",
-        "codePostal": "01200",
-        "commune": "01033"
-      },
-      "romeCode": "M1882",
-      "romeLibelle": "Architecte sécurité informatique",
-      "appellationlibelle": "Architecte cybersécurité",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8642467",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56973569?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632546",
-      "intitule": "Stage - Ingénieur d'études d'une approche alternative pour les études de RTV en puissance des REP F/H",
-      "description": "\n            ContexteLa démonstration de sûreté d'un REP vise à représenter au mieux la physique des différents transitoires accidentels, tout en assurant une prise en compte conservative des différents phénomènes physiques. Dans un contexte de mise à jour des rapports de sûreté du parc français lors des visites décennales, la recherche d'approches alternatives permettant l'amélioration de la sûreté des REP constitue un enjeu continu. Transitoire emblématique des études de sûreté, la rupture de tuyauterie vapeur (RTV) fait l'objet de nombreuses pistes d'étude dans ce cadre.ObjectifsDans la continuité de premiers travaux menés sur des modélisations plus réalistes de transitoires accidentels, l'objectif du stage est d'étudier une approche alternative aux études actuelles de RTV des tranches à 4 boucles, en introduisant un couplage thermohydraulique et neutronique en 3D cinétique.MissionsAu sein des équipes d'études de sûreté neutroniques, les missions de ce stage consistent à reprendre la modélisation multiparamétrique d'un transitoire de RTV en puissance, puis à introduire, par étapes, des hypothèses d'étude plus réalistes et compatibles avec une reconstruction 3D de la puissance du cœur en transitoire.L'analyse des résultats permettra d'évaluer l'évolution du comportement physique modélisé, la réponse des chaînes de protection sollicitées et l'impact sur les marges vis-à-vis des critères de sûreté (crise d'ébullition en particulier), pour un ensemble de configurations et de paramètres d'intérêt.En pratique, les missions comprendront :- Une phase de familiarisation avec les chaînes de calcul neutroniques déterministes des réacteurs à eau pressurisée, ainsi qu'avec les codes thermohydrauliques cœur ;- La prise en main des études antérieures, incluant l'analyse des cas de calcul et des résultats ;- L'adaptation de la démarche de calcul historique pour introduire des modèles plus raffinés et réalistes.  Vous êtes actuellement en troisième année d'école d'ingénieurs ou poursuivez un cursus universitaire équivalent, avec une spécialisation en génie nucléaire, et souhaitez valoriser vos compétences au sein de l'industrie nucléaire. Vous manifestez un intérêt marqué pour la compréhension et l'analyse de phénomènes multiphysiques (neutronique, thermohydraulique, logique de contrôle-commande).Vous disposez d'une appétence pour la simulation numérique, l'informatique scientifique (notamment sous Linux) et la programmation, en particulier en Python.Curieux(se) et motivé(e), vous faites preuve de rigueur scientifique, d'un esprit d'analyse développé et d'un sens aigu de l'organisation. Vous êtes force de proposition, appréciez l'autonomie tout en sachant collaborer efficacement avec divers interlocuteurs pour atteindre vos objectifs.Passionné(e) par la technique et orienté(e) vers les résultats, vous souhaitez relever des défis concrets et contribuer activement à des projets à fort enjeu. Ce stage est à pourvoir à partir du premier semestre 2027, pour une durée de 5 à 6 mois, à Lyon (69). Envie de contribuer à l'évolution des méthodes de sûreté des réacteurs nucléaires ?Rejoignez Framatome et participez au développement de modèles de simulation plus réalistes, au croisement de la neutronique, de la thermohydraulique et de l'informatique scientifique. \n            ",
-      "dateCreation": "2026-11-07T04:31:09.426Z",
-      "dateActualisation": "2026-11-07T04:31:09.426Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon 1er Arrondissement",
-        "codePostal": "69001",
-        "commune": "69381"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632546",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/343588-stage-ingenieur-d-etudes-d-une-approche-alternative-pour-les-etudes-de-rtv-en-puissance-des-rep-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632430",
-      "intitule": " Stage - Ingénieur Systèmes Fluides - Modélisation - EPR2 F/H",
-      "description": "\n            EDVANCE, filiale EDF et Framatome, a été créée pour regrouper l'ensemble des forces vives de l'ingénierie nucléaire française et être le leader national et international dans la construction de nouveaux réacteurs nucléaires. EDVANCE intervient actuellement sur l'ensemble des projets nucléaires du groupe EDF, qu'ils soient en réalisation (Flamanville 3 en France, Hinkley Point C & Sizewell C en Angleterre), ou en projets/appels d'offres (EPR2 en France, Nuward SMR).Les équipes Edvance sont mobilisées au quotidien, afin d'apporter leur expertise et capitaliser un retour d'expérience précieux pour les autres grands projets nucléaires.Au sein d'EDVANCE, le service SCV constitue le pôle de compétences pour la conception des systèmes fluides (eau et air) de l'îlot nucléaire et du pilotage technique des contrats Ventilation et groupes froid.Vous serez intégré au département SCV (Systèmes Contrats Ventilation) dans les équipes du projet Flamanville 3.Au sein du service SCV, vous serez intégré(e) dans le groupe NRS (Nuclear Reactor Systems) en charge de la conception de systèmes élémentaires de l'îlot nucléaire pour le Projet EPR2. Vous travaillerez en particulier sur la conception des systèmes fluides de sauvegarde des futures tranches nucléaires EPR2 et serez en étroite collaboration avec les ingénieurs responsables de la conception de ces systèmes.Votre mission consistera à :- S'approprier l'approche de conception des systèmes et le logiciel Simcenter Flomaster.- Construire les réseaux thermo-hydrauliques (pompes, échangeurs de chaleur, robinets, tuyauteries.) ou bien adapter les existants.- Utiliser les modèles pour vérifier le dimensionnement thermo-hydraulique des équipements, en particulier la tenue à certains phénomènes hydrauliques tels que les coups de bélier. Vous préparez un diplôme de niveau Bac+5 en école d'ingénieurs ou cursus universitaire équivalent, avec une spécialisation en hydraulique et mécanique des fluides.La connaissance de la conception des centrales nucléaires et une appétence pour la simulation et les logiciels de calcul sont des plus.Vous démontrez un intérêt marqué pour la technique, l'innovation, et vous possédez des connaissances en dynamique des fluides.Curieux(se), rigoureux(se) et motivé(e) par les environnements techniques complexes, vous appréciez approfondir vos connaissances et contribuer à des projets innovants.\n            ",
-      "dateCreation": "2026-11-07T04:31:06.588Z",
-      "dateActualisation": "2026-11-07T04:31:06.588Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris 1er Arrondissement",
-        "codePostal": "75001",
-        "commune": "75101"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Ingénieur / Ingénieure système informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632430",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/344170-stage-ingenieur-systemes-fluides-modelisation-epr2-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632427",
-      "intitule": "Stage Ingénieur R&D : Etude des flux d'évaporation des espèces métalliques volatiles en fusion VAR F/H",
-      "description": "\n            Le procédé de refusion à arc sous vide (VAR) est utilisé sur le site de production de Framatome à Ugine afin d'élaborer des lingots d'alliages de zirconium de haute pureté qui sont ensuite transformés pour différentes applications dans le domaine du nucléaire, de l'aéronautique et du médical. Dans le but de mieux appréhender les phénomènes physico-chimiques mis en jeu dans la zone réactionnelle du four de fusion, située entre les électrodes, le CRC déploie une approche expérimentale et numérique notamment dans le cadre de collaborations avec des universités comme l'université de Bretagne Sud et l'université de Grenoble. Cette zone étant inaccessible dans les installations industrielles, la genèse du plasma et le comportement de l'arc restent très peu documenté et mal compris. C'est pourquoi des travaux de thèse sont actuellement en cours afin d'une part de reproduire la genèse des arcs et la fusion de la matière sur un banc d'essai à l'échelle du laboratoire et d'autre part de développer des modèles numériques pertinents dans le but d'extrapoler les résultats à l'échelle industrielle.Le stage proposé se déroulera au laboratoire SIMaP à l'Université de Grenoble, au sein de l'équipe thermodynamique, modélisation, optimisation des procédés, spécialisée dans la thermodynamique de la phase gazeuse des matériaux et les diagrammes de phase et a pour objectif de définir les flux d'évaporation des espèces métalliques volatiles dans les conditions de très hautes températures et basse pression du procédé nécessaires.Les missions principales consisteront en :-         Une étude bibliographique sur les phénomènes mis en jeu lors de la refusion à arc sous vide, spécialement dans la région interélectrode.-         La caractérisation de condensats sur le site du SIMaP et / ou sur le site du CRC générés dans différentes configurations sur le banc expérimental afin d'en déterminer la structure, l'origine, la composition chimique, la topographie de surface et la porosité (MEB/EDX, microsonde de Casting, etc..)-         L'étude par spectrométrie de masse des composés volatiles des alliages de zirconium stables en cellule de Knudsen.-         Des calculs thermodynamiques afin de déterminer la distribution spatiale des flux d'évaporation issues des électrodes pendant la présence de l'arc électrique, dans les conditions haute température / faible pression qui sont à l'origine des condensats observés et caractérisés.Ces données sont indispensables pour la mise en données des modèles numériques développés au sein de IRDL de l'Université Bretagne Sud à Lorient, où se situe également le banc expérimental. Les travaux réalisés au SIMaP seront donc réalisés en étroite collaboration avec le doctorant de l'IRDL d'une part et le Centre de Recherche Composant de Framatome d'autre part.Compétences requises : Métallurgie, Matériaux, Plasmas, Spectrométrie de masseProfil recherché : Elève Ingénieur en Science des Matériaux, Génie des procédés. Vos atouts sont l'ouverture d'esprit, l'autonomie, la rigueur et le dynamisme\n            ",
-      "dateCreation": "2026-11-07T04:31:06.582Z",
-      "dateActualisation": "2026-11-07T04:31:06.582Z",
-      "lieuTravail": {
-        "libelle": "38 - Grenoble",
-        "codePostal": "38000",
-        "commune": "38185"
-      },
-      "romeCode": "M1853",
-      "romeLibelle": "Chef / Cheffe de projet étude et développement informatique",
-      "appellationlibelle": "Chef / Cheffe de projet étude et développement informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632427",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/345244-stage-ingenieur-r-d-etude-des-flux-d-evaporation-des-especes-metalliques-volatiles-en-fusion-var-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632424",
-      "intitule": "Stage - Ingénieur développement programme maintenance réacteur F/H",
-      "description": "\n            Contexte :Le taux de disponibilité (Kd) d'un réacteur nucléaire est un indicateur fondamental de sa performance opérationnelle. Le respect des délais lors des phases d'arrêt de tranche constitue un levier clé, dicté par de nombreuses contraintes physiques et logistiques (efficacité des systèmes de refroidissement, vitesse de vidange des circuits, disponibilité des équipements de manutention, durées d'inspection, remplacement de composants, etc.).Dans ce cadre, l'objectif principal du projet est de développer un outil graphique et évolutif permettant d'établir et d'optimiser le planning d'arrêt des réacteurs avancés, de la recharge du combustible jusqu'aux visites décennales. Mission :Rattaché(e) à l'équipe d'ingénierie, vos activités se dérouleront selon les étapes suivantes :Analyse & Définition de la feuille de route :Collecter et analyser la documentation interne et externe (notamment le retour d'expérience de l'ancien outil développé sous VBA).Structurer les plannings d'arrêts types (du rechargement standard aux révisions décennales).Conception & Développement de l'outil :Concevoir un outil dédié, interactif et graphique permettant l'échange et la modification de données.Modéliser un système multicritères intégrant des données physiques et opérationnelles (températures, niveaux, locaux, ressources, moyens de manutention, servitudes, etc.) ainsi que logistique.Développer le cœur d'application et assurer l'interfaçage avec les outils MS Office (Excel, Visio, MS Project).Commencer par une modélisation simplifiée avec un périmètre restreint (avec un composant, un système ou une localisation donnée) avant d'étendre la complexité à l'ensemble du réacteur.Identification des incertitudes & Analyse critique :Identifier les tâches et créneaux temporels critiques de l'arrêt de tranche.Intégrer les retours d'expérience pour éprouver la robustesse de l'outil et des modèles associés.  Formation : Étudiant(e) en dernière année d'école d'ingénieur ou Master 2 (spécialité Génie Nucléaire, Génie Industriel à dominante Mécanique, Modélisation des Systèmes complexes).Compétences techniques :Maîtrise avancée de langages de programmation : Python, HTML (développement de scripts, traitement de données, éventuellement d'interfaces graphiques).Des connaissances en ingénierie des procédés nucléaires ou en gestion de projet/planification industrielle sont un réel plus.Qualités personnelles :Esprit d'analyse et de synthèse pour appréhender des systèmes physiques complexes.Autonomie, rigueur et force de proposition.Bonnes capacités relationnelles pour échanger avec les différents experts métiers.\n            ",
-      "dateCreation": "2026-11-07T04:31:06.588Z",
-      "dateActualisation": "2026-11-07T04:31:06.588Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon 1er Arrondissement",
-        "codePostal": "69001",
-        "commune": "69381"
-      },
-      "romeCode": "M1827",
-      "romeLibelle": "Ingénieur / Ingénieure DevOps",
-      "appellationlibelle": "Ingénieur / Ingénieure programme informatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632424",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/344168-stage-ingenieur-developpement-programme-maintenance-reacteur-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632268",
-      "intitule": "Stage - Ingénieur d'Etude Système de Mesure de Vitesse Electromagnétique F/H",
-      "description": "\n            Framatome recrute des stagiaires pour un défi captivant dans le secteur nucléaire !Vous serez intégré(e) au sein d'une équipe d'une quinzaine d'ingénieurs et techniciens du centre de compétences \"Technique\" de la Business Unit Instrumentation & Contrôle commande. Les missions de l'équipe couvrent la réalisation d'études d'instrumentation (capteurs et armoires d'acquisition/traitement). Ces prestations concernent l'instrumentation existante des centrales EDF en France, certaines centrales PWR à l'export, ainsi que des projets de constructions neuves (EPR Hinkley Point par exemple).L'objectif du stage est d'étudier des solutions alternatives à une solution de mesure de vitesse obsolète : compatibilité avec les interfaces mécaniques, électriques, les interfaces fonctionnelles électromagnétiques et de traitement du signal.Les principales missions du stage sont les suivantes :Analyse de la solution existante et des différentes solutions alternatives existantesAnalyse des interfaces mécaniques, électriques, électro-magnétiques.Contacter les différents corps de métiers internes pour approfondir la faisabilité technique, identifier les impacts et les chiffrer en termes d'effort de travail, de besoin d'essais, de risques, d'ordre de grandeur et de coûtRapport de synthèse d'interchangeabilité Ce que vous allez acquérir :Une expérience transverse en mécanique, électrique et instrumentation,Des compétences de coordination technique, et de collaboration avec différents corps de métiers (instrumentation des procédés, qualification, contrôle commande, mécaniciens) et fournisseurs externes.Une expérience internationale : les interlocuteurs des différents corps de métiers sont soit en France, soit en Allemagne,Des compétences en méthodologie d'évaluation de faisabilité d'une solution technique,Une connaissance des systèmes et procédés d'une centrale nucléaire. Etablissement soumis à enquête administrative\n            ",
-      "dateCreation": "2026-11-07T04:31:00.394Z",
-      "dateActualisation": "2026-11-07T04:31:00.394Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon 1er Arrondissement",
-        "codePostal": "69001",
-        "commune": "69381"
-      },
-      "romeCode": "M1844",
-      "romeLibelle": "Responsable des études et applications informatiques",
-      "appellationlibelle": "Responsable des études et applications informatiques",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632268",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/346229-stage-ingenieur-d-etude-systeme-de-mesure-de-vitesse-electromagnetique-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632609",
-      "intitule": "Stage - Ingénieur d'études de conception neutronique d'un réacteur RNR-Na (Gen IV) F/H",
-      "description": "\n            Au sein de l'équipe métier Neutronique, Radioprotection et Criticité, le stage vise à réaliser des études en support à la conception d'un réacteur à neutrons rapides à caloporteur sodium (RNR-Na).Ce stage s'inscrit dans un contexte de relance de la technologie en France, conformément aux orientations du Conseil de politique nucléaire de mars 2026.Dans ce cadre, vos missions seront les suivantes :- Vous familiariser avec les chaînes de calcul neutroniques pour les cœurs RNR-Na, principalement à l'aide de codes déterministes et, ponctuellement, de codes Monte Carlo ;- Investiguer des options de conception innovantes ;- Réaliser des calculs et optimiser les performances neutroniques des cœurs ;- Calculer des données d'interface en support à la conception du réacteur ;- Participer au dimensionnement des protections radiologiques. Vous préparez une formation de niveau Bac+5, en école d'ingénieurs ou équivalent universitaire, avec une spécialisation en génie nucléaire.Vous êtes reconnu(e) pour votre rigueur, votre curiosité et votre capacité à approfondir des problématiques techniques ;Vous faites preuve de dynamisme, d'un bon esprit d'analyse et d'une réelle capacité à travailler en équipe ;Vous disposez de bonnes qualités de communication, aussi bien à l'oral qu'à l'écrit ;Vous êtes intéressé(e) par les problématiques liées à la neutronique, à la radioprotection et à la conception des réacteurs nucléaires. Rejoignez une équipe au cœur des enjeux de la conception des réacteurs nucléaires de nouvelle génération et développez votre expertise en neutronique, radioprotection et simulation numérique au travers d'un projet à fort enjeu technologique.\n            ",
-      "dateCreation": "2026-11-07T04:31:12.162Z",
-      "dateActualisation": "2026-11-07T04:31:12.162Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon 1er Arrondissement",
-        "codePostal": "69001",
-        "commune": "69381"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632609",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/339626-stage-ingenieur-d-etudes-de-conception-neutronique-d-un-reacteur-rnr-na-gen-iv-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632417",
-      "intitule": "Stage - Développement logiciel rupture brutale F/H",
-      "description": "\n            Au sein de la Direction Technique et Ingénierie, la division Ingénierie Mécanique est chargée de réaliser les activités de conception et spécification des composants primaires, auxiliaires et spéciaux, ainsi que des composants associés à des processus spécifiques - y compris le suivi technique de la fabrication, des matériaux et du calcul mécanique.Au sein de la division ingénierie mécanique, le Centre de Calcul Bourgogne est un département d'ingénierie en plein essor, qui a notamment pour mission de : Réaliser les dossiers de justification mécanique de ces composants du circuit primaire (générateur de vapeur, cuve et couvercle de cuve, pressuriseur, branche primaires) pour les centrales neuves (EPR) mais aussi pour les composants installés sur le parc,Participer aux analyses de conception des nouveaux réacteurs type SMR,Réaliser des calculs mécaniques pour les activités Framatome Défense,Réaliser les calculs mécaniques pour les outillages de manutention & levage des ateliers de fabricationRéaliser les calculs de justification des lignes secondaires & supports associés en collaboration avec les équipes de la base installée Framatome.Les domaines de la mécaniques abordés au sein du Centre Calculs Bourgogne sont la déformation excessive, l'instabilité plastique, la déformation progressive, la fatigue et la rupture brutale. Ces analyses sont réalisées en s'appuyant sur des calculs mécaniques, thermomécaniques élastiques et élastoplastiques.Pour réaliser ses activités, le Centre de Calcul Bourgogne a également la charge du développement d'outils de calculs scientifiques.L'un de ces outils est une bibliothèque de lecture de fichiers issus de calculs éléments finis, en particulier, issus de Systus et de code_aster. Notre outil de référence pour l'analyse du risque de rupture brutale est actuellement limité à la lectures des fichiers générés par Systus.L'objectif du stage est d'intégrer la bibliothèque dans le logiciel de rupture brutale pour permettre la lecture de différents formats de fichiers. L'ajout de ces fonctionnalités se fera suivant les étapes suivantes :Analyser le code existant,Définir l'architecture des nouvelles implémentations,Développer de nouvelles fonctions en s'adaptant et en réutilisant celles existantes,Adapter la compilation,Effectuer une vérification,Effectuer des tests de non régressionVous préparez une formation de niveau Bac+5 en école d'ingénieurs ou équivalent universitaire et disposez  de compétences en développement logiciel.Des connaissances en C++ sont attendues.Un intérêt pour les méthodes numériques, la mécanique ou les logiciels de calculs constitue un atout.Curiosité, autonomie et esprit d'analyse seront particulièrement appréciés.Compétences nécessaires :- Conception et architecture logicielle ;- Développement logiciel ;- Qualité logicielle ;- Maîtrise des outils de gestion de versions (GitLab).\n            ",
-      "dateCreation": "2026-11-07T04:31:06.585Z",
-      "dateActualisation": "2026-11-07T04:31:06.585Z",
-      "lieuTravail": {
-        "libelle": "71 - Mâcon",
-        "codePostal": "71000",
-        "commune": "71270"
-      },
-      "romeCode": "M1853",
-      "romeLibelle": "Chef / Cheffe de projet étude et développement informatique",
-      "appellationlibelle": "Chef / Cheffe de projet développement logiciel",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632417",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/343750-stage-developpement-logiciel-rupture-brutale-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632596",
-      "intitule": "Stage - Ingénieur HSE F/H",
-      "description": "\n            L'établissement Framatome de Montbard, situé en Côte-d'Or (21), est spécialisé dans la fabrication de tubes en acier inoxydable pour les centrales nucléaires (faisceaux de tubes cintrés et produits tubulaires spécialisés en alliage de nickel et en acier inoxydable destinés aux générateurs de vapeur).L'usine, reconnue dans le monde entier pour son savoir-faire, emploie environ 330 personnes.L'établissement se situe à 40 minutes en train de Dijon et à 1 heure de Paris Gare de Lyon. Il bénéficie également d'un accès direct à la gare de Montbard (21), située à 10 minutes à pied de l'usine.Au sein du service HSE, composé de 5 collaborateurs, vous serez rattaché(e) au Responsable HSE du site, qui assurera votre accompagnement et votre tutorat tout au long de votre stage.Ce stage a pour objectif d'offrir à un(e) futur(e) ingénieur(e) HSE une expérience terrain complète et pluridisciplinaire, lui permettant de développer ses compétences en conduite de projets, analyse des risques et leadership, tout en contribuant à des améliorations visibles et concrètes au sein de l'usine.Vos principales activités :Vous participerez à plusieurs projets transversaux liés à la performance HSE du site.À ce titre, vous serez amené(e) à travailler sur différentes thématiques :Document Unique ;Risque chimique ;Plans de levage ;Prévention des risques d'accidents aux mains ;Conformité réglementaire SSE ;Culture sécurité et FOH.Vos missions incluront notamment :Observer les situations de travail et échanger avec les équipes opérationnelles ;Identifier, analyser et évaluer les situations à risque ;Animer des groupes de travail d'amélioration continue ;Participer au déploiement et au suivi de plans d'actions ;Rédiger des procédures, des supports de communication, des présentations et des cahiers des charges ;Sensibiliser et accompagner les équipes dans l'adoption des bonnes pratiques HSE.Vous êtes étudiant(e) en dernière année de votre cursus d'ingénieur ou équivalent universitaire dans le domaine de la Santé, Sécurité, Environnement (HSE/QHSE) et vous recherchez un stage de fin d'études de 6 mois à partir de 2027.Vous êtes reconnu(e) pour :Votre curiosité et votre esprit d'analyse ;Votre aisance relationnelle et votre capacité à communiquer avec différents interlocuteurs ;Votre intérêt pour les problématiques de sécurité en environnement industriel.Pourquoi nous rejoindre ?Une immersion au cœur d'un environnement industriel exigeant et stimulant ;Des missions à forte valeur ajoutée, avec des résultats concrets et visibles ;L'opportunité de développer des compétences techniques et réglementaires recherchées dans les métiers HSE. \n            ",
-      "dateCreation": "2026-11-07T04:31:11.756Z",
-      "dateActualisation": "2026-11-07T04:31:11.756Z",
-      "lieuTravail": {
-        "libelle": "21 - Dijon",
-        "codePostal": "21000",
-        "commune": "21231"
-      },
-      "romeCode": "M1806",
-      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
-      "appellationlibelle": "Consultant / Consultante SIRH ressources humaines",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632596",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/344515-stage-ingenieur-hse-f-h-2?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8642608",
-      "intitule": "Stage - Programmation des procédures opérateur EPR2 pour calculs avec KTG/CATHARE F/H",
-      "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nAu sein du Département « Conception Réacteur, Analyse des Transitoires et Conduite Incidentelle et Accidentelle », vous intégrez la section Conduite Incidentelle-Accidentelle (CIA) des réacteurs de Framatome. Cette section travaille au développement et la maintenance des stratégies de conduite post-accidentelle des réacteurs à Eau Pressurisée (REP). Ces stratégies de conduite sont appliquées par les opérateurs en salle de commande en cas d'incident ou accident. La section travaille également à la réalisation d'études thermohydrauliques en lien avec ces stratégies, avec le code de référence CATHARE.  \nDescription de la mission :\nLes accidents étudiés dans le Rapport Définitif de Sûreté (RDS) nécessitent de programmer les actions réalisées par les opérateurs de conduite en cas de situation incidentelle ou accidentelle. Ces actions définies par les procédures de l'Approche Par Etat (APE) permettent de ramener la tranche vers un état sûr. La programmation des procédures de conduite APE directement dans le jeu de données du code de thermohydraulique CATHARE offre peu de souplesse et l'implémentation de la conduite opérateur est maintenant réalisée sur la base d'un outil interne, intitulé KTG.\nCe stage a pour but de programmer dans l'environnement KTG et à l'aide de scripts d'automatisation python (développés via outils IA), la conduite opérateur incidentelle accidentelle EPR2. Une validation de ces programmations sera à réaliser dans un second temps par une comparaison des résultats des transitoires accidentels simulés avec le code CATHARE.\nCe stage comportera les phases suivantes :\n1) Appropriation :\no   Systèmes fluides\no   Conduite incidentelle/accidentelle (CIA)\no   Code thermohydraulique CATHARE / Environnement KTG\n2) Programmation :\no  Mise en place de l'architecture KTG pour la modélisation CIA + codages python des actions et tests des procédures\n3) Validation sur la base de simulation CATHARE de transitoires accidentels :\no   Accident par Perte de Réfrigérant Primaire (APRP)\no   Rupture Tuyauterie Vapeur (RTV)\nCe stage, très complet en termes de compétences, permettra au stagiaire :\nde monter en compétence sur l'utilisation de CATHARE\nde découvrir la conduite incidentelle accidentelle\nde découvrir les systèmes d'une centrale nucléaire et les phénomènes physiques liés à des transitoires accidentels\nde monter en compétence sur les langages python, C++, FORTRAN, outils IA.\nVous préparez une formation de niveau Bac +5 en école d'ingénieurs ou équivalent universitaire et manifestez un intérêt pour la thermo-hydraulique, ainsi que pour la conception et le fonctionnement des Réacteurs à Eau Pressurisée (REP).\nRigoureux(se), précis(e) et autonome, vous faites preuve de pugnacité et d'initiative. Vous disposez également de bonnes aptitudes relationnelles et appréciez les sujets techniques nécessitant analyse et méthode.\nCompétences requises :\nConnaissances en thermo-hydraulique\nConnaissances en simulation numérique\nConnaissances du fonctionnement général des centrales nucléaires de type REP\nConnaissance des environnements Unix/Linux\nCompétences en programmation (Python, C, Fortran, etc.) et/ou en intelligence artificielle\nMaîtrise des outils bureautiques",
-      "dateCreation": "2026-11-07T12:01:23.785Z",
-      "dateActualisation": "2026-11-07T12:01:23.785Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "F1112",
-      "romeLibelle": "Ingénieur / Ingénieure calcul et structure",
-      "appellationlibelle": "Calculateur / Calculatrice",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8642608",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56973655?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8632447",
-      "intitule": "Stage - Programmation des procédures opérateur EPR2 pour calculs avec KTG/CATHARE F/H",
-      "description": "\n             Au sein du Département « Conception Réacteur, Analyse des Transitoires et Conduite Incidentelle et Accidentelle », vous intégrez la section Conduite Incidentelle-Accidentelle (CIA) des réacteurs de Framatome. Cette section travaille au développement et la maintenance des stratégies de conduite post-accidentelle des réacteurs à Eau Pressurisée (REP). Ces stratégies de conduite sont appliquées par les opérateurs en salle de commande en cas d'incident ou accident. La section travaille également à la réalisation d'études thermohydrauliques en lien avec ces stratégies, avec le code de référence CATHARE.  Description de la mission :Les accidents étudiés dans le Rapport Définitif de Sûreté (RDS) nécessitent de programmer les actions réalisées par les opérateurs de conduite en cas de situation incidentelle ou accidentelle. Ces actions définies par les procédures de l'Approche Par Etat (APE) permettent de ramener la tranche vers un état sûr. La programmation des procédures de conduite APE directement dans le jeu de données du code de thermohydraulique CATHARE offre peu de souplesse et l'implémentation de la conduite opérateur est maintenant réalisée sur la base d'un outil interne, intitulé KTG.Ce stage a pour but de programmer dans l'environnement KTG et à l'aide de scripts d'automatisation python (développés via outils IA), la conduite opérateur incidentelle accidentelle EPR2. Une validation de ces programmations sera à réaliser dans un second temps par une comparaison des résultats des transitoires accidentels simulés avec le code CATHARE.Ce stage comportera les phases suivantes :1) Appropriation :o   Systèmes fluideso   Conduite incidentelle/accidentelle (CIA)o   Code thermohydraulique CATHARE / Environnement KTG2) Programmation :o  Mise en place de l'architecture KTG pour la modélisation CIA + codages python des actions et tests des procédures3) Validation sur la base de simulation CATHARE de transitoires accidentels :o   Accident par Perte de Réfrigérant Primaire (APRP)o   Rupture Tuyauterie Vapeur (RTV) Ce stage, très complet en termes de compétences, permettra au stagiaire :de monter en compétence sur l'utilisation de CATHAREde découvrir la conduite incidentelle accidentellede découvrir les systèmes d'une centrale nucléaire et les phénomènes physiques liés à des transitoires accidentelsde monter en compétence sur les langages python, C++, FORTRAN, outils IA.Vous préparez une formation de niveau Bac +5 en école d'ingénieurs ou équivalent universitaire et manifestez un intérêt pour la thermo-hydraulique, ainsi que pour la conception et le fonctionnement des Réacteurs à Eau Pressurisée (REP).Rigoureux(se), précis(e) et autonome, vous faites preuve de pugnacité et d'initiative. Vous disposez également de bonnes aptitudes relationnelles et appréciez les sujets techniques nécessitant analyse et méthode.Compétences requises :Connaissances en thermo-hydrauliqueConnaissances en simulation numériqueConnaissances du fonctionnement général des centrales nucléaires de type REPConnaissance des environnements Unix/LinuxCompétences en programmation (Python, C, Fortran, etc.) et/ou en intelligence artificielleMaîtrise des outils bureautiques\n            ",
-      "dateCreation": "2026-11-07T04:31:06.587Z",
-      "dateActualisation": "2026-11-07T04:31:06.587Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "E1410",
-      "romeLibelle": "Responsable programmatique",
-      "appellationlibelle": "Chef / Cheffe de projet programmatique",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "1",
-      "qualificationLibelle": "Manœuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8632447",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/297-framatome/345246-stage-programmation-des-procedures-operateur-epr2-pour-calculs-avec-ktg-cathare-f-h?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
           }
         ]
       },
@@ -908,84 +435,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "8555241",
-      "intitule": "STAGE DATA ANALYTICS & IA H/F",
-      "description": "Plusieurs opportunités à pourvoir chez SQORUS !\n\nTravailler sur des projets data innovants, à forte valeur ajoutée et dans un environnement collaboratif vous attire ? Vous êtes peut-être le talent qu'il manque à notre équipe.\nNous recherchons un Data Analytics en stage (H/F) pour rejoindre notre communauté Data & IA au sein de SQORUS, société certifiée Great Place to Work. Vous contribuerez à des projets variés autour de la collecte, de la transformation, de l'exploitation et de la valorisation des données, tout en découvrant les enjeux liés à l'Intelligence Artificielle et aux plateformes Data modernes.\nTout au long du stage, vous bénéficierez de l'accompagnement d'un.e de nos consultant.e.s expérimenté.e.s afin de développer vos compétences techniques et votre compréhension des enjeux métiers de nos clients.\n Durée : 6 mois\n Démarrage : Janvier 2026\n \nDans le cadre de ce stage, vous contribuerez à la conception et à l'évolution de plateformes de données modernes pour le compte d'organisations issues de secteurs variés : banque, assurance, industrie, services, retail\nAu sein de la communauté Data & IA, vous collaborerez avec des spécialistes de la donnée, de l'analytique, de l'intelligence artificielle et de la gestion de projets Data.\nData Engineering & Data Platforms\n * Participer à la conception et au développement de chaînes de traitement de données (ETL/ELT)\n * Développer et maintenir des pipelines de données robustes et automatisés\n * Contribuer à la collecte, à l'intégration et à la transformation de données issues de multiples sources\n * Participer à l'industrialisation et au déploiement de solutions sur les environnements Cloud Azure\n\nArchitecture & Gouvernance Data\n * Contribuer à la conception d'architectures Data modernes, évolutives et performantes\n * Participer à la maintenance et à l'amélioration continue des plateformes de données\n * Contribuer à la qualité, à la fiabilité et à la disponibilité des données\n\nAnalytics & Valorisation\n * Participer à la création de tableaux de bord et d'indicateurs de pilotage\n * Contribuer à l'exploitation et à la valorisation des données afin de répondre aux enjeux métiers\n\nData & Intelligence Artificielle\n * Participer à l'intégration de solutions d'Intelligence Artificielle au sein des plateformes Data\n * Contribuer à la mise en place d'agents IA dédiés à l'automatisation de la documentation, à l'assistance au développement ou à la revue de code\n * Découvrir les usages de l'IA générative au service de la productivité et de la valorisation des données\n * Participer à des Proofs of Concept (PoC) autour de l'IA, du Machine Learning et des architectures Data modernes\n\nEnvironnement technique\nAzure Cloud, Azure Data Factory (ADF), Microsoft Fabric, Azure DevOps, SQL Server, T-SQL, PL-SQL, Python, Databricks, DBT, Power BI, Git.\n \nVous préparez actuellement une formation de niveau Bac+5 en informatique, en école d'ingénieurs ou à l'université, avec une spécialisation en informatique, data ou systèmes d'information.\nCompétences clés\n * Connaissances en SQL et en modélisation de données\n * Bases en développement Python\n * Intérêt marqué pour les architectures Data modernes et l'IA générative\n * Première expérience ou exposition aux environnements Cloud, idéalement Azure\n * Maîtrise du français à un niveau bilingue\n * Anglais professionnel, à l'écrit comme à l'oral\n\nQualités recherchées \n * Curiosité intellectuelle et volonté d'apprendre rapidement.\n * Aisance relationnelle et capacité à échanger avec des interlocuteurs techniques et fonctionnels.\n * Goût du travail collaboratif.\n * Capacité à comprendre les enjeux métiers afin de proposer des solutions pertinentes.\n * Rigueur, autonomie progressive et sens de l'initiative.\n * Intérêt pour les environnements de conseil et la diversité des missions.\n\nLangues \n * Français bilingue. \n\n * Anglais professionnel. \n\n\nProcessus de recrutement \n 1. Entretien RH pour comprendre votre parcours, vos motivations et votre projet professionnel. \n 2. Entretien avec un manager comprenant un échange technique et métier autour de vos compétences et centres d'intérêt. \n 3. Entretien final avec un responsable de l'équipe et/ou de la practice, avec éventuelle mise en situation ou étude de cas simplifiée.\n\n\nSQORUS en quelques mots :\nSQORUS est un Cabinet Conseil spécialisé dans la transformation des fonctions RH, Finance et IT. Nos consultants interviennent depuis  auprès d'ETI et de grandes entreprises sur des projets structurants, à dimension internationale : Conseil en stratégie, Aide au choix, Intégration, Assistance à Maîtrise d'Ouvrage Business Intelligence, Data Management, Accompagnement au changement, Pilotage de la Performance, mais également sur des enjeux autour du Cloud ou de l'Intelligence Artificielle.\nNous anticipons constamment les nouvelles pratiques numériques et les évolutions des modes de travail. Nous avons réussi à tisser des partenariats forts avec les principaux éditeurs du marché et à attire...",
-      "dateCreation": "2026-11-04T22:19:34.704Z",
-      "dateActualisation": "2026-11-08T22:19:06.596Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris 9e Arrondissement",
-        "codePostal": "75009",
-        "commune": "75109"
-      },
-      "romeCode": "M1836",
-      "romeLibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
-      "appellationlibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8555241",
-        "partenaires": [
-          {
-            "nom": "CARRIEREONLINE",
-            "url": "https://www.carriereonline.com/offres-emploi/france/ingenieur-informaticien/38369701/?xtor=SEC-1321",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/carriereonline80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8555240",
-      "intitule": "STAGE DÉVELOPPEMENT ET AUTOMATISATION  D'APPLICATIONS H/F",
-      "description": "Plusieurs opportunités à pourvoir chez SQORUS !\n\nRejoignez SQORUS, cabinet de conseil reconnu depuis  pour son expertise auprès des ETI et des grandes entreprises dans la transformation des fonctions RH, Finance et IT.\nDans le cadre du développement de notre pôle Atlassian, nous recherchons une personne souhaitant évoluer à la croisée du développement applicatif, du conseil et de l'accompagnement des usages.\nVous contribuerez à des projets innovants autour de l'écosystème Atlassian Cloud, des technologies Forge, de l'IA générative et de l'automatisation. Cette expérience permettra d'intervenir sur des environnements clients variés tout en développant une expertise recherchée sur le marché.\n Durée : 6 mois\n Démarrage : Janvier 2026\n \nAu sein de l'équipe Atlassian de SQORUS, vous participerez à des projets de transformation numérique pour nos clients ainsi qu'aux initiatives internes visant à enrichir notre expertise et nos offres de services.\n\nDéveloppement d'applications Atlassian\n * Participer au développement d'applications et d'extensions basées sur la plateforme Atlassian Forge.\n * Concevoir et faire évoluer des composants en React et TypeScript.\n * Maintenir et améliorer les développements existants.\n * Contribuer aux phases de tests et de validation.\n * Intégration de l'IA : conception d'assistants et automatisations intelligentes (Rovo) pour accompagner les usages et l'optimisation de leurs processus.\n\nAdministration et paramétrage\n * Contribuer au paramétrage et à l'évolution des outils Atlassian (Jira, Confluence, Jira Service Management).\n * Participer à l'amélioration continue des processus et des usages.\n * Réaliser des configurations répondant aux besoins métiers.\n\nDéveloppement de la communauté Atlassian\n * Participer à l'animation de la communauté Atlassian au sein de SQORUS.\n * Produire des contenus tels que des guides, démonstrations ou présentations.\n * Accompagner l'adoption des outils et le partage des bonnes pratiques.\n\nCompréhension des enjeux métiers\n * Collaborer avec les équipes RH, Finance et IT.\n * Analyser les besoins fonctionnels afin de proposer des solutions adaptées.\n * Participer aux ateliers et aux échanges avec les parties prenantes métiers.\n\n \nVous préparez actuellement une formation de niveau Bac+5 en informatique, en école d'ingénieurs ou à l'université, avec une spécialisation en développement logiciel, systèmes d'information ou technologies web.\nExpérience\n * Première expérience académique, projet personnel ou stage en développement web.\n * Une expérience dans un environnement collaboratif ou agile constitue un atout.\n\nCompétences requises\n * Bonnes connaissances en développement React.\n * Maîtrise ou bonnes bases en TypeScript.\n * Connaissances en JavaScript moderne et développement web.\n * Sensibilité aux architectures Cloud et aux plateformes SaaS.\n * Compréhension des principes de développement applicatif et du cycle de vie logiciel.\n * Notions des méthodologies Agile/Scrum.\n\nCompétences appréciées\n * Connaissance de Jira, Confluence ou Jira Service Management.\n * Première expérience ou intérêt pour Atlassian Forge.\n * Connaissance des API REST et des intégrations applicatives.\n * Intérêt pour l'automatisation, l'IA générative et les agents IA.\n * Connaissance de Git et des outils de gestion de versions.\n\nQualités recherchées\n * Curiosité intellectuelle et volonté d'apprendre rapidement.\n * Aisance relationnelle et capacité à échanger avec des interlocuteurs techniques et fonctionnels.\n * Goût du travail collaboratif.\n * Capacité à comprendre les enjeux métiers afin de proposer des solutions pertinentes.\n * Rigueur, autonomie progressive et sens de l'initiative.\n * Intérêt pour les environnements de conseil et la diversité des missions.\n\nLangues \n * Français bilingue.\n * Anglais professionnel.\n   \n\nProcessus de recrutement \n 1. Entretien RH pour comprendre votre parcours, vos motivations et votre projet professionnel. \n\n 2. Entretien avec un manager comprenant un échange technique et métier autour de vos compétences et centres d'intérêt. \n\n 3. Entretien final avec un responsable de l'équipe et/ou de la practice, avec éventuelle mise en situation ou étude de cas simplifiée. \n    \n\nSQORUS en quelques mots :\nSQORUS est un Cabinet Conseil spécialisé dans la transformation des fonctions RH, Finance et IT. Nos consultants interviennent depuis  auprès d'ETI et de grandes entreprises sur des projets structurants, à dimension internationale : Conseil en stratégie, Aide au choix, Intégration, Assistance à Maîtrise d'Ouvrage Business Intelligence, Data Management, Accompagnement au changement, Pilotage de la Performance, mais également sur des enjeux autour du Cloud ou de l'Intelligence Artificielle.\nNous anticipons constamment les nouvelles pratiques numériques et les évolutions des modes de travail. Nous avons réussi à tisser des partenariats forts avec les principaux éditeurs du marché et à attirer des experts métiers et techniques.\nNotre force : plus...",
-      "dateCreation": "2026-11-04T22:19:34.706Z",
-      "dateActualisation": "2026-11-08T22:19:06.387Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris 9e Arrondissement",
-        "codePostal": "75009",
-        "commune": "75109"
-      },
-      "romeCode": "M1836",
-      "romeLibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
-      "appellationlibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8555240",
-        "partenaires": [
-          {
-            "nom": "CARRIEREONLINE",
-            "url": "https://www.carriereonline.com/offres-emploi/france/ingenieur-informaticien/38369700/?xtor=SEC-1321",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/carriereonline80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "8551562",
       "intitule": "Stage Technicien(e) Digitalisation industrielle H/F",
       "description": "En Zone Technique, les équipes de montage donnent vie aux plans des bureaux d'études.\n\nÀ bord des navires, elles installent notamment les réseaux de tuyauterie, les gaines de ventilation, les chemins de câbles et les équipements nécessaires au fonctionnement des salles machines. Pour réaliser ces travaux, elles s'appuient sur des plans et sur différents outils informatiques.\n\nVotre stage consiste à les accompagner dans l'utilisation de ces outils informatique, dans une démarche de digitalisation de l'activité.\n\nVous identifierez leurs besoins, puis créerez ou améliorerez des supports pratiques, comme des modes opératoires, des vidéos ou des présentations.\n\nVous pourrez ensuite les tester directement avec les équipes sur le terrain et recueillir leurs retours pour les faire évoluer.\n  \n Vous préparez un diplôme de niveau Bac+2 à Bac+4, en école d'ingénieur généraliste, en génie industriel ou dans une formation de type BUT, avec une spécialisation en méthodes de production, management des équipes ou accompagnement des organisations.\n\n\nVous disposez de bonnes capacités de synthèse et de rédaction et êtes à l'aise pour concevoir des supports clairs et structurés. Vous avez une réelle appétence pour les outils numériques et aimez comprendre les besoins des utilisateurs pour proposer des solutions adaptées.\nAutonome et force d'initiative, vous appréciez les environnements où vous pouvez être en contact avec le terrain.\nUn anglais scolaire est attendu afin de pouvoir contribuer à la réalisation de supports en français et en anglais.\n\nEnvironnement de stage : 80 % au bureau et 20 % sur le terrain, au contact des équipes de montage en Zone Technique.\n \nEn venant chez nous, c'est aussi :\nAvoir de belles opportunités de carrière et une multitude de trajectoires professionnelles,\nDisposer de nombreux avantages comme par exemple : restaurant d'entreprise avec participation de l'employeur, CSE : chèques vacances, loisirs, voyages, associations sportives, médiathèque gratuite...\nExcellente situation géographique : proche de l'océan, gare SNCF et lignes de bus à proximité\nIntégrer une entreprise attachée à la diversité, notamment à travers notre démarche les Elles de l'Atlantique qui promeut la mixité au sein de l'entreprise\n\nChaque année, nous accueillons 200 étudiants, et 93 % de nos stagiaires et alternants recommandent notre entreprise pour y vivre une expérience similaire !\nCe qu'ils apprécient particulièrement ? Apprendre et développer de nouvelles compétences, contribuer à des projets dont ils sont fiers et évoluer au sein d'une équipe où les relations avec leur tuteur et leurs collègues font la différence.\n\nAlors, prêt(e) à vivre l'expérience à votre tour ?\n \nParce que la mer est notre avenir et bientôt le vôtre !\nRetrouvez notre process de recrutement sur www.chantiers-atlantique.com",
@@ -1036,7 +485,7 @@
       "intitule": "STAGE BUSINESS ANALYST - MARKETING - H/F",
       "description": "Travailler chez Siplec, c'est intégrer une entité du Mouvement E.Leclerc, spécialisée dans les Énergies ainsi que dans la conception, le développement et l'achat de produits non-alimentaires des Marques de Distributeur (MDD) de l'enseigne, d'origine France, Europe et international.\nEntreprise à taille humaine (?500 collaborateurs en France), Siplec est certifiée Great Place To Work. Nos collaborateurs plébiscitent particulièrement l'équité, la solidarité, l'intégration, l'équilibre vie pro / vie perso et le management participatif.\nAu sein de la direction Non Alimentaire, rejoignez l'équipe Marketing MDD Bazar composé de 20 personnes.\nEn tant que stagiaire - Analyste de données marketing H/F, vous occuperez un rôle clé dans l'analyse et la valorisation des données au service de nos gammes de produits.\nNotre mission : garantir le bon positionnement prix de nos marques distributeur et piloter leurs performances pour accompagner une amélioration continue de l'offre.\nCe stage vous permettra d'explorer les marchés variés du Bazar (Papeterie, Bricolage, Animalerie, Auto, Maison, etc.) et de comprendre concrètement les enjeux stratégiques de la grande distribution, au sein de l'enseigne n°1 du marché français.\nDécouvrez vos futures missions !\nVos missions au quotidien ?\nRattaché(e) à l'Analyste Données Marketing, vous participerez activement aux deux volets majeurs du pôle :\n1. Pricing et veille concurrentielle\n-   Suivre les positionnements prix de nos gammes face aux concurrents (enseignes GSA, GSS, Hard Discount...).\n-   Mettre à jour et analyser les KPI de pricing : indices de prix, dispersion, alignements web vs magasin.\n-   Suivi des prix magasins/internet\n-   Contribuer au déploiement de nouveaux outils de suivi et d'automatisation en lien avec le département DSI.\n-   Fournir des analyses et synthèses à destination de l'équipe Marketing et de la direction.\n2. Analyse de performances des gammes\n-   Étudier les performances de vente (CA, volumes, marges, rotations).\n-   Réaliser des focus par catégorie pour accompagner les chefs de produits dans leurs décisions (lancements, déréférencements, évolution de gamme).",
       "dateCreation": "2026-11-04T12:43:19.202Z",
-      "dateActualisation": "2026-11-04T12:43:19.202Z",
+      "dateActualisation": "2026-11-14T14:24:10.933Z",
       "lieuTravail": {
         "libelle": "94 - Ivry-sur-Seine",
         "codePostal": "94200",
@@ -1063,47 +512,6 @@
             "nom": "DIRECTEMPLOI",
             "url": "https://www.directemploi.com/candidatOffre/56941638?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8488469",
-      "intitule": "Stage de fin d'études / Alternance - Transport : Imaginez et accompagnez les mobilités de demain (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription du poste Le transport se réinvente. Évolution des modèles, exigence de performance, transition environnementale et accélération technologique transforment la mobilité des voyageurs, le fret, la logistique, les infrastructures et les opérations. Dans ce contexte, les acteurs du secteur doivent imaginer de nouveaux services, moderniser leurs systèmes et exploiter la data et l'intelligence artificielle, tout en garantissant la fiabilité et la qualité de leurs activités. Au sein de la practice TIME (Transport, Infrastructure, Manufacturing & Energy), vous contribuerez à produire des analyses et des convictions directement utiles aux équipes et à leurs missions. Selon votre sujet, vous pourrez explorer des problématiques liées à la transformation des mobilités notamment via l'exploitation de la data et de l'IA, à l'expérience voyageur, à l'optimisation des opérations, et à la transition durable des mobilités. Votre stage ou votre alternance combinera recherche, structuration de connaissances et mise en pratique. Vous serez accompagné-e par un tuteur et des consultant-es de l'équipe, avec l'objectif de progresser rapidement, de produire des livrables concrets et de participer, selon les opportunités, à une ou plusieurs missions de conseil auprès de nos clients. \n\n Objectif du stage / de l'alternance Le stage ou l'alternance vise à développer une connaissance de premier plan sur un enjeu du transport, puis à la transformer en convictions, méthodes et livrables directement utiles aux équipes. Sous l'encadrement de votre tuteur et en lien avec les communautés d'expertise, vous pourrez notamment :  Cadrer une problématique et structurer une démarche d'étude, par exemple sur l'usage de la data et de l'IA dans la maintenance ou l'exploitation ;  Analyser des sources, retours d'expérience et solutions de marché afin de produire un benchmark ou un panorama, par exemple sur les nouveaux services de mobilité ou les modèles de distribution ;  Recueillir des enseignements auprès de consultant-es et d'expert-es métier pour comprendre les enjeux opérationnels, comme la planification, la continuité de service ou l'ouverture à la concurrence ;  Construire un livrable réutilisable, tel qu'une grille d'analyse, un radar d'acteurs ou une méthodologie, sur un sujet lié aux opérations, aux systèmes d'information ou à la mobilité durable ;  Formuler et restituer des recommandations concrètes pour nourrir les missions et les propositions commerciales, par exemple sur la résilience des infrastructures ou l'amélioration de l'expérience voyageur.  En parallèle, vous participerez à une ou plusieurs missions de conseil ou à des chantiers internes, au sein d'une équipe placée sous la responsabilité d'un directeur ou d'une directrice de mission. Quelques exemples de problématiques et de travaux Data & IA : comment améliorer la qualité et la gouvernance des données dans un écosystème multi-acteurs ? Quels usages de l'IA pour l'information voyageur, la régulation, la planification, la maintenance des matériels roulants et l'exploitation des infrastructures ? Expérience voyageur & distribution : comment faire évoluer les canaux de vente, les agences, les automates et les parcours omnicanaux ? Comment distribuer des offres dans un marché ouvert et mieux exploiter la donnée au service de la relation client ? Opérations & maintenance : comment concevoir des processus de planification plus robustes, améliorer la performance opérationnelle, gérer les situations perturbées et intégrer de nouveaux matériels connectés ? Ouverture à la concurrence & nouveaux marchés : quels enseignements tirer des modèles européens ? Comment adapter les SI, la gouvernance de la donnée, les organisations et les méthodes de réponse aux appels d'offres ? Mobilité durable : comment décarboner la mobilité longue distance et les hubs aéroportuaires ? Comment adapter les infrastructures de transport au changement climatique et développ...",
-      "dateCreation": "2026-11-03T04:31:01.453Z",
-      "dateActualisation": "2026-11-03T04:31:01.453Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8488469",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/348455-stage-de-fin-d-etudes-alternance-transport-imaginez-et-accompagnez-les-mobilites-de-demain?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
           }
         ]
       },
@@ -1149,52 +557,6 @@
           {
             "nom": "TALENTPLUG",
             "url": "http://app.mytalentplug.com/redirection.aspx?ojid=+vvQIJ3Q/dRDrRYZgCuByA==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8362933",
-      "intitule": "Stage - Développeur / Développeuse & Fiabilisation de Données F/H",
-      "description": "Dans le cadre de son amélioration continue, la Direction des Offres MOSS a développé en 2026 une application tableau de bord pour piloter et suivre l'ensemble de ses offres techniques et commerciales. Ce tableau de bord a été développé en low-code (solution souveraine Simplicité) et add-on Bryntum GANTT.\nNous recherchons un(e) stagiaire pour contribuer activement à faire évoluer l'outil, automatiser les processus et fiabiliser les données du référentiel.\n\nVos missions\n\nSous la responsabilité et l'accompagnement de la Directrice des Offres, vous contribuerez activement à :\n\n- Évolution & Innovation : Faire évoluer le tableau de bord des offres pour répondre au mieux au besoin des directions internes et permettre l'accélération et l'automatisation du processus (évolutions low-code et/ou IA).\n- Gestion du besoin & Roadmap : Collecter le besoin des utilisateurs, maintenir et animer la roadmap évolutive de l'application.\n- Migration & Fiabilisation des données : Réaliser la migration des données du référentiel existant vers le nouvel outil et fiabiliser les données manquantes.\n- Efficacité opérationnelle : Mettre en place des automatisations pour améliorer l'efficacité des équipes avant-vente/vente et des collaborateurs.\n- Accompagnement du changement : Organiser des sessions de formation et de démonstration de l'application aux utilisateurs.\n- Soutien à la BITD : Participer au développement des produits digitaux des startups et PME françaises que nous encourageons dans le cadre du développement de la BITD.\n\nPourquoi nous rejoindre ?\n\nEn tant que stagiaire Tableau de bord des Offres, votre travail aura un impact direct sur les collaborateurs MOSS et le Comité de Direction. Vous serez au coeur de l'innovation en créant une application qui transforme réellement les processus internes en boucle courte dans une entreprise à taille humaine. Si vous cherchez un environnement où vos idées prennent vie rapidement et où vous voyez l'impact concret de votre travail, ce stage est fait pour vous.\n  \n Votre profil\n\n- Vous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur).\n- Prérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n\n- Compétences techniques :\n\n- Indispensables : Connaissances du développement logiciel et des bases de données, intérêt pour les plateformes low-code / no-code et l'intégration d'outils d'IA, manipulation et migration de données.\n\n- Appréciées : Business Intelligence (BI), notions sur la solution Simplicité.\n\n- Appétences & Orientation :\n\n- Appétence pour la coordination de projet et l'amélioration continue.\n- Intérêt marqué pour l'avant-vente et le commerce.\n\nQualités personnelles :\n\n- Curiosité, autonomie & proactivité : Vous avez envie de vous impliquer et de faire la différence.\n-  Pédagogie & Rigueur : Capacité à former les utilisateurs, animer des démos et garantir l'intégrité des données.\n\n\nNote relative à la sécurité :\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
-      "dateCreation": "2026-10-28T14:35:27.602Z",
-      "dateActualisation": "2026-10-28T14:35:27.602Z",
-      "lieuTravail": {
-        "libelle": "92 - Issy-les-Moulineaux",
-        "codePostal": "92130",
-        "commune": "92040"
-      },
-      "romeCode": "M1827",
-      "romeLibelle": "Ingénieur / Ingénieure DevOps",
-      "appellationlibelle": "Ingénieur / Ingénieure développement logiciel informatique",
-      "entreprise": {
-        "nom": "MOSS"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "74.90B",
-      "secteurActivite": "74",
-      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8362933",
-        "partenaires": [
-          {
-            "nom": "TALENTPLUG",
-            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=h9xeMzep2bxo3jOMDeDS8g==",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
           }
         ]
@@ -1252,7 +614,7 @@
       "intitule": "Stage : Ingénieur/e Système - Défense & Sécurité - Le Plessis-Robinson H/F",
       "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.\nAccompagner d'un ingénieur système confirmé, il s'agira de mener les mêmes mission qu'un ingénieur système, pour participer à la réalisation d'un VCS (Voice Communication Système) dans le domaine du contrôle aérien.\nVos missions :\nRédiger les exigences systèmes (SSS),\nParticiper à la conception système : niveau système, logique, physique,\nDéfinition des exigences d'interfaces,\nAccompagner les équipes de développement logiciel et les équipes d'intégration/validation système dans la prise en main de la fonction système...\nEnvironnement technique\nVoIP\nContrôle Aérien\nHaute disponibilité\nConteneurisation\nOutils : ALM, Capella",
       "dateCreation": "2026-10-24T12:01:38.557Z",
-      "dateActualisation": "2026-10-24T12:01:38.557Z",
+      "dateActualisation": "2026-11-14T14:41:21.905Z",
       "lieuTravail": {
         "libelle": "92 - Plessis-Robinson",
         "codePostal": "92350",
@@ -1287,143 +649,11 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "8012441",
-      "intitule": "STAGE - Ingénieur(e) Traitement du Signal & Synchronisation - R&D F/H",
-      "description": "Contexte & Enjeux du projet\n\nMOSS SAS développe un réseau de noeuds capteurs distribués qui doivent dater des événements sur une référence de temps commune, à quelques dizaines de nanosecondes près. Chaque noeud possède sa propre horloge, recalée sur une référence GNSS : elle présente de la gigue, elle dérive, et elle peut perdre sa référence.\n\nVous construisez la plateforme de simulation qui modélise ces horloges, vous concevez les algorithmes qui estiment et compensent les écarts entre noeuds, et vous en déduisez la précision à exiger du matériel.\n\nVos missions :\n\nSous la responsabilité et l'accompagnement de votre tuteur, vous interviendrez sur l'ensemble de la démarche R&D :\n\n- État de l'art : Étudier l'état de l'art : modèles d'horloge et de bruit d'oscillateur, variance d'Allan, synchronisation dans les réseaux de capteurs, récepteurs GNSS de type timing.\n- Simulation d'horloges : Développer un simulateur d'horloges de noeuds : gigue de l'impulsion de référence, dérive de l'oscillateur, effet de la température, perte de la référence.\n- Campagne de mesure : Mener une courte campagne de mesure sur deux récepteurs GNSS réels pour caler les paramètres du modèle.\n- Algorithmes de compensation : Concevoir et comparer des algorithmes d'estimation de l'écart et de la dérive entre noeuds : moindres carrés, filtre de Kalman.\n- Analyse de résistance : Étudier le maintien de la synchronisation pendant une perte de référence et chiffrer l'apport d'un oscillateur plus stable.\n- Budget d'erreur : Établir le budget d'erreur de datation du réseau, selon le nombre de noeuds et la qualité de leurs horloges.\n- Spécification matériel : En déduire la gigue et la dérive tolérables par noeud, et rédiger la spécification de performance du matériel d'horodatage.\n\nLivrables clés attendus :\n\n- Simulateur documenté, testé et rejouable\n- Jeu de mesures et modèle d'horloge calé sur ces mesures\n- Étude comparative des algorithmes de compensation\n- Spécification chiffrée du matériel d'horodatage\n\n  \n Votre profil\n\nVous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur ou Master 2) avec une spécialité en traitement du signal, télécommunications, électronique ou mathématiques appliquées.\n\nPrérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n\nCompétences techniques :\n\n- Indispensables : Traitement du signal et estimation (filtrage, moindres carrés), probabilités et processus aléatoires, Python scientifique (NumPy, SciPy), Linux, Git et tests automatisés, validation d'un modèle par la mesure.\n- Appréciées : Filtre de Kalman, oscillateurs, PLL, variance d'Allan, récepteurs GNSS et signal PPS, simulation de Monte-Carlo, instrumentation (compteur de temps, oscilloscope).\n\nQualités personnelles :\n\n- Sens de la mesure : vous raisonnez en incertitudes et vous doutez d'un résultat trop beau.\n- Esprit critique sur vos modèles : un simulateur ne rend que ce qu'on y a mis.\n- Autonomie : vous advancez seul sur un problème et savez dire quand vous êtes bloqué.\n- Clarté à l'écrit : la spécification sera reprise par d'autres.\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
-      "dateCreation": "2026-10-16T14:35:05.158Z",
-      "dateActualisation": "2026-10-16T14:35:05.158Z",
-      "lieuTravail": {
-        "libelle": "92 - Issy-les-Moulineaux",
-        "codePostal": "92130",
-        "commune": "92040"
-      },
-      "romeCode": "M1841",
-      "romeLibelle": "Ingénieur informaticien / Ingénieure informaticienne",
-      "appellationlibelle": "Ingénieur informaticien / Ingénieure informaticienne",
-      "entreprise": {
-        "nom": "MOSS"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "74.90B",
-      "secteurActivite": "74",
-      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8012441",
-        "partenaires": [
-          {
-            "nom": "TALENTPLUG",
-            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=n9dB3zlUjbG4tfu/xjCn0A==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "8012351",
-      "intitule": "STAGE - Ingénieur(e) Systèmes Distribués et Réseaux Embarqués - R&D F/H",
-      "description": "Contexte & Enjeux du projet\n\nMOSS SAS développe un réseau de noeuds capteurs distribués dont la topologie évolue en permanence : des noeuds rejoignent ou quittent le réseau, tombent en panne, et la qualité des liaisons varie dans le temps. Aucun coordinateur central ne supervise l'ensemble. Le protocole réseau doit donc permettre aux noeuds de se découvrir, d'évaluer leurs liaisons et de se réorganiser seuls pour maintenir les communications.\n\nVous concevez et réalisez la première version de ce protocole.\n\nVos missions:\n\nSous la responsabilité et l'accompagnement de votre tuteur, vous interviendrez sur l'ensemble du cycle de conception et de validation :\n- Étude & Architecture : Étudier les protocoles épidémiques existants (SWIM, memberlist, Serf) et proposer une architecture adaptée à un réseau de 15 à 300 noeuds.\n- Spécification : Spécifier les messages d'annonce et de topologie (Protobuf) et la machine à états d'un noeud, du démarrage au mode isolé.\n- Développement : Développer le démon en Go ou en Rust pour Linux embarqué ARM, avec tests unitaires et intégration continue.\n- Algorithmique & Métriques : Implémenter un score de qualité de lien à plusieurs critères, lissé dans le temps, et le classement des voisins qui en découle.\n- Émulation & Banc de test : Monter un banc d'émulation de 15 à 50 noeuds avec pertes, gigue et pannes injectées, puis valider sur 4 cartes réelles.\n- Caractérisation & Benchmark : Mesurer le temps de reconvergence après panne et le débit par noeud, et les comparer aux objectifs fixés.\n\nLivrables clés attendus :\n\n- Spécification du protocole et des formats de messages\n- Code source testé et documenté\n- Banc d'émulation rejouable\n- Rapport de caractérisation chiffré\n  \n Votre profil\n\nVous préparez un diplôme de niveau Bac +5 (Dernière année d'école d'ingénieur ou Master 2) avec une spécialité en traitement du signal, télécommunications, électronique ou mathématiques appliquées.\n\nPrérequis : Convention de stage de 6 mois, Français courant, Anglais technique lu.\n\nCompétences techniques :\n\n- Indispensables : Traitement du signal et estimation (filtrage, moindres carrés), probabilités et processus aléatoires, Python scientifique (NumPy, SciPy), Linux, Git et tests automatisés, validation d'un modèle par la mesure.\n- Appréciées : Filtre de Kalman, oscillateurs, PLL, variance d'Allan, récepteurs GNSS et signal PPS, simulation de Monte-Carlo, instrumentation (compteur de temps, oscilloscope).\n\nQualités personnelles :\n\n- Sens de la mesure : vous raisonnez en incertitudes et vous doutez d'un résultat trop beau.\n- Esprit critique sur vos modèles : un simulateur ne rend que ce qu'on y a mis.\n- Autonomie : vous avancez seul sur un problème et savez dire quand vous êtes bloqué.\n- Clarté à l'écrit : la spécification sera reprise par d'autres.\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.",
-      "dateCreation": "2026-10-16T14:34:47.323Z",
-      "dateActualisation": "2026-10-16T14:34:47.323Z",
-      "lieuTravail": {
-        "libelle": "92 - Issy-les-Moulineaux",
-        "codePostal": "92130",
-        "commune": "92040"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Ingénieur / Ingénieure système réseau informatique",
-      "entreprise": {
-        "nom": "MOSS"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "74.90B",
-      "secteurActivite": "74",
-      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8012351",
-        "partenaires": [
-          {
-            "nom": "TALENTPLUG",
-            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=q8+ZXdZ7950JTfBrW7IfbQ==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7861465",
-      "intitule": "STAGE - Ingénieur(e) IA & Cybersécurité - Classification de Documents F/H",
-      "description": "Contexte & Enjeux du projet :\n\nDans le cadre de nos travaux d'innovation sur la Data-Centric Security (DCS), la protection des données repose sur une qualification et une classification précises des informations traitées.\n\nL'objectif de ce stage est d'étudier et d'évaluer l'apport de l'intelligence artificielle (IA) à la classification de sécurité des documents. Vous développerez un PoC local capable de proposer une classification adaptée à partir du contenu et du contexte d'un document, d'expliquer sa décision et de détecter les cas ambigus nécessitant une validation humaine.\n\nVos missions :\n\nSous la responsabilité et l'accompagnement direct de notre Équipe Architecture Cybersécurité, vous interviendrez sur l'ensemble de la démarche R&D :\n\n- État de l'art & Analyse : Étudier les approches pertinentes pour la classification (systèmes à base de règles, classifieurs sémantiques et modèles de langage exécutés localement).\n\n- Définition du cadre d'expérimentation : Définir la politique de classification expérimentale en concertation avec votre encadrant.\n\n- Constitution du jeu de données : Constituer un corpus synthétique annoté intégrant des cas simples, des cas contextuels et des cas ambigus.\n\n- Benchmarking & Analyse comparative : Comparer les différentes méthodes selon plusieurs critères (taux de sous-classification/surclassification, qualité et intelligibilité des justifications, temps de traitement).\n\n- Développement du PoC : Concevoir et développer un démonstrateur sous Python permettant de proposer, expliquer et faire valider une classification.\n\n- Restitution & Documentation : Présenter les résultats, la démonstration finale, les limites identifiées et former des recommandations pour la suite du projet.\n\nLivrables clés attendus : Corpus annoté, benchmark comparatif des méthodes, PoC documenté et démonstration finale.\n  \n Votre profil :\n\nVous préparez un diplôme de niveau Bac +5 (dernière année d'école d'ingénieurs ou Master 2) en informatique, intelligence artificielle ou cybersécurité.\n\nCompétences techniques :\n\n- Bonne maîtrise du langage Python.\n\n- Solides connaissances en apprentissage automatique (Machine Learning) et traitement automatique du langage naturel (NLP).\n\n- Pratique des outils Git et de l'environnement Linux.\n\n- Un plus apprécié : Expérience avec la bibliothèque PyTorch, l'architecture Transformers ou l'exécution locale de LLM.\n\n- Note : Une expertise préalable sur la Data-Centric Security (DCS) n'est pas requise pour ce stage.\n\n- Qualités personnelles : Rigueur expérimentale, curiosité technique, esprit critique et capacite à expliquer des choix d'IA (explicabilité).\n\nLe poste pouvant nécessiter d'accéder à des informations relevant du secret de la défense nationale, la personne retenue fera l'objet d'une procédure d'habilitation, conformément aux dispositions des articles R.2311-1 et suivants du Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.\n",
-      "dateCreation": "2026-10-12T14:33:59.052Z",
-      "dateActualisation": "2026-10-12T14:33:59.052Z",
-      "lieuTravail": {
-        "libelle": "92 - Issy-les-Moulineaux",
-        "codePostal": "92130",
-        "commune": "92040"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Ingénieur / Ingénieure sécurité informatique",
-      "entreprise": {
-        "nom": "MOSS"
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 6 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "74.90B",
-      "secteurActivite": "74",
-      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7861465",
-        "partenaires": [
-          {
-            "nom": "TALENTPLUG",
-            "url": "http://app.mytalentplug.com/redirection.aspx?ojid=55+pdHVW2ZATUfywFeW12g==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "7557397",
       "intitule": "Stage : Ingénieur/e plateforme IP V6 - Défense & Sécurité - Le Plessis-Robinson H/F",
       "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.\nActuellement, le système VCS est compatible IP V6, mais l'exigence n'a pas encore été formellement démontrée. Il s'agira de monter une plateforme représentative de notre système et vérifier le bon fonctionnement en mode IP V6 :\nVos missions :\nConcevoir la plateforme et la configurer,\nInstaller les logiciels,\nAvec les équipes logicielles, corriger les éventuels problèmes détectés,\nParticiper avec Eurocontrol aux Plug Test IP V6 en juin .\nEnvironnement technique\nVoIP,\nRéseau,\nContrôle Aérien,\nConteneurisation.",
       "dateCreation": "2026-10-01T12:13:28.681Z",
-      "dateActualisation": "2026-10-23T13:20:01.454Z",
+      "dateActualisation": "2026-11-14T14:41:22.155Z",
       "lieuTravail": {
         "libelle": "92 - Plessis-Robinson",
         "codePostal": "92350",
@@ -1462,7 +692,7 @@
       "intitule": "Stage : Ingénieur/e Sécurisation de la téléphonie - Défense & Sécurité - Le Plessis-Robinson H/F",
       "description": "Nous recrutons un/e stagiaire pour rejoindre notre BU Défense & Sécurité, au sein de l'agence Systèmes de Communications Vocales (SCV) qui contribue à l'évolution des systèmes de contrôle aérien, civils et militaires en réalisant des projets ambitieux basés sur ses produits innovants et ceux de ses partenaires.\nVous rejoindrez une équipe de 5 à 10 personnes, intégrant des développeurs, des valideurs, des ingénieurs systèmes et des experts en systèmes de communication vocaux (VCS).\nVos missions :\nAnalyser la mise en œuvre d'une solution de SBC (Session Border Control)  en mode cluster permettant de sécuriser les communications entre deux réseaux,\nContrainte vis-à-vis de nos systèmes et du raccordement réseau, montage de la plate-forme de test,\nTest de la solution dans un environnement simulant l'environnement d'interconnexion téléphonique d'Eurocontrol,\nPerformance de la haute-disponibilité (délai, perte éventuelle d'appel),\nAnalyse des qualités et défauts de la solution => proposition d'amélioration de notre infrastructure réseau et applicative...\nEnvironnement technique\nHTTPS\nVoIP,\nSIP, proxy-SIP,\nPare-feu",
       "dateCreation": "2026-10-01T12:13:28.140Z",
-      "dateActualisation": "2026-10-23T13:20:01.459Z",
+      "dateActualisation": "2026-11-14T14:41:22.370Z",
       "lieuTravail": {
         "libelle": "92 - Plessis-Robinson",
         "codePostal": "92350",
@@ -1489,250 +719,6 @@
             "nom": "DIRECTEMPLOI",
             "url": "https://www.directemploi.com/candidatOffre/56550478?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7425425",
-      "intitule": "Stage Business Analyst - Défense & Sécurité - Lille H/F",
-      "description": "Le secteur Défense et Sécurité doit relever de nombreux défis : assurer l'efficacité opérationnelle de nos clients, concevoir et mettre à disposition des forces des solutions sécurisées et souveraines dans un contexte où l'excellence et l'innovation font le succès de nos projets année après année. \nNous recherchons un(e) Business Analyst pour intégrer notre Agence SIOC (Système d'Informations des Opérations de Commandement) basée à Chartres-de-Bretagne. Celle-ci consacre ses activités au développement et à l'expérimentation d'innovations dans le domaine du commandement, de la simulation et de l'espace permettant de répondre à des besoins des différents milieux de la Défense (Air & Espace, Marine, Terre).\nVotre rôle et vos missions :\nSous la responsabilité d'un(e) chef(fe) de projet, vous intervenez sur toute la chaîne de valeur du cycle de projet au sein d'une équipe pluridisplinaire, dynamique et soudée.\nEn tant que Business Analyst :\nVous participez à la traduction du besoin métier en proximité du client. Vous aidez à l'expression du besoin métier, rédigez le cahier des charges ou les « Users Stories. Vous établissez les spécifications fonctionnelles générales ou détaillées sur la base d'expression de besoins ;\nVous définissez la stratégie de test, les plans de test puis coordonnez les tests et la recette ;\nVous intervenez en support des équipes projet lors de la phase de réalisation pour expliquer le besoin métier, guider les développeurs et préciser les solutions ;\nEn post livraison, vous participez au maintien en condition opérationnelle et accompagnez le métier dans la conduite du changement via la rédaction des documentations utiles au support futur. Vous formez et maintenez à niveau les « Key-users » (relais métiers).\nVous êtes garant de la solution et de l'engagement client. Vous participez activement à l'établissement du backlog de la solution et suivez sa réalisation tout au long du projet. \nVous pratiquez sur nos projets la méthode agile : Scrum/Kanban/SAFe.\nVous serez accompagné par un manager, en proximité, qui vous accompagnera dans vos choix d'orientation et de carrière. Un catalogue de formations certifiantes vous permet d'acquérir ou de perfectionner vos compétences.\nAu-delà des projets, vous aurez l'opportunité de vous impliquer dans les communautés locales, nationales ou internationales. Les thématiques couvrent un large spectre d'innovations, de technologies ou encore de vie au travail et en dehors (Réserve militaire). De quoi développer de nouvelles aptitudes et satisfaire votre envie de contribuer autrement.",
-      "dateCreation": "2026-09-26T12:03:01.055Z",
-      "dateActualisation": "2026-10-23T13:17:54.139Z",
-      "lieuTravail": {
-        "libelle": "59 - Villeneuve-d'Ascq",
-        "codePostal": "59491",
-        "commune": "59009"
-      },
-      "romeCode": "M1806",
-      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
-      "appellationlibelle": "Business analyst",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7425425",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56504862?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093047",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Industrie 5.0 et performance des opérations, au cœur des stratégies et des transformations des acteurs industriels.  (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste La recherche de performance opérationnelle est au cœur des problématiques des entreprises industrielles et des transformations opérées par ces dernières. Définir les bonnes stratégies, indicateurs et décliner les feuilles de routes pour atteindre les objectifs est un exercice constant pour s'adapter à un environnement de plus en plus complexe et challengeant.   Identifier les enjeux clés est un point de départ à l'élaboration ou à la mise à jour d'un plan de transformation. L'usine du futur est-elle guidée par l'IA, les outils digitaux, l'humain ou les 3 ? Les enjeux d'une usine sont-ils l'efficacité opérationnelle, la réduction de son impact environnemental ou le développement de ses ressources humaines ? Aidez Wavestone, au travers de la practice TIME (Transport, Infrastructure, Manufacturing & Energy), à développer ses convictions sur ces sujets.  L'objectif du stage de fin d'études ou de l'alternance:  Le stage / l'alternance pourra se concentrer sur un ou plusieurs aspects de la performance industrielle, des enjeux clés actuels des entreprises industrielles, de la recherche de performance par la transformation digitale et des impacts des transformations au sein des organisations.  Travaux à réaliser :   Sous la supervision d'un tuteur, et avec l'aide d'une équipe de consultants experts en industrie, opérations & technologies, le stagiaire/l'alternant devra :   Cadrer et identifier la problématique cible liée à la performance des opérations industrielles et/ou à l'industrie 5.0.  Identifier les enjeux clés liés à sa problématique, comprendre leur importance pour une entreprise industrielle et orienter sa recherche vers les leviers principaux de transformation et les impacts associés.  Etablir une analyse de maturité de nos clients sur la thématique adoptée et dégager des tendances sur les freins et accélérateurs, pour aboutir à l'identification de nouvelles convictions cabinet et/ou à la révision de convictions existantes.  Synthétiser les convictions de Wavestone en la matière pour renforcer les recommandations de Wavestone pour ses clients et la notoriété du cabinet.  En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de proposition.  Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoin...",
-      "dateCreation": "2026-09-22T10:09:39.407Z",
-      "dateActualisation": "2026-09-22T10:09:39.407Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093047",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342995-stage-de-fin-d-etudes-alternance-sujet-de-stage-industrie-5-0-et-performance-des-operations-au-coeur-des-strategies-et-des-transformations-des-acteurs-industriels?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093038",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Management des directions Recherche et Innovation (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Les directions Recherche & Innovation (R&I) sont aujourd'hui confrontées à des défis majeurs : démontrer leur valeur, accélérer la mise sur le marché des innovations, tirer parti de l'IA et de la donnée, renforcer leurs écosystèmes et intégrer les enjeux de durabilité au cœur de leurs démarches. Au sein de l'offre Stratégie et Management R&I de Wavestone, nous accompagnons les grandes entreprises industrielles et technologiques dans la transformation de leurs activités d'innovation, de la définition de la stratégie jusqu'à la mise en œuvre opérationnelle. Notre accompagnement s'articule autour de 6 piliers complémentaires : Stratégie, pilotage et performance de l'innovation : définir les feuilles de route R&I, mesurer la création de valeur, optimiser les portefeuilles de projets et mettre en place des dispositifs de pilotage performants. Open innovation et financement : développer les écosystèmes d'innovation, structurer les partenariats avec les startups, laboratoires et institutions, et mobiliser les dispositifs de financement publics et privés. Produits et services innovants : faire émerger, expérimenter et industrialiser de nouvelles offres, depuis l'idéation et le prototypage jusqu'au déploiement à grande échelle. Data & IA au service de la R&I : valoriser la donnée, déployer l'intelligence artificielle générative, digitaliser les activités de recherche et construire des organisations davantage pilotées par les données. Acculturation et transformation : faire évoluer les organisations, les compétences et les modes de travail pour diffuser une culture de l'innovation durable et collaborative. Innovation durable : intégrer les enjeux environnementaux et sociétaux dans les stratégies d'innovation, développer l'éco-innovation et imaginer les business models de demain. Objectifs et exemples de travaux à réaliser Ce stage/cette alternance vise à structurer et produire une connaissance et un savoir-faire de premier plan sur un ou plusieurs leviers listés ci-dessus. Les résultats devront apporter à Wavestone des atouts différenciants sur le marché. Dans ce cadre, sous l'encadrement d'un tuteur et d'un sponsor de l'offre « Stratégie et management R&I », vous serez amené.e à travailler sur le type de problématiques présentées ci-dessous : Stratégie & performance : Comment restituer la valeur de la R&D dans un environnement industriel ? Data & IA : AI Agents : Demain, un chercheur aura-t-il son copilote scientifique ? Innovation durable : Comment scorer l'innovation d'un point de vue durable ? Open innovation : Benchmark sur les dispositifs partagés d'innovation sur la data de demain Exemples de sujets donnés à titre illustratif, liste non exhaustive En parallèle, vous participerez potentiellement à une ou plusieurs missions de conseil auprès de nos clients, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un directeur de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un e...",
-      "dateCreation": "2026-09-22T10:09:39.386Z",
-      "dateActualisation": "2026-09-22T10:09:39.386Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093038",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342992-stage-de-fin-d-etudes-alternance-sujet-de-stage-management-des-directions-recherche-et-innovation?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093035",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Transformation SI : transformer les SI pour répondre aux nouveaux enjeux du monde industriel et énergétique  (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Dans un contexte où l'intelligence artificielle s'intègre désormais dans les moindres recoins de l'entreprise - jusqu'à la machine à café -, où les opérations de fusion-acquisition se succèdent à un rythme soutenu, et où les cadres réglementaires évoluent avec une fréquence difficilement prévisible, les entreprises font face à une nécessité impérieuse : se réinventer pour rester compétitives. Notre mission au sein de la BU TIME (Transport, Infrastructure, Manufacturing & Energy) - et peut-être bientôt la vôtre - est d'accompagner les grandes entreprises dans la refonte, la modernisation et l'alignement de leur système d'information avec leurs ambitions stratégiques. Nous combinons vision, pragmatisme et exigence de résultats pour transformer les idées en actions concrètes. Car si les présentations soignées font bonne impression, ce sont les impacts mesurables qui font vraiment la différence. Nos terrains de jeu favoris : Architecture des systèmes d'information (SI) : concevoir un système d'information cohérent, modulaire et évolutif, capable d'intégrer les nouvelles technologies (cloud, IA, data) tout en répondant aux besoins métiers. Target Operating Model (TOM) : organiser les équipes et les outils pour assurer la fluidité dans les opérations, même en mode Agile. M&A IT : fusionner des SI sans provoquer de crash. Votre mission : Renforcer notre expertise sur la transformation des SI au service du business. Concrètement ? Vous allez produire des livrables qui comptent vraiment : utiles, différenciants, et qui font briller nos missions. et nos clients. Et bien sûr, vous ne serez pas seul-e dans l'aventure : Un tuteur et un sponsor de l'offre vous accompagneront sur des sujets aussi passionnants que stratégiques. Vous serez également pleinement intégré.e à la vie de l'équipe : participation à l'élaboration de propositions commerciales, intégration en mission client, contribution au knowledge management. Bref, un environnement stimulant, où l'on apprend vite, ensemble, et dans la bonne humeur. Quelques exemples de défis qui vous attendent : - Automatiser la MaJ de cartographie applicative pour ne plus traiter les écarts à la main, - Définir des indicateurs de pilotage, GreenOps, de gestion de parc applicatif, ou d'autres encore., - Injecter de l'IA dans les processus IT pour les rendre plus efficaces, - Harmoniser une DSI post-fusion : agir au meilleur niveau pour remettre de l'ordre dans l'organigramme, - Définir une stratégie cloud sur mesure pour SAP S/4 HANA (et faire fondre les coûts). En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous save...",
-      "dateCreation": "2026-09-22T10:09:38.911Z",
-      "dateActualisation": "2026-09-22T10:09:38.911Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093035",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342996-stage-de-fin-d-etudes-alternance-sujet-de-stage-transformation-si-transformer-les-si-pour-repondre-aux-nouveaux-enjeux-du-monde-industriel-et-energetique-1?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093024",
-      "intitule": "Stage de fin d'études / Alternance - Sujet de stage : Performance et digitalisation de l'ingénierie (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Wavestone, au travers de la practice TIME (Transport, Infrastructure, Manufacturing & Energy), accompagne les industriels dans leurs programmes de « Performance & Digitalisation de l'ingénierie » : Comment améliorer la phase conception et développement produit en optimisant les organisations, les processus et méthodes de travail, et en s'appuyant sur les solutions digitales (PLM, BIM, Jumeau numérique, etc.) et sur l'intelligence artificielle ?  Nous intervenons auprès des directions R&D, directions d'ingénierie et bureaux d'étude afin de :  Définir la stratégie de développement produit et l'organisation de l'ingénierie   Optimiser les méthodes et processus de développement produit (ingénierie système, gestion des exigences, gestion de configuration, gestion des interfaces.)  Digitaliser les activités d'ingénierie sur l'ensemble du cycle de vie du produit (conception, production, exploitation, recyclage, etc.) dans le but d'assurer la continuité numérique  Accompagner les transformations auprès des équipes d'ingénierie : formation, communication  Ce stage / cette alternance vise à structurer et produire une connaissance et un savoir-faire de premier plan sur un ou plusieurs leviers listés ci-dessus. Les résultats devront apporter à Wavestone des atouts différenciants sur le marché.  Dans ce cadre, sous l'encadrement d'un tuteur et d'un sponsor de l'offre, vous serez amené.es à travailler sur le type de problématiques présentées ci-dessous :   Quelle est la place du PLM dans l'industrie 4.0 ?  Comment les acteurs évoluent-ils vers une continuité numérique de bout en bout ? Comment travaillent les industriels avec leur écosystème en entreprise étendue ?  Comment les jumeaux numériques, le BIM et le PLM transforment-ils le développement produit ? Comment l'intelligence artificielle peut permettre d'accélérer les phases de conception d'un produit ? Comment intégrer l'impact environnemental dès la phase d'ingénierie ? En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de proposition.  Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoindre nos équipes et postulez ! Informations supplémentairesNos stages et alternance s'inscrivent tous dans une logique de pré-embauche.Wavestone est un employeur inc...",
-      "dateCreation": "2026-09-22T10:09:36.493Z",
-      "dateActualisation": "2026-09-22T10:09:36.493Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093024",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342994-stage-de-fin-d-etudes-alternance-sujet-de-stage-performance-et-digitalisation-de-l-ingenierie?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "7093023",
-      "intitule": " Stage de fin d'études / Alternance - Sujet de stage : Financement de l'innovation et de la R&D (H/F)",
-      "description": "\n            Description de l'entrepriseWavestone est un cabinet de conseil, qui a pour mission d'accompagner les entreprises et organisations dans leurs transformations stratégiques dans un monde en constante évolution, avec l'ambition de générer des impacts positifs et durables pour toutes ses parties prenantes. Forts de plus de 5500 collaborateurs talentueux et engagés à travers l'Europe, l'Amérique du Nord et l'Asie, nous disposons d'expertises sectorielles de premier plan et d'un portefeuille de savoir-faire cross-sectoriels, nous permettant d'adresser à 360° les grands programmes de transformation de nos clients. Chez Wavestone, nous sommes convaincus que la réussite professionnelle et l'épanouissement personnel vont de pair. C'est pourquoi nous offrons un environnement de travail stimulant, inclusif et bienveillant, où chacun peut s'épanouir et atteindre son plein potentiel. Wavestone est coté sur Euronext, à Paris, et labellisé Great Place to Work®. Pour plus d'informations, consulter www.wavestone.com.  Description du posteDescription de la Business Unit TIME TIME (Transport, Infrastructure, Manufacturing, Energy) accompagne les leaders industriels et énergétiques dans leur digitalisation. Nous soutenons leurs projets de transformation des systèmes d'information, de la définition de la stratégie IT au choix et au déploiement des solutions (ERP, EPM, TMS, WMS, CRM.), ainsi que la transformation des métiers tout au long de la chaîne de valeur (R&D, Production, Supply, Vente, Marketing). Nous accélérons également l'adoption des technologies digitales en aidant nos clients à valoriser leurs données et à industrialiser l'innovation, notamment via l'IoT, la GenAI et les jumeaux numériques. Notre accompagnement repose sur des expertises sectorielles, fonctionnelles et technologiques, continuellement renforcées par la veille et la formation. Description du poste Construire un pôle européen de l'innovation est un enjeu clef pour l'UE et pour la France : créer des emplois, pérenniser la croissance économique, gagner en attractivité, conserver ou développer la R&D sur le sol européen. Des politiques publiques nationales et européennes de financement de l'innovation ont ainsi vue le jour afin d'inciter les acteurs à augmenter leurs investissements en R&D.  Wavestone, au travers de la practice TIME (Transport, Infrastructure, Manufacturing & Energy), se propose d'accompagner les grands comptes et PME dans leur stratégie de financement de l'innovation, à travers son expertise technique, financière et fiscale des dispositifs de financement tel que les subventions, le Crédit d'Impôt Recherche et les dispositifs complémentaires (IP Box, CICO, CII, JEI, etc.). L'objectif est de s'inscrire comme partenaire de programmes d'excellence et de transformation à fort impact (nouveaux produits, transition énergétique, décarbonation, intelligence artificielle, industrie 4.0, etc.). Afin de comprendre les tendances actuelles et futures du financement de l'innovation, encadré d'un.e tuteur.ice et d'expert.es, le ou la stagiaire/alternant.e sera amené.e à travailler sur des problématiques telles que : L'utilisation de l'IA générative pour accompagner les industriels dans le financement de leur R&D Etude de la dynamique et des conséquences des contrôles fiscaux sur la R&D des entreprises Etude des financements de la R&D dans le domaine de l'énergie En parallèle du sujet de stage que vous aurez à traiter, vous participerez à une ou plusieurs missions de conseil auprès de nos clients, ou sur des chantiers internes, en étant intégré dans une équipe de consultants placée sous la responsabilité d'un.e directeur.ice de mission. QualificationsEtudiant.e au sein d'une école d'ingénieur ou de management, vous êtes à la recherche d'un stage de fin d'études ou d'une alternance dans un cabinet de conseil. Vous possédez un excellent relationnel, le goût du travail en équipe et un sens prononcé de la qualité. Vous savez associer analyse et synthèse et être force de proposition.  Si votre objectif est d'être considéré comme un.e collaborateur.rice à part entière : soucieux.se d'être acteur d'un projet d'entreprise ambitieux, ayant envie de mettre à profit son talent et son enthousiasme dans une société où il est possible de prendre des responsabilités rapidement et de vivre une expérience riche, alors donnez-vous les chances de rejoindre nos équipes et postulez ! Informations supplémentairesNos stages et alternances s'inscrivent tous dans une logique de pré-embauche.  Wavestone est un employeur inclusif qui s'engage pour l'égalité des chances. Dans le cadre de cette politique de diversité et inclusion, Wavestone accompagne les personnes en situation de handicap et/ou nécessitant un aménagement durant leur process de recrutement et lors de leur prise de poste. \n            ",
-      "dateCreation": "2026-09-22T10:09:36.492Z",
-      "dateActualisation": "2026-09-22T10:09:36.492Z",
-      "lieuTravail": {
-        "libelle": "92 - Nanterre",
-        "codePostal": "92000",
-        "commune": "92050"
-      },
-      "romeCode": "M1805",
-      "romeLibelle": "Développeur / Développeuse informatique",
-      "appellationlibelle": "Programmeur / Programmeuse d'études",
-      "entreprise": {},
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat apprentissage",
-      "experienceExige": "E",
-      "experienceLibelle": "0 An(s)",
-      "salaire": {},
-      "alternance": true,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "7",
-      "qualificationLibelle": "Technicien",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093023",
-        "partenaires": [
-          {
-            "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/315-wavestone/342999-stage-de-fin-d-etudes-alternance-sujet-de-stage-financement-de-l-innovation-et-de-la-r-d?src=FranceTravail",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
           }
         ]
       },
